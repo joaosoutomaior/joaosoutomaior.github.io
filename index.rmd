@@ -91,7 +91,7 @@ Department of Applied Statistics, Social Science and Humanities at the New York 
 <br>
 **Research interests** 
 <br>
-Computational social science; within-school inequalities
+Computational methods; agent-based-modeling; school organization; within-school racial and socioeconomic inequalities.
 </p2> 
 <br>
 <br>
@@ -104,7 +104,8 @@ Computational social science; within-school inequalities
 
 ### About
 
-I am a fourth-year PhD student ---at the candidacy level--- in the [Sociology of Education program](https://steinhardt.nyu.edu/programs/sociology-education) in the Department of Applied Statistics, Social Science and Humanities at New York University's Steinhardt School of Culture, Education and Human Development. My research investigates the formation of educational inequalities within educational institutions, particularly along dimensions of race and class. Two primary goals inform such investigations. First, to rigorously quantify the extent to which organizational practices produce race- and class-based educational inequalities. Second, to understand the underlying mechanisms through which educational practices produce these inequalities. To address these goals, I rely on a variety of quantitative methods, with a primary focus on agent-based simulation approaches, hoping to advance the use of computational methods within the sociology of education. 
+I am a fifth-year PhD student in the [Sociology of Education program](https://steinhardt.nyu.edu/programs/sociology-education) in the Department of Applied Statistics, Social Science and Humanities at New York University's Steinhardt School of Culture, Education and Human Development. Broadly, I study the processes which shape unequal access to educational resources, particularly along dimensions of race and class. My current research investigates the formation of educational inequalities within educational institutions, with an emphasis on the role of organizational practices in producing these within-institution inequalities. I rely on a variety of quantitative methods, with an emphasis on agent-based modeling techniques, hoping to advance the use of computational methods---and the insights derived from it--- within the fields of sociology of education and education policy. 
+
 
 I am originally from São Paulo, Brazil. I received my BA in economics from the University of Wisconsin-Madison in 2017. After my undergraduate studies, I started as an economics doctoral student at the CUNY Graduate Center, where I studied for a year before transferring to NYU.
 
@@ -122,7 +123,7 @@ Column {data-width=600} {.tabset}
 <phead>
 <up>Black-White advanced enrollment inequalities and the racial composition of schools: an agent-based modeling investigation</up>
 <br>
-<p1>Souto-Maior, J.</p1> *Expected submission: June, 2022*
+<p1>Souto-Maior, J.</p1> *Expected submission: July, 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('1')" class="button" style="float: left">DETAILS</button>
@@ -140,7 +141,7 @@ This is one of the papers which constitute my doctoral dissertation. The purpose
 <div class="card" data-paper="2">
 <pbox>
 <phead>
-<up>Testing for "unjustified" Black-White advanced enrollment inequalities: evidence from NYC high schools</up>
+<up>Do AP enrollment processes favor certain racial groups? Measuring unjustified disparities in advanced course-taking in New York City high schools</up>
 <br>
 <p1>Souto-Maior, J.</p1> & Shroff, R. *Expected submission: June, 2022*
 <br>
@@ -160,7 +161,7 @@ We investigate and quantify the extent to which observed Black-White enrollment 
 <div class="card" data-paper="3">
 <pbox>
 <phead>
-<up>Determinants of race- and class-based educational inequality within Brazilian high schools</up>
+<up>Determinants of race- and class-based educational inequalities within Brazilian high schools</up>
 <br>
 <p1>Souto-Maior, J.</p1> *Expected submission: July, 2022*
 <br>
