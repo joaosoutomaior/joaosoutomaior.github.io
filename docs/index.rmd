@@ -141,7 +141,7 @@ This is one of the papers which constitute my doctoral dissertation. The purpose
 <div class="card" data-paper="2">
 <pbox>
 <phead>
-<up>Do AP enrollment processes favor certain racial groups? Measuring unjustified disparities in advanced course-taking in New York City high schools</up>
+<up>The limited role of academic preparedness in explaining Black-White enrollment disparities in advanced high school coursework </up>
 <br>
 <p1>Souto-Maior, J.</p1> & Shroff, R. *Expected submission: June, 2022*
 <br>
@@ -152,7 +152,7 @@ This is one of the papers which constitute my doctoral dissertation. The purpose
 <br>
 <span class="dots"></span><span class="more" style="display: none">
 <pmain>
-We investigate and quantify the extent to which observed Black-White enrollment disparities in Advanced Placement mathematics courses are "unjustified" by the main principle governing student placement decisions---i.e., students' academic preparedness. Using detailed administrative data from New York paper high schools, we use a machine-learning-based approach to construct our own measure of academic preparedness and find that the under-representation of Black students relative to White students in AP mathematics is not fully explained by students' differences in academic preparedness
+We investigate and quantify the extent to which observed Black-White enrollment disparities in Advanced Placement mathematics courses are "unjustified" by the main principle governing student placement decisions---i.e., students' academic preparedness. Using detailed administrative data from a large urban public school district, we use a machine-learning-based approach to construct our own measure of academic preparedness and find that the under-representation of Black students relative to White students in AP mathematics is not fully explained by students' differences in academic preparedness
 </pmain>
 </pbox>
 </span>
