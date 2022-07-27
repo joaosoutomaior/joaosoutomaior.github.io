@@ -2903,6 +2903,22 @@ function readMore3(item) {
         moreText.style.display = "inline";
     }
 }
+
+function readMore4(topic) {
+    let dots = document.querySelector(`.card[data-topic="${topic}"] .dots`);
+    let moreText = document.querySelector(`.card[data-topic="${topic}"] .more`); 
+    let btnText = document.querySelector(`.card[data-topic="${topic}"] .button`);
+
+    if (dots.style.display === "none") {
+        dots.style.display = "inline";
+        btnText.textContent = "DETAILS";
+        moreText.style.display = "none";
+    } else {
+        dots.style.display = "none";
+        btnText.textContent = "LESS"; 
+        moreText.style.display = "inline";
+    }
+}
 </script>
 <div id="column" class="section level2" data-width="400">
 <h2>Column</h2>
@@ -2955,45 +2971,66 @@ hyphenated version of my last name: João M. Souto-Maior</p>
 <h2 class="tabset">Column {data-width=600}</h2>
 <div id="research" class="section level3">
 <h3>Research</h3>
-<p><subheading>Working papers</subheading></p>
+<p><subheading>Under review</subheading></p>
 <div class="card" data-paper="1">
 <p><pbox> <phead> <up>Black-White advanced enrollment inequalities and
-the racial composition of schools: an agent-based modeling
-investigation</up> <br> <p1>Souto-Maior, J.</p1> <em>Expected
-submission: July, 2022</em> <br> <left style="float: left">
+the share of White students in school: an agent-based modeling
+investigation</up> <br> <p1>Souto-Maior, J.</p1> <em>Submitted: July,
+2022</em> <br> <left style="float: left">
 <button onclick="readMore1(&#39;1&#39;)" class="button" style="float: left">DETAILS</button>
-</left> </phead> <br> <span class="dots"></span><span class="more" style="display: none"> <pmain> This is one of the papers which
-constitute my doctoral dissertation. The purpose of the project is to
-identify the mechanisms generating Black-White academic disparities in
-integrated school settings. The project constructs a series of
-qualitatively-informed agent-based models that highlight the mechanisms
-generating black-white advanced course-taking inequalities within
-schools. Models show how the racial composition of schools and different
-tracking systems influence the salience of the generative mechanisms.
-Models are constructed, evaluated and applied to national data from
-American schools. </pmain> </pbox> </span></p>
+</left> </phead> <br> <span class="dots"></span><span class="more" style="display: none"> <pmain> <strong>Abstract:</strong> This article
+investigates mechanism-based explanations for a puzzling finding in the
+sociology of education, namely, that Black-White unequal access to
+educational resources — defined as advanced coursework — is the highest
+in racially diverse and majority-White schools. Because relative group
+size is known to influence the probability of same-race ties, this study
+considers the hypothesis that this compositional effect operates through
+the influence of the racial composition of schools on informal,
+interaction-dependent, process shaping student advanced enrollment. I
+construct a qualitatively informed agent-based model which explores how
+the share of White students in the school shapes two particular informal
+processes: students’ peer culture and parents’ opportunity hoarding. The
+model is endowed with empirically calibrated social networks and is
+validated against a sample of US public schools. Simulation-based
+experiments show that both informal processes considered here tend to
+produce higher enrollment inequalities between comparable Black and
+White students as the share of White students in the school increases.
+Results shed light into policy strategies to improve the educational
+experiences of Black students in majority-White schools. At a
+methodological level, the study illustrates the promise of agent-based
+modelling investigations to better understand the complex informal
+dynamics of school organizations. </pmain> </pbox> </span></p>
 </div>
 <div class="card" data-paper="2">
 <p><pbox> <phead> <up>The limited role of academic preparedness in
 explaining Black-White enrollment disparities in advanced high school
 coursework </up> <br> <p1>Souto-Maior, J.</p1> &amp; Shroff, R.
-<em>Expected submission: June, 2022</em> <br> <left style="float: left">
+<em>Submitted: July, 2022</em> <br> <left style="float: left">
 <button onclick="readMore1(&#39;2&#39;)" class="button" style="float: left">DETAILS</button>
-</left> </phead> <br> <span class="dots"></span><span class="more" style="display: none"> <pmain> We investigate and quantify the extent to
-which observed Black-White enrollment disparities in Advanced Placement
-mathematics courses are “unjustified” by the main principle governing
-student placement decisions—i.e., students’ academic preparedness. Using
-detailed administrative data from a large urban public school district,
-we use a machine-learning-based approach to construct our own measure of
-academic preparedness and find that the under-representation of Black
-students relative to White students in AP mathematics is not fully
-explained by students’ differences in academic preparedness </pmain>
-</pbox> </span></p>
+</left> </phead> <br> <span class="dots"></span><span class="more" style="display: none"> <pmain> <strong>Abstract:</strong> Whether US
+high school Advanced Placement enrollment processes favor some race
+groups over others is a central empirical question in educational
+research and policy.However, previous investigations face methodological
+limitations, for they compare enrollment rates of students after
+adjusting for characteristics only partially related to academic
+preparedness for advanced coursework. Informed by a recently-developed
+statistical technique, we propose and estimate a novel measure of
+students’ academic preparedness and use administrative data from a
+large, urban, public school system to measure ``preparedness-adjusted”
+Black-White disparities in AP mathematics enrollment, i.e., differences
+in enrollment rates among similarly prepared students of different
+races. We find that preexisting differences in academic preparation do
+not fully explain the under-representation of Black students relative to
+White students in AP mathematics. Our results imply that achieving equal
+opportunities for AP enrollment not only require equalizing earlier
+academic experiences, but also addressing inequities that emerge from
+coursework placement processes. </pmain> </pbox> </span></p>
 </div>
+<p><subheading>Working papers</subheading></p>
 <div class="card" data-paper="3">
 <p><pbox> <phead> <up>Determinants of race- and class-based educational
 inequalities within Brazilian high schools</up> <br> <p1>Souto-Maior,
-J.</p1> <em>Expected submission: July, 2022</em> <br>
+J.</p1> <em>Expected submission: August, 2022</em> <br>
 <left style="float: left">
 <button onclick="readMore1(&#39;3&#39;)" class="button" style="float: left">DETAILS</button>
 <a href="https://joaomsoutomaior.shinyapps.io/SaoPaulo_HighSchools_ENEM2019/" target="_blank" class="a2">DASHBOARD</a>
@@ -3034,11 +3071,17 @@ investigation</up> <br> <p1>Souto-Maior, J.</p1> <em>American
 Sociological Association: Session on Mathematical and Computational
 Approaches to Studying Inequality, Upcoming (August, 2022)</em> </phead>
 </pbox></p>
+<p><pbox> <phead> <up>Black-White advanced enrollment inequalities and
+the racial composition of schools: an agent-based modeling
+investigation</up> <br> <p1>Souto-Maior, J.</p1> <em>The Seventh Joint
+US-Japan Conference on Mathematical Sociology and Rational Choice,
+Upcoming (August, 2022)</em> </phead> </pbox></p>
 <p><subheading>Other presentations</subheading></p>
 <p><pbox> <phead> <up>Opportunity hoarding and Black-White inequalities
 in advanced enrollment: a simulation-based approach</up> <br>
-<p1>Souto-Maior, J.</p1> <em>Race and Ethnipaper Workshop, NYU’s
-Department of Sociology, February, 2021</em> </phead> </pbox></p>
+<p1>Souto-Maior, J.</p1> <em>Race and Ethnicity Workshop, New York
+University’s Department of Sociology (February, 2021)</em> </phead>
+</pbox></p>
 </div>
 <div id="teaching" class="section level3">
 <h3>Teaching</h3>
@@ -3182,6 +3225,25 @@ school characteristics contribute to or mitigate the production of
 academic inequality within schools. My literature review focuses on four
 key themes: (1) peer networks, (2) student course taking, (3) teacher
 expectations and (4) parental influence. </pmain> </pbox> </span></p>
+</div>
+</div>
+<div id="other-academic-involvement" class="section level3">
+<h3>Other academic involvement</h3>
+<div class="card" data-topic="1">
+<p><pbox> <phead> <up>Host of New Books in Education</up> <br> A podcast
+channel of the New Books Network (NBN) <br> <left style="float: left">
+<button onclick="readMore4(&#39;1&#39;)" class="button" style="float: left" style="float: right">DETAILS</button>
+<a href="https://podcasts.apple.com/us/podcast/new-books-in-education/id426205817" target="_blank" class="a2">New
+Books in Education podcast</a>
+<a href="https://newbooksnetwork.com/" target="_blank" class="a2">NBN
+website</a> </left> </phead> <br> <span class="dots"></span><span class="more" style="display: none;"> <pmain> The NBN is the largest book
+podcast network in the world, reaching hundreds of thousands of
+listeners a month and with listeners downloading well over a million NBN
+episodes each month. The purpose of NBN interviews is to allow authors
+to tell the audience what they found in their research and what they
+wrote in their books. It is a wonderful idea, connecting authors with a
+large audience worldwide, and advancing the broad goal of public
+education. </pmain> </pbox> </span></p>
 </div>
 <style>
 button, button:active, button:visited {
