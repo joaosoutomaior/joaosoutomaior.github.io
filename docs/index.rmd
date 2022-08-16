@@ -135,14 +135,14 @@ Column {data-width=600} {.tabset}
 
 ### Research 
 
-<subheading>Under review</subheading>
+<subheading>Manuscripts under review</subheading>
 
 <div class="card" data-paper="1">
 <pbox>
 <phead>
 <up>Black-White advanced enrollment inequalities and the share of White students in school: an agent-based modeling investigation</up>
 <br>
-<p1>Souto-Maior, J.</p1> *Submitted: July, 2022*
+<p1>Joao Souto-Maior.</p1> *Submitted: July, 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('1')" class="button" style="float: left">DETAILS</button>
@@ -162,7 +162,7 @@ Column {data-width=600} {.tabset}
 <phead>
 <up>The limited role of academic preparedness in explaining Black-White enrollment disparities in advanced high school coursework </up>
 <br>
-<p1>Souto-Maior, J.</p1> & Shroff, R. *Submitted: July, 2022*
+<p1>Joao Souto-Maior</p1> & Ravi Shroff. *Submitted: July, 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('2')" class="button" style="float: left">DETAILS</button>
@@ -177,7 +177,7 @@ Column {data-width=600} {.tabset}
 </span>
 </div>
 
-<subheading>Working papers</subheading>
+<subheading>Manuscripts in preparation</subheading>
 
 
 <div class="card" data-paper="3">
@@ -185,7 +185,7 @@ Column {data-width=600} {.tabset}
 <phead>
 <up>Determinants of race- and class-based educational inequalities within Brazilian high schools</up>
 <br>
-<p1>Souto-Maior, J.</p1> *Expected submission: August, 2022*
+<p1>Joao Souto-Maior.</p1> *Expected submission: August, 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('3')" class="button" style="float: left">DETAILS</button>
@@ -206,7 +206,7 @@ This paper aims at filling the gap of descriptive investigations of within-schoo
 <phead>
 <up>Stepping out of the closet and into engagement: a quantitative analysis of outness, GSA engagement, and classroom engagement</up>
 <br>
-Sherwood, H., <p1>Souto-Maior, J.</p1>, Poteat, P., Yoshikawa, H., Calzo, J. *Expected submission: Sep., 2022* 
+Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Sep., 2022* 
 <br>
 <left style="float: left">
 <button onclick="readMore1('4')" class="button" style="float: left">DETAILS</button> <a href="https://github.com/joaosoutomaior/outness-engagement-GSAs-code" class = "a2" >CODE</a>
@@ -227,7 +227,7 @@ Using survey data from Massachusetts, New York paper, and San Diego schools, the
 <phead>
 <up>Black-White advanced enrollment inequalities and the racial composition of schools: an agent-based modeling investigation</up>
 <br>
-<p1>Souto-Maior, J.</p1> *American Sociological Association: Session on Mathematical and Computational Approaches to Studying Inequality, Upcoming (August, 2022)*
+<p1>Joao Souto-Maior.</p1> *American Sociological Association: Session on Mathematical and Computational Approaches to Studying Inequality*. 2022
 </phead>
 </pbox>
 
@@ -235,7 +235,7 @@ Using survey data from Massachusetts, New York paper, and San Diego schools, the
 <phead>
 <up>Black-White advanced enrollment inequalities and the racial composition of schools: an agent-based modeling investigation</up>
 <br>
-<p1>Souto-Maior, J.</p1> *The Seventh Joint US-Japan Conference on Mathematical Sociology and Rational Choice, Upcoming (August, 2022)*
+<p1>Joao Souto-Maior.</p1> *The Seventh Joint US-Japan Conference on Mathematical Sociology and Rational Choice, Upcoming*. 2022.
 </phead>
 </pbox>
 
@@ -245,14 +245,14 @@ Using survey data from Massachusetts, New York paper, and San Diego schools, the
 <phead>
 <up>Opportunity hoarding and Black-White inequalities in advanced enrollment: a simulation-based approach</up>
 <br>
-<p1>Souto-Maior, J.</p1> *Race and Ethnicity Workshop, New York University's Department of Sociology (February, 2021)*
+<p1>Joao Souto-Maior.</p1> *Race and Ethnicity Workshop, New York University's Department of Sociology.* 2021.
 </phead>
 </pbox>
 
 
 ### Teaching 
 
-<subheading>Discussion sections</subheading>
+<subheading>Laboratory sections</subheading>
 
 <div class="card" data-course="1">
 <pbox>
@@ -280,6 +280,8 @@ be used for data analysis.
 </pbox>
 </span>
 </div>
+
+<subheading>Discussion sections</subheading>
 
 <div class="card" data-course="2">
 <pbox>
@@ -470,7 +472,7 @@ A podcast channel of the New Books Network (NBN)
 <br>
 <left style="float: left">
 <button onclick="readMore4('1')" class="button" style="float: left" style="float: right">DETAILS</button>
-<a href="https://podcasts.apple.com/us/podcast/new-books-in-education/id426205817" target="_blank" class="a2">New Books in Education podcast</a> <a href="https://newbooksnetwork.com/" target="_blank" class="a2">NBN website</a> 
+<a href="https://podcasts.apple.com/us/podcast/new-books-in-education/id426205817" target="_blank" class="a2">WEBSITE</a> 
 </left>
 </phead>
 <br>
@@ -628,7 +630,6 @@ pmain{
 subheading{
   font-size: 16px;
   font-style: italic;
-  font-weight: bold;
   color: rgb(100,100,100);
 }
 
@@ -650,6 +651,10 @@ p2{
 p3{
   font-size: 24px;
   font-weight: bold;
+}
+
+.chart-title {  /* chart_title  */
+   font-size: 16px
 }
 
 up {
@@ -686,15 +691,23 @@ body {
 /*.navbar{
   display: none;
   opacity: 0
+  font-size: 16px;
 } */
 
 
 .nav-tabs-custom > .nav-tabs > li.active a {
     border-top-color: #2ECC71;
+    font-size: 16px;
 }
 
 .nav-tabs-custom > .nav-tabs > li.active{
     border-top-color: #2ECC71;
+    font-size: 16px;
+}
+
+
+.nav-tabs-custom .nav-tabs li:not(.active) a {
+  font-size: 16px;
 }
 
 </style>
