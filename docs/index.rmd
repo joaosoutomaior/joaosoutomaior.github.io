@@ -332,7 +332,7 @@ New York University --- Fall 2022
 <br>
 <left style="float: left">
 <button onclick="readMore2('3')" class="button" style="float: left" style="float: right">DETAILS</button>
-<a href=" " target="_blank" class="a3">Fall 22</a>
+<a href=" " target="_blank" class="a3">FALL 22</a>
 </left>
 </phead>
 <br>
