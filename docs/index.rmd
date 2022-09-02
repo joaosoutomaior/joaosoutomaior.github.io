@@ -105,7 +105,7 @@ Column {data-width=400}
 <br>
 **PhD Candidate, Sociology of Education**
 <br>
-Department of Applied Statistics, Social Science and Humanities at the New York University
+New York University
 <br>
 <br>
 **Research interests** 
@@ -123,10 +123,10 @@ School organization; Within-school racial and socioeconomic inequalities; Studen
 
 ### About
 
-I am a fifth-year Ph.D. student in [Sociology of Education](https://steinhardt.nyu.edu/programs/sociology-education) in the Department of Applied Statistics, Social Science and Humanities at New York University's Steinhardt School of Culture, Education and Human Development. I am interested in understanding how the organization of schools influences the learning experiences of students and how it shapes the emergence of within-school educational inequalities along dimensions of race and class. My research applies rigorous computational  methods — ranging from qualitatively-informed agent-based models to machine-learning approaches — in innovative and creative ways to enhance the knowledge of school organization on two fronts. One, on the investigation of the mechanisms through which organizational practices shape students’ educational experiences, advancing the explanatory commitment of sociological analysis often termed under the field of “analytical sociology”. Two, on the production of rigorous and empirically-driven evaluations of selected organizational practices.
+I am a fifth-year Ph.D. student in [Sociology of Education](https://steinhardt.nyu.edu/programs/sociology-education) in the [Department of Applied Statistics, Social Science and Humanities](https://steinhardt.nyu.edu/departments/applied-statistics-social-science-and-humanities) at [New York University's Steinhardt School of Culture, Education and Human Development](https://steinhardt.nyu.edu/). I am interested in understanding how the organization of schools influences the learning experiences of students and how it shapes the emergence of within-school educational inequalities along dimensions of race and class. My research applies rigorous computational  methods — ranging from qualitatively-informed agent-based models to machine-learning approaches — in innovative and creative ways to enhance the knowledge of school organization on two fronts. One, on the investigation of the mechanisms through which organizational practices shape students’ educational experiences, advancing the explanatory commitment of sociological analysis often termed under the field of “analytical sociology”. Two, on the production of rigorous and empirically-driven evaluations of selected organizational practices.
 
 
-I am originally from São Paulo, Brazil. I received my BA in economics from the University of Wisconsin-Madison in 2017. After my undergraduate studies, I started as an economics doctoral student at the CUNY Graduate Center, where I studied for a year before transferring to NYU.
+I am originally from São Paulo, Brazil. I received my BA in economics from the [University of Wisconsin-Madison](https://econ.wisc.edu/) in 2017. After my undergraduate studies, I started as an economics doctoral student at [The Graduate Center of the City University of New York](https://www.gc.cuny.edu/economics), where I studied for a year before transferring to NYU.
 
 *A note on names:* for publication purposes, I use a hyphenated version of my last name: João M. Souto-Maior
 
@@ -179,16 +179,55 @@ Column {data-width=600} {.tabset}
 
 <subheading>Manuscripts in preparation</subheading>
 
-
 <div class="card" data-paper="3">
+<pbox>
+<phead>
+<up>Hoarding without hoarders: collateral effects of information diffusion on within-school racial inequalities</up>
+<br>
+<p1>Joao Souto-Maior.</p1> *Expected submission: September, 2022*
+<br>
+<left style="float: left">
+<button onclick="readMore1('3')" class="button" style="float: left">DETAILS</button>
+</left>
+</phead>
+<br> 
+<span class="dots"></span><span class="more" style="display: none">
+<pmain>
+I examine the necessary conditions under which parental information diffusion shapes Black-White unequal access to advanced course-taking, highlighting a non-intuitive result that individual-level hoarding of resources within race groups is not necessary for racial inequalities to emerge. 
+</pmain>
+</pbox>
+</span>
+</div>
+
+<div class="card" data-paper="4">
+<pbox>
+<phead>
+<up>The salience of mechanisms shaping within-school inequalities across school- and district-level characteristics</up>
+<br>
+<p1>Joao Souto-Maior.</p1> *Expected submission: Summer 2023*
+<br>
+<left style="float: left">
+<button onclick="readMore1('4')" class="button" style="float: left">DETAILS</button>
+</left>
+</phead>
+<br> 
+<span class="dots"></span><span class="more" style="display: none">
+<pmain>
+I explore the school- and district-level characteristics under which the agent-based model constructed in "Black-White advanced enrollment inequalities and the share of White students in school: an agent-based modeling investigation" performs best, providing insights on circumstances under which the inequality-producing mechanisms considered in the model tend to be more salient.
+</pmain>
+</pbox>
+</span>
+</div>
+
+<div class="card" data-paper="5">
 <pbox>
 <phead>
 <up>Determinants of race- and class-based educational inequalities within Brazilian high schools</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: August, 2022*
+<p1>Joao Souto-Maior.</p1> *Expected submission: October, 2022*
 <br>
 <left style="float: left">
-<button onclick="readMore1('3')" class="button" style="float: left">DETAILS</button>
+<button onclick="readMore1('5')" class="button" style="float: left">DETAILS</button>
 <a href="https://joaomsoutomaior.shinyapps.io/SaoPaulo_HighSchools_ENEM2019/" target="_blank" class = "a2">DASHBOARD</a>
 </left>
 </phead>
@@ -201,7 +240,7 @@ This paper aims at filling the gap of descriptive investigations of within-schoo
 </span>
 </div>
 
-<div class="card" data-paper="4">
+<div class="card" data-paper="6">
 <pbox>
 <phead>
 <up>Stepping out of the closet and into engagement: a quantitative analysis of outness, GSA engagement, and classroom engagement</up>
@@ -209,7 +248,7 @@ This paper aims at filling the gap of descriptive investigations of within-schoo
 Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Sep., 2022* 
 <br>
 <left style="float: left">
-<button onclick="readMore1('4')" class="button" style="float: left">DETAILS</button> <a href="https://github.com/joaosoutomaior/outness-engagement-GSAs-code" class = "a2" >CODE</a>
+<button onclick="readMore1('6')" class="button" style="float: left">DETAILS</button> <a href="https://github.com/joaosoutomaior/outness-engagement-GSAs-code" class = "a2" >CODE</a>
 </left>
 </phead>
 <br>
@@ -252,7 +291,7 @@ Using survey data from Massachusetts, New York paper, and San Diego schools, the
 
 ### Teaching 
 
-<subheading>Laboratory sections</subheading>
+<subheading>Laboratory instructor</subheading>
 
 <div class="card" data-course="1">
 <pbox>
@@ -281,7 +320,29 @@ be used for data analysis.
 </span>
 </div>
 
-<subheading>Discussion sections</subheading>
+<subheading>Teaching assistant</subheading>
+
+
+<div class="card" data-course="3">
+<pbox>
+<phead>
+<up>Political Economy of Education: Why Does College Cost So Much?</up>
+<br>
+New York University --- Fall 2022
+<br>
+<left style="float: left">
+<button onclick="readMore2('3')" class="button" style="float: left" style="float: right">DETAILS</button>
+<a href=" " target="_blank" class="a3">Fall 22</a>
+</left>
+</phead>
+<br>
+<span class="dots"></span><span class="more" style="display: none;">
+<pmain>
+College in the United States is expensive, really expensive. For 2022-23, a 120 credit undergraduate degree costs at least $200,000 at many private elite universities (like NYU) – plus all sorts of miscellaneous fees, lodging and food charges, books and more. Why does it cost so much? Is it a good deal? Why do so many high school students apply to study at such expensive institutions when there are cheaper alternatives available? Who is able to attend, and who is excluded? Why do college costs keep rising so fast? Shouldn’t college be free? The purpose of this course is to provide answers to these kinds of questions. It will introduce students to a range of economic concepts and empirical evidence that speaks to: the value of higher education for individuals and for societies; federal, state, and institutional financial aid policies; university budgets and spending priorities. We will consider individual student, institutional and societal perspectives.
+</pmain>
+</pbox>
+</span>
+</div>
 
 <div class="card" data-course="2">
 <pbox>
@@ -307,7 +368,7 @@ commonly associated with qualitative research.
 </span>
 </div>
 
-<subheading>Undergraduate seminars</subheading>
+<subheading>Seminar leader</subheading>
 
 <div class="card" data-course="3">
 <pbox>
@@ -375,7 +436,7 @@ another as you learn through your research project.
 <phead>
 <up>PhD dissertation</up>
 <br>
-School racial integration and students’ academic experiences: a simulation-based study of Black-White course-taking inequalities
+Essays on the dynamics of Black-White advanced course-taking inequalities 
 <br>
 <left style="float: left">
 <button onclick="readMore3('1')" class="button" style="float: left" style="float: right">DETAILS</button>
@@ -384,7 +445,7 @@ School racial integration and students’ academic experiences: a simulation-bas
 <br>
 <span class="dots"></span><span class="more" style="display: none;">
 <pmain>
-The purpose of the project is to identify the mechanisms generating Black-White academic disparities in integrated school settings. The project constructs a series of qualitatively-informed agent-based models that highlight the mechanisms generating black-white advanced course-taking inequalities within schools. Models show how the racial composition of schools and different tracking systems influence the salience of the generative mechanisms. Models are constructed, evaluated and applied to national data from American schools.
+The purpose of the project is to identify and explore the dynamics of the mechanisms generating Black-White advanced course-taking inequalities within schools. The project constructs a series of qualitatively-informed agent-based models which and explore the conditions which foster/hinder the emergence of these inequalities. Models are empirically calibrated and validated according to national data from American schools.
 <br>
 <br>
 **Committee members**
@@ -472,13 +533,13 @@ A podcast channel of the New Books Network (NBN)
 <br>
 <left style="float: left">
 <button onclick="readMore4('1')" class="button" style="float: left" style="float: right">DETAILS</button>
-<a href="https://podcasts.apple.com/us/podcast/new-books-in-education/id426205817" target="_blank" class="a2">WEBSITE</a> 
+<a href="https://newbooksnetwork.com/hosts/profile/8b8ec5a3-bdb5-43ca-ada6-3fc2f82f9af5" target="_blank" class="a2">MY EPISODES</a> 
 </left>
 </phead>
 <br>
 <span class="dots"></span><span class="more" style="display: none;">
 <pmain>
-The NBN is the largest book podcast network in the world, reaching hundreds of thousands of listeners a month and with listeners downloading well over a million NBN episodes each month. The purpose of NBN interviews is to allow authors to tell the audience what they found in their research and what they wrote in their books. It is a wonderful idea, connecting authors with a large audience worldwide, and advancing the broad goal of public education.
+The [New Books Network](https://newbooksnetwork.com/) is the largest book podcast network in the world, reaching hundreds of thousands of listeners a month and with listeners downloading well over a million NBN episodes each month. The purpose of NBN interviews is to allow authors to tell the audience what they found in their research and what they wrote in their books. It is a wonderful idea, connecting authors with a large audience worldwide, and advancing the broad goal of public education.
 </pmain>
 </pbox>
 </span>
