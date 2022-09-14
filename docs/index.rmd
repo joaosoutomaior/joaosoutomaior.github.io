@@ -142,7 +142,7 @@ Column {data-width=600} {.tabset}
 <phead>
 <up>Black-White advanced enrollment inequalities and the share of White students in school: an agent-based modeling investigation</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Submitted: July, 2022*
+<p1>Joao Souto-Maior.</p1> *Submitted: Jul., 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('1')" class="button" style="float: left">DETAILS</button>
@@ -162,7 +162,7 @@ Column {data-width=600} {.tabset}
 <phead>
 <up>The limited role of academic preparedness in explaining Black-White enrollment disparities in advanced high school coursework </up>
 <br>
-<p1>Joao Souto-Maior</p1> & Ravi Shroff. *Submitted: July, 2022*
+<p1>Joao Souto-Maior</p1> & Ravi Shroff. *Submitted: Sept., 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('2')" class="button" style="float: left">DETAILS</button>
@@ -184,7 +184,7 @@ Column {data-width=600} {.tabset}
 <phead>
 <up>Hoarding without hoarders: collateral effects of information diffusion on within-school racial inequalities</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: September, 2022*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Oct., 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('3')" class="button" style="float: left">DETAILS</button>
@@ -202,7 +202,7 @@ I examine the necessary conditions under which parental information diffusion sh
 <div class="card" data-paper="4">
 <pbox>
 <phead>
-<up>The salience of mechanisms shaping within-school inequalities across school- and district-level characteristics</up>
+<up>The salience of mechanisms shaping within-school racial inequalities across school- and district-level characteristics</up>
 <br>
 <p1>Joao Souto-Maior.</p1> *Expected submission: Summer 2023*
 <br>
@@ -224,7 +224,7 @@ I explore the school- and district-level characteristics under which the agent-b
 <phead>
 <up>Determinants of race- and class-based educational inequalities within Brazilian high schools</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: October, 2022*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Oct., 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('5')" class="button" style="float: left">DETAILS</button>
@@ -245,7 +245,7 @@ This paper aims at filling the gap of descriptive investigations of within-schoo
 <phead>
 <up>Stepping out of the closet and into engagement: a quantitative analysis of outness, GSA engagement, and classroom engagement</up>
 <br>
-Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Sep., 2022* 
+Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Oct., 2022* 
 <br>
 <left style="float: left">
 <button onclick="readMore1('6')" class="button" style="float: left">DETAILS</button> <a href="https://github.com/joaosoutomaior/outness-engagement-GSAs-code" class = "a2" >CODE</a>
@@ -274,7 +274,7 @@ Using survey data from Massachusetts, New York paper, and San Diego schools, the
 <phead>
 <up>Black-White advanced enrollment inequalities and the racial composition of schools: an agent-based modeling investigation</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *The Seventh Joint US-Japan Conference on Mathematical Sociology and Rational Choice, Upcoming*. 2022.
+<p1>Joao Souto-Maior.</p1> *The Seventh Joint US-Japan Conference on Mathematical Sociology and Rational Choice*. 2022.
 </phead>
 </pbox>
 
@@ -322,6 +322,29 @@ be used for data analysis.
 
 <subheading>Teaching assistant</subheading>
 
+<div class="card" data-course="4">
+<pbox>
+<phead>
+<up>Introduction to US Education: Historical and Contemporary Perspectives</up>
+<br>
+New York University --- Fall 2022
+<br>
+<left style="float: left">
+<button onclick="readMore2('4')" class="button" style="float: left" style="float: right">DETAILS</button>
+<a href=" " target="_blank" class="a3">FALL 22</a>
+</left>
+</phead>
+<br>
+<span class="dots"></span><span class="more" style="display: none;">
+<pmain>
+Throughout the semester we will look at a number of important issues in contemporary US schooling
+through the lens of history. How have these issues developed over the last three hundred years? What has changed? Who have the prime change agents been? We will also discuss all of these issues as they are in schools today. What is happening now? What should happen? What are the forces for change—for the better or for worse?
+
+For those who are preparing for careers in teaching, or for students who are interested in education as a field of study (who may want to be journalists or researchers or activists in the field), this course should provide important background historical context. For students of history or politics or who bring a general interest to the questions of this course, Introduction to U.S. Education is designed to help us understand current political, pedagogical, and economic debates.
+</pmain>
+</pbox>
+</span>
+</div>
 
 <div class="card" data-course="3">
 <pbox>
