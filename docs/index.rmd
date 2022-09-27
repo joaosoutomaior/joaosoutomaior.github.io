@@ -123,7 +123,7 @@ School organization; Within-school racial and socioeconomic inequalities; Studen
 
 ### About
 
-I am a fifth-year Ph.D. student in [Sociology of Education](https://steinhardt.nyu.edu/programs/sociology-education) in the [Department of Applied Statistics, Social Science and Humanities](https://steinhardt.nyu.edu/departments/applied-statistics-social-science-and-humanities) at [New York University's Steinhardt School of Culture, Education and Human Development](https://steinhardt.nyu.edu/). I am interested in understanding how the organization of schools influences the learning experiences of students and how it shapes the emergence of within-school educational inequalities along dimensions of race and class. My research applies rigorous computational  methods — ranging from qualitatively-informed agent-based models to machine-learning approaches — in innovative and creative ways to enhance the knowledge of school organization on two fronts. One, on the investigation of the mechanisms through which organizational practices shape students’ educational experiences, advancing the explanatory commitment of sociological analysis often termed under the field of “analytical sociology”. Two, on the production of rigorous and empirically-driven evaluations of selected organizational practices.
+I am a fifth-year Ph.D. student in [Sociology of Education](https://steinhardt.nyu.edu/programs/sociology-education) in the [Department of Applied Statistics, Social Science and Humanities](https://steinhardt.nyu.edu/departments/applied-statistics-social-science-and-humanities) at [New York University's Steinhardt School of Culture, Education and Human Development](https://steinhardt.nyu.edu/). I am interested in understanding how the organization of schools influences the learning experiences of students and how it shapes the emergence of within-school educational inequalities along dimensions of race and class. My research applies rigorous computational  methods — ranging from qualitatively-informed agent-based models to machine-learning approaches — in innovative and creative ways to enhance the knowledge of school organization on two fronts. One, on the investigation of the mechanisms through which organizational characteristics shape students’ educational experiences, advancing the explanatory commitment of sociological analysis often termed under the field of “analytical sociology”. Two, on the production of rigorous and empirically-driven evaluations of selected organizational characteristics of schools.
 
 
 I am originally from São Paulo, Brazil. I received my BA in economics from the [University of Wisconsin-Madison](https://econ.wisc.edu/) in 2017. After my undergraduate studies, I started as an economics doctoral student at [The Graduate Center of the City University of New York](https://www.gc.cuny.edu/economics), where I studied for a year before transferring to NYU.
@@ -160,7 +160,7 @@ Column {data-width=600} {.tabset}
 <div class="card" data-paper="2">
 <pbox>
 <phead>
-<up>The limited role of academic preparedness in explaining Black-White enrollment disparities in advanced high school coursework </up>
+<up>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework </up>
 <br>
 <p1>Joao Souto-Maior</p1> & Ravi Shroff. *Submitted: Sept., 2022*
 <br>
@@ -339,7 +339,8 @@ New York University --- Fall 2022
 <pmain>
 Throughout the semester we will look at a number of important issues in contemporary US schooling
 through the lens of history. How have these issues developed over the last three hundred years? What has changed? Who have the prime change agents been? We will also discuss all of these issues as they are in schools today. What is happening now? What should happen? What are the forces for change—for the better or for worse?
-
+<br>
+<br>
 For those who are preparing for careers in teaching, or for students who are interested in education as a field of study (who may want to be journalists or researchers or activists in the field), this course should provide important background historical context. For students of history or politics or who bring a general interest to the questions of this course, Introduction to U.S. Education is designed to help us understand current political, pedagogical, and economic debates.
 </pmain>
 </pbox>
