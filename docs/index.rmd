@@ -140,9 +140,10 @@ Column {data-width=600} {.tabset}
 <div class="card" data-paper="1">
 <pbox>
 <phead>
-<up>Black-White advanced enrollment inequalities and the share of White students in school: an agent-based modeling investigation</up>
+<up>Explaining the link between school racial composition and Black-White
+within-school inequalities: two interaction-based mechanisms</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Submitted: Jul., 2022*
+<p1>Joao Souto-Maior.</p1> *Submitted: Oct., 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('1')" class="button" style="float: left">DETAILS</button>
@@ -151,7 +152,9 @@ Column {data-width=600} {.tabset}
 <br>
 <span class="dots"></span><span class="more" style="display: none">
 <pmain>
-**Abstract:** This article investigates mechanism-based explanations for a puzzling finding in the sociology of education, namely, that Black-White unequal access to educational resources --- defined as advanced coursework --- is the highest in racially diverse and majority-White schools. Because relative group size is known to influence the probability of same-race ties, this study considers the hypothesis that this compositional effect operates through the influence of the racial composition of schools on informal, interaction-dependent, process shaping student advanced enrollment. I construct a qualitatively informed agent-based model which explores how the share of White students in the school shapes two particular informal processes: students' peer culture and parents' opportunity hoarding. The model is endowed with empirically calibrated social networks and is validated against a sample of US public schools. Simulation-based experiments show that both informal processes considered here tend to produce higher enrollment inequalities between comparable Black and White students as the share of White students in the school increases. Results shed light into policy strategies to improve the educational experiences of Black students in majority-White schools. At a methodological level, the study illustrates the promise of agent-based modelling investigations to better understand the complex informal dynamics of school organizations.
+**Previous title:** Black-White advanced enrollment inequalities and the share of White students in school: an agent-based modeling investigation
+<br>
+**Abstract:** This article investigates mechanism-based explanations for a puzzling finding in education research, namely, that Black-White unequal access to school resources---defined as advanced coursework---is the highest in racially integrated settings. Because the advanced enrollment process depends on different interaction-based processes, this study hypothesizes that the known relationship between relative group size and racial homophily provides a possible explanatory path. Through the construction and analysis of a qualitatively informed, empirically calibrated and validated agent-based model of the advanced enrollment processes, this study highlights two mechanisms that contribute to this puzzling link. First, the diffusion of parental information resources within students' and parents' networks. Second, the diffusion of beliefs about social and academic belonging in advanced courses within students' networks. By examining the model features shaping the dynamics of these mechanisms, the study also sheds light into policy strategies to improve Black students' access to school resources in racially integrated settings. 
 </pmain>
 </pbox>
 </span>
@@ -184,7 +187,7 @@ Column {data-width=600} {.tabset}
 <phead>
 <up>Hoarding without hoarders: collateral effects of information diffusion on within-school racial inequalities</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Oct., 2022*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Nov., 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('3')" class="button" style="float: left">DETAILS</button>
@@ -224,7 +227,7 @@ I explore the school- and district-level characteristics under which the agent-b
 <phead>
 <up>Determinants of race- and class-based educational inequalities within Brazilian high schools</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Oct., 2022*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Nov., 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('5')" class="button" style="float: left">DETAILS</button>
