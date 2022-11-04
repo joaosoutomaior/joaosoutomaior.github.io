@@ -143,7 +143,7 @@ Column {data-width=600} {.tabset}
 <up>Explaining the link between school racial composition and Black-White
 within-school inequalities: two interaction-based mechanisms</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Submitted: Oct., 2022*
+<p1>Joao Souto-Maior.</p1> *Submitted: Fall 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('1')" class="button" style="float: left">DETAILS</button>
@@ -165,7 +165,7 @@ within-school inequalities: two interaction-based mechanisms</up>
 <phead>
 <up>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework </up>
 <br>
-<p1>Joao Souto-Maior</p1> & Ravi Shroff. *Submitted: Sept., 2022*
+<p1>Joao Souto-Maior</p1> & Ravi Shroff. *Submitted: Fall 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('2')" class="button" style="float: left">DETAILS</button>
@@ -187,7 +187,7 @@ within-school inequalities: two interaction-based mechanisms</up>
 <phead>
 <up>Hoarding without hoarders: collateral effects of information diffusion on within-school racial inequalities</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Nov., 2022*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Fall 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('3')" class="button" style="float: left">DETAILS</button>
@@ -227,7 +227,7 @@ I explore the school- and district-level characteristics under which the agent-b
 <phead>
 <up>Determinants of race- and class-based educational inequalities within Brazilian high schools</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Nov., 2022*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Fall 2022*
 <br>
 <left style="float: left">
 <button onclick="readMore1('5')" class="button" style="float: left">DETAILS</button>
@@ -248,7 +248,7 @@ This paper aims at filling the gap of descriptive investigations of within-schoo
 <phead>
 <up>Stepping out of the closet and into engagement: a quantitative analysis of outness, GSA engagement, and classroom engagement</up>
 <br>
-Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Oct., 2022* 
+Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Fall 2022* 
 <br>
 <left style="float: left">
 <button onclick="readMore1('6')" class="button" style="float: left">DETAILS</button> <a href="https://github.com/joaosoutomaior/outness-engagement-GSAs-code" class = "a2" >CODE</a>
