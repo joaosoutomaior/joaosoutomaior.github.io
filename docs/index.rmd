@@ -115,7 +115,7 @@ School organization; Within-school racial and socioeconomic inequalities; Studen
 <br>
 <br>
 <left>
-<a href="files/JSM_cv.pdf" target="_blank" class = "a3" >CV</a>
+<a href="files/JSM_cv_public-version.pdf" target="_blank" class = "a3" >CV</a>
   <a href="https://github.com/joaosoutomaior/" target="_blank" class = "a2" >GITHUB</a>
   <a href="https://steinhardt.nyu.edu/joao-pedro-m-souto-maior" target="_blank" class = "a2" >NYU PAGE</a>
 </left>
@@ -123,7 +123,9 @@ School organization; Within-school racial and socioeconomic inequalities; Studen
 
 ### About
 
-I am a fifth-year Ph.D. student in [Sociology of Education](https://steinhardt.nyu.edu/programs/sociology-education) in the [Department of Applied Statistics, Social Science and Humanities](https://steinhardt.nyu.edu/departments/applied-statistics-social-science-and-humanities) at [New York University's Steinhardt School of Culture, Education and Human Development](https://steinhardt.nyu.edu/). I am interested in understanding how the organization of schools influences the learning experiences of students and how it shapes the emergence of within-school educational inequalities along dimensions of race and class. My research applies rigorous computational  methods — ranging from qualitatively-informed agent-based models to machine-learning approaches — in innovative and creative ways to enhance the knowledge of school organization on two fronts. One, on the investigation of the mechanisms through which organizational characteristics shape students’ educational experiences, advancing the explanatory commitment of sociological analysis often termed under the field of “analytical sociology”. Two, on the production of rigorous and empirically-driven evaluations of selected organizational characteristics of schools.
+I am a fifth-year Ph.D. student in [Sociology of Education](https://steinhardt.nyu.edu/programs/sociology-education) in the [Department of Applied Statistics, Social Science and Humanities](https://steinhardt.nyu.edu/departments/applied-statistics-social-science-and-humanities) at [New York University's Steinhardt School of Culture, Education and Human Development](https://steinhardt.nyu.edu/). I am on the 2022-23 job market.
+
+I am interested in understanding how the organization of schools influences the learning experiences of students and how it shapes the emergence of within-school educational inequalities along dimensions of race and class. My research applies rigorous computational methods---ranging from qualitatively-informed agent-based models to machine-learning approaches---in innovative and creative ways to the study of school organization, providing valuable policy insights on how to better structure schools to ensure the provision of equal educational opportunities for students from all backgrounds. Broadly, this work fits within the sub-fields of Sociology of Education, Computational Social Sciences and Analytical Sociology.
 
 
 I am originally from São Paulo, Brazil. I received my BA in economics from the [University of Wisconsin-Madison](https://econ.wisc.edu/) in 2017. After my undergraduate studies, I started as an economics doctoral student at [The Graduate Center of the City University of New York](https://www.gc.cuny.edu/economics), where I studied for a year before transferring to NYU.
@@ -143,7 +145,7 @@ Column {data-width=600} {.tabset}
 <up>Explaining the link between school racial composition and Black-White
 within-school inequalities: two interaction-based mechanisms</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Submitted: Fall 2022*
+<p1>Joao Souto-Maior.</p1> *Submitted: Fall 2022 (job market paper)* 
 <br>
 <left style="float: left">
 <button onclick="readMore1('1')" class="button" style="float: left">DETAILS</button>
