@@ -165,7 +165,7 @@ within-school inequalities: two interaction-based mechanisms</up>
 <div class="card" data-paper="2">
 <pbox>
 <phead>
-<up>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework </up>
+<up>The limited role of academic preparedness in explaining Black-White enrollment disparities in advanced high school coursework </up>
 <br>
 <p1>Joao Souto-Maior</p1> & Ravi Shroff. *Submitted: Fall 2022*
 <br>
@@ -176,6 +176,7 @@ within-school inequalities: two interaction-based mechanisms</up>
 <br>
 <span class="dots"></span><span class="more" style="display: none">
 <pmain>
+**Alternative title:** Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework.
 **Abstract:** Whether US high school Advanced Placement enrollment processes favor some race groups over others is a central empirical question in educational research and policy.However, previous investigations face  methodological limitations, for they compare enrollment rates of students after adjusting for characteristics only partially related to academic preparedness for advanced coursework. Informed by a recently-developed statistical technique, we propose and estimate a novel measure of students' academic preparedness and use administrative data from a large, urban, public school system to measure ``preparedness-adjusted" Black-White disparities in AP mathematics enrollment, i.e., differences in enrollment rates among similarly prepared students of different races. We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics. Our results imply that achieving equal opportunities for AP enrollment not only require equalizing earlier academic experiences, but also addressing inequities that emerge from coursework placement processes.
 </pmain>
 </pbox>
