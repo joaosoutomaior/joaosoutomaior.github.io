@@ -188,7 +188,7 @@ within-school inequalities: two interaction-based mechanisms</up>
 <div class="card" data-paper="3">
 <pbox>
 <phead>
-<up>ow White families hoard educational opportunities: unpacking the emergence of opportunity hoarding in schools</up>
+<up>How White families hoard educational opportunities: unpacking the emergence of opportunity hoarding in schools</up>
 <br>
 <p1>Joao Souto-Maior.</p1> *Expected submission: Spring, 2023*
 <br>
