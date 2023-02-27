@@ -188,9 +188,9 @@ within-school inequalities: two interaction-based mechanisms</up>
 <div class="card" data-paper="3">
 <pbox>
 <phead>
-<up>Hoarding without hoarders: collateral effects of information diffusion on within-school racial inequalities</up>
+<up>ow White families hoard educational opportunities: unpacking the emergence of opportunity hoarding in schools</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Spring 2023*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Spring, 2023*
 <br>
 <left style="float: left">
 <button onclick="readMore1('3')" class="button" style="float: left">DETAILS</button>
@@ -210,7 +210,7 @@ I examine the necessary conditions under which parental information diffusion sh
 <phead>
 <up>The salience of mechanisms shaping within-school racial inequalities across school- and district-level characteristics</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Summer 2023*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Summer, 2023*
 <br>
 <left style="float: left">
 <button onclick="readMore1('4')" class="button" style="float: left">DETAILS</button>
@@ -230,7 +230,7 @@ I explore the school- and district-level characteristics under which the agent-b
 <phead>
 <up>Determinants of race- and class-based educational inequalities within Brazilian high schools</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Spring 2023*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Spring, 2023*
 <br>
 <left style="float: left">
 <button onclick="readMore1('5')" class="button" style="float: left">DETAILS</button>
@@ -251,7 +251,7 @@ This paper aims at filling the gap of descriptive investigations of within-schoo
 <phead>
 <up>Stepping out of the closet and into engagement: a quantitative analysis of outness, GSA engagement, and classroom engagement</up>
 <br>
-Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Spring 2023* 
+Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Spring, 2023* 
 <br>
 <left style="float: left">
 <button onclick="readMore1('6')" class="button" style="float: left">DETAILS</button> <a href="https://github.com/joaosoutomaior/outness-engagement-GSAs-code" class = "a2" >CODE</a>
