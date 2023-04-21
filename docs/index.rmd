@@ -142,19 +142,18 @@ Column {data-width=600} {.tabset}
 <div class="card" data-paper="1">
 <pbox>
 <phead>
-<up>Explaining the link between school racial composition and Black-White
-within-school inequalities: two interaction-based mechanisms</up>
+<up>The presence of White students and the emergence of Black-White within-school inequalities: two interaction-based mechanisms.</up>
 <br>
 <p1>Joao Souto-Maior.</p1> 2022. *Job market paper.* 
 <br>
 <left style="float: left">
 <button onclick="readMore1('1')" class="button" style="float: left">DETAILS</button>
+<a href="https://arxiv.org/pdf/2304.04849.pdf" target="_blank" class = "a3">PDF</a>
 </left>
 </phead>
 <br>
 <span class="dots"></span><span class="more" style="display: none">
 <pmain>
-**Previous title:** Black-White advanced enrollment inequalities and the share of White students in school: an agent-based modeling investigation
 <br>
 **Abstract:** This article investigates mechanism-based explanations for a puzzling finding in education research, namely, that Black-White unequal access to school resources---defined as advanced coursework---is the highest in racially integrated settings. Because the advanced enrollment process depends on different interaction-based processes, this study hypothesizes that the known relationship between relative group size and racial homophily provides a possible explanatory path. Through the construction and analysis of a qualitatively informed, empirically calibrated and validated agent-based model of the advanced enrollment processes, this study highlights two mechanisms that contribute to this puzzling link. First, the diffusion of parental information resources within students' and parents' networks. Second, the diffusion of beliefs about social and academic belonging in advanced courses within students' networks. By examining the model features shaping the dynamics of these mechanisms, the study also sheds light into policy strategies to improve Black students' access to school resources in racially integrated settings. 
 </pmain>
@@ -176,7 +175,6 @@ within-school inequalities: two interaction-based mechanisms</up>
 <br>
 <span class="dots"></span><span class="more" style="display: none">
 <pmain>
-**Alternative title:** Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework.
 **Abstract:** Whether US high school Advanced Placement enrollment processes favor some race groups over others is a central empirical question in educational research and policy.However, previous investigations face  methodological limitations, for they compare enrollment rates of students after adjusting for characteristics only partially related to academic preparedness for advanced coursework. Informed by a recently-developed statistical technique, we propose and estimate a novel measure of students' academic preparedness and use administrative data from a large, urban, public school system to measure ``preparedness-adjusted" Black-White disparities in AP mathematics enrollment, i.e., differences in enrollment rates among similarly prepared students of different races. We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics. Our results imply that achieving equal opportunities for AP enrollment not only require equalizing earlier academic experiences, but also addressing inequities that emerge from coursework placement processes.
 </pmain>
 </pbox>
@@ -188,9 +186,9 @@ within-school inequalities: two interaction-based mechanisms</up>
 <div class="card" data-paper="3">
 <pbox>
 <phead>
-<up>How White families hoard educational opportunities: unpacking the emergence of opportunity hoarding in schools</up>
+<up>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Spring, 2023*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Spring 2023*
 <br>
 <left style="float: left">
 <button onclick="readMore1('3')" class="button" style="float: left">DETAILS</button>
@@ -210,7 +208,7 @@ I examine the necessary conditions under which parental information diffusion sh
 <phead>
 <up>The salience of mechanisms shaping within-school racial inequalities across school- and district-level characteristics</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Summer, 2023*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Summer 2023*
 <br>
 <left style="float: left">
 <button onclick="readMore1('4')" class="button" style="float: left">DETAILS</button>
@@ -230,7 +228,7 @@ I explore the school- and district-level characteristics under which the agent-b
 <phead>
 <up>Determinants of race- and class-based educational inequalities within Brazilian high schools</up>
 <br>
-<p1>Joao Souto-Maior.</p1> *Expected submission: Spring, 2023*
+<p1>Joao Souto-Maior.</p1> *Expected submission: Summer 2023*
 <br>
 <left style="float: left">
 <button onclick="readMore1('5')" class="button" style="float: left">DETAILS</button>
@@ -251,7 +249,7 @@ This paper aims at filling the gap of descriptive investigations of within-schoo
 <phead>
 <up>Stepping out of the closet and into engagement: a quantitative analysis of outness, GSA engagement, and classroom engagement</up>
 <br>
-Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Spring, 2023* 
+Hank Sherwood, <p1>Joao Souto-Maior</p1>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo. *Expected submission: Spring 2023* 
 <br>
 <left style="float: left">
 <button onclick="readMore1('6')" class="button" style="float: left">DETAILS</button> <a href="https://github.com/joaosoutomaior/outness-engagement-GSAs-code" class = "a2" >CODE</a>
@@ -268,6 +266,14 @@ Using survey data from Massachusetts, New York paper, and San Diego schools, the
 
 <subheading>Conference presentations</subheading>
 
+<pbox>
+<phead>
+<up>Unpacking the emergence of opportunity hoarding: an agent-based model of Black-White educational disparities within schools</up>
+<br>
+<p1>Joao Souto-Maior.</p1> *Annual Conference of the International Network of Analytical Sociologists at Princeton University (expected)*. 2023
+</phead>
+</pbox>
+    
 <pbox>
 <phead>
 <up>Black-White advanced enrollment inequalities and the racial composition of schools: an agent-based modeling investigation</up>
