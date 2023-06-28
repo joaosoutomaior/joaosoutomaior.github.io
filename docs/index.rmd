@@ -137,9 +137,9 @@ PhD Candidate, Sociology of Education
 <br>
  New York University
 <br>
-<a href="files/JSM_cv_public-version.pdf" target="_blank" class = "a2" >cv</a>
-<a href="https://github.com/joaosoutomaior/" target="_blank" class = "a2" >GitHub</a>
-<a href="https://scholar.google.com/citations?user=z231epEAAAAJ&hl=pt-BR&oi=ao" target="_blank" class = "a2">Google Scholar</a>
+<a href="files/JSM_cv_public-version.pdf" target="_blank" class = "a2" >CV</a>
+<a href="https://github.com/joaosoutomaior/" target="_blank" class = "a2" ><i class="fa-brands fa-github"></i></a>
+<a href="https://scholar.google.com/citations?user=z231epEAAAAJ&hl=pt-BR&oi=ao" target="_blank" class = "a2"><i class="fa-solid fa-graduation-cap"></i></a>
 </center>
 </div>
 
@@ -170,6 +170,7 @@ Column
 
 <p1>Areas of Research</p1>
 
+<p>
 <i class="fa-solid fa-book"></i> Organizations
 <br>
 <i class="fa-solid fa-book"></i> Education policy
@@ -177,11 +178,12 @@ Column
 <i class="fa-solid fa-book"></i> Racial inequality
 <br>
 <i class="fa-solid fa-book"></i> Computational methods
-
+</p>
 ###
 
 <p1>Education</p1>
 
+<p>
 <i class="fa-solid fa-graduation-cap"></i> Ph.D. Sociology of Education --- 2023
 <br>
 <p2>&emsp; New York University</p2>
@@ -193,13 +195,13 @@ Column
 <i class="fa-solid fa-graduation-cap"></i> B.A. Economics with mathematical emphasis --- 2017
 <br>
 <p2>&emsp; University of Wisconsin-Madison</p2>
-<br>
+</p>
 
 Row
 -------------------------------------
 
 <p style="font-size:9pt">
-Website last updated on <script>
+&emsp; Website last updated on <script>
     document.write(new Date().toLocaleDateString('en-US')); </script>
 </p>
 
@@ -432,7 +434,7 @@ Row
 -------------------------------------
 
 <p style="font-size:9pt">
-*Note:* for publication purposes, I use a hyphenated version of my last name: Souto-Maior.
+&emsp; *Note:* for publication purposes, I use a hyphenated version of my last name: Souto-Maior.
 </p>
 
 
@@ -760,7 +762,6 @@ button, button:active, button:visited {
     border-radius: 3px;
     background-color: white;
     color: #3498DB;
-    font-weight: bold;
     font-size: 9pt;
     position: bottom 
   }
@@ -772,7 +773,6 @@ button:focus, button:hover{
   border-radius: 3px;
   background-color: white;
   color: #3498DB;
-  font-weight: bold;
   font-size: 9pt;
   opacity: .5
 }
@@ -809,7 +809,6 @@ a:active {
   border-radius: 3px;
   background-color: white;
   color: #D35400 !important;
-  font-weight: bold;
   text-decoration: none;
   font-size: 9pt;
 }
@@ -821,7 +820,6 @@ a:active {
   border-radius: 3px;
   background-color: white;
   color: #D35400;
-  font-weight: bold;
   text-decoration: none;
   font-size: 9pt;
   opacity: .5;
@@ -847,7 +845,7 @@ html {
 }
 
 moredetails{
-  font-size: 14px;
+  font-size: 11pt;
   padding: 9pt;
   background-color: white;
   display: inline-block;
@@ -968,6 +966,10 @@ me{
     font-weight: 700;
     padding: 7px 9pt 4px;
 } */   
+
+.box {
+    padding: 15px 15pt 15px 15px;
+}    
 
 
 body {background-color: #F8F9F9 !important}
