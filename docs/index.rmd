@@ -114,7 +114,7 @@ Column
 ###
 
 <div class="parentbox">
-<div style="  font-size: 13px;
+<div style="  font-size: 14px;
   border: 0px solid #3498DB;
   padding: px;
   margin: 0px;
@@ -143,7 +143,7 @@ PhD Candidate, Sociology of Education
 </center>
 </div>
 
-<div style="  font-size: 13px;
+<div style="  font-size: 14px;
   border: 0px solid #3498DB;
   padding: px;
   margin: 0px;
@@ -219,7 +219,7 @@ In my research, I rely on innovative methodological approaches to re-examining â
 <div class="parentbox">
 <div class="cardfig" data-paper="1000">
 <titlebox>
-<p3><i class="fa-solid fa-circle" style="color:orange; font-size: 9px"></i> Bringing insights from complex systems to school organization research</p3>
+<p3><i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i> Bringing insights from complex systems to school organization research</p3>
 <br>
 <left>
 <button onclick="readMore1('1000')" class="button" style="float: left">more</button>
@@ -244,7 +244,7 @@ Understanding the organizational behavior of schools has long been a challenging
 <div class="parentbox">
 <div class="cardfig" data-paper="1001">
 <titlebox>
-<p3><i class="fa-solid fa-circle" style="color:green; font-size: 9px"></i> Rethinking the analysis of bias in student sorting processes</p3>
+<p3><i class="fa-solid fa-circle" style="color:green; font-size: 9pt"></i> Rethinking the analysis of bias in student sorting processes</p3>
 <br>
 <left>
 <button onclick="readMore1('1001')" class="button" style="float: left">more</button>
@@ -284,7 +284,7 @@ Row
 <left>
 <button onclick="readMore1('1')" class="button" style="float: left">more</button>
 <a href="https://arxiv.org/pdf/2304.04849.pdf" target="_blank" class = "a2">pdf</a>
-<i class="fa-solid fa-circle" style="color:orange; font-size: 9px"></i>
+<i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i>
 </left>
 </titlebox>
 <br>
@@ -312,7 +312,7 @@ Row
 <left>
 <button onclick="readMore1('2')" class="button" style="float: left">more</button>
 <a href="https://arxiv.org/pdf/2306.15075.pdf" target="_blank" class = "a2">pdf</a>
-<i class="fa-solid fa-circle" style="color:green; font-size: 9px"></i>
+<i class="fa-solid fa-circle" style="color:green; font-size: 9pt"></i>
 </left>
 </titlebox>
 <br>
@@ -344,7 +344,7 @@ We find that preexisting differences in academic preparation do not fully explai
 <left>
 <button onclick="readMore1('3')" class="button" style="float: left">more</button>
 <a href="https://arxiv.org/pdf/2305.14653.pdf" target="_blank" class = "a2">pdf</a>
-<i class="fa-solid fa-circle" style="color:orange; font-size: 9px"></i>
+<i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i>
 </left>
 </titlebox>
 <br> 
@@ -376,7 +376,7 @@ Row
 <br>
 <left>
 <button onclick="readMore5('1')" class="button" style="float: left">more</button>
-<i class="fa-solid fa-circle" style="color:orange; font-size: 9px"></i>
+<i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i>
 </left>
 </titlebox>
 <br> 
@@ -761,7 +761,7 @@ button, button:active, button:visited {
     background-color: white;
     color: #3498DB;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 9pt;
     position: bottom 
   }
 
@@ -773,7 +773,7 @@ button:focus, button:hover{
   background-color: white;
   color: #3498DB;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 9pt;
   opacity: .5
 }
 
@@ -811,7 +811,7 @@ a:active {
   color: #D35400 !important;
   font-weight: bold;
   text-decoration: none;
-  font-size: 10px;
+  font-size: 9pt;
 }
 
 .a2:focus, .a2:hover{
@@ -823,7 +823,7 @@ a:active {
   color: #D35400;
   font-weight: bold;
   text-decoration: none;
-  font-size: 10px;
+  font-size: 9pt;
   opacity: .5;
 }
 
@@ -831,7 +831,7 @@ a:active {
 
 html {
     margin:    0 auto;
-    max-width: 900px;
+    max-width: 1000px;
 }
 
 .column-left{
@@ -847,8 +847,8 @@ html {
 }
 
 moredetails{
-  font-size: 13px;
-  padding: 10px;
+  font-size: 14px;
+  padding: 9pt;
   background-color: white;
   display: inline-block;
   text-align: left;
@@ -856,25 +856,25 @@ moredetails{
 }
 
 p{
-  font-size: 14px;
+  font-size: 12pt;
   color: rgb(100,100,100);
 }
 
 p1{
-  font-size: 16px;
+  font-size: 13pt;
   color: rgb(100,100,100);
   font-weight: bold;
 }
 
 p2{
-  font-size: 14px;
+  font-size: 12pt;
   color: rgb(100,100,100);
   opacity: 80%;
 }
 
 
 p3{
- font-size: 14px;
+ font-size: 12pt;
  font-weight: bold;
  color: rgb(100,100,100);
  /*text-transform: uppercase*/
@@ -883,12 +883,12 @@ p3{
 left{style="float: left"}
 
 me{
-  font-size: 14px;
+  font-size: 12pt;
   color: #3498DB
 }
 
 .card{
-  font-size: 14px;
+  font-size: 12pt;
   border: 0px solid #3498DB;
   padding:10px 10px 10px 10px;
   margin: 0px;
@@ -901,7 +901,7 @@ me{
 }
 
 .cardfig{
-  font-size: 14px;
+  font-size: 12pt;
   border: 0px solid #3498DB;
   padding: 10px 0px 10px 10px;
   margin: 0px;
@@ -923,7 +923,7 @@ me{
 
 .titlebox{
   width: 100%; 
-  font-size: 14px;
+  font-size: 12pt;
   height: 120px;
   background-color: white !important;
   padding: 5px 6px !important;
@@ -933,7 +933,7 @@ me{
 }
 
 .figbox2 img {
-  font-size: 14px;
+  font-size: 12pt;
   border: 0px solid #3498DB;
   padding: px;
   height: 150px;
@@ -947,7 +947,7 @@ me{
 }
 
 .figbox img {
-  font-size: 14px;
+  font-size: 12pt;
   border: 0px solid #3498DB;
   padding: px;
   height: 120px;
@@ -964,9 +964,9 @@ me{
     border-bottom: 1px solid #d7d7d7;
     color: #333333;
     background-color: #D5DBDB;
-    font-size: 16px;
+    font-size: 13pt;
     font-weight: 700;
-    padding: 7px 10px 4px;
+    padding: 7px 9pt 4px;
 } */   
 
 
@@ -976,10 +976,14 @@ body {background-color: #F8F9F9 !important}
   
 #more {display: none;}
 
+.navbar {
+    font-size: 13pt;
+}
+
 .nav-tabs-custom > .nav-tabs > li.active{
     border-top-color: white;
     border-bottom-color: white !important;
-    font-size: 16px;
+    font-size: 13pt;
 }
 
 .nav-tabs-custom .nav-tabs li.active a {
@@ -1012,7 +1016,7 @@ body {background-color: #F8F9F9 !important}
   rgb(100,100,100);
   font-weight: bold;
   opacity: 50%;
-  font-size: 16px;
+  font-size: 13pt;
 
 }
 
