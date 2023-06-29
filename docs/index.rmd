@@ -3,7 +3,9 @@ title: "Joao M. Souto Maior"
 output: 
   flexdashboard::flex_dashboard:
       vertical_layout: scroll
-      orientation: rows
+      css: ./includes/my-css.css
+      includes:
+        after_body: ./includes/footer.html
       theme: 
         version: 4
         bootswatch: journal
@@ -16,114 +18,116 @@ output:
 ---
 
 
-<script>
 
-function readMore1(paper) {
+
+<script>
+  
+  function readMore1(paper) {
     let dots = document.querySelector(`.cardfig[data-paper="${paper}"] .dots`);
     let moreText = document.querySelector(`.cardfig[data-paper="${paper}"] .more`); 
     let btnText = document.querySelector(`.cardfig[data-paper="${paper}"] .button`);
-
+    
     if (dots.style.display === "none") {
-        dots.style.display = "inline";
-        btnText.textContent = "more";
-        moreText.style.display = "none";
+      dots.style.display = "inline";
+      btnText.textContent = "more";
+      moreText.style.display = "none";
     } else {
-        dots.style.display = "none";
-        btnText.textContent = "less"; 
-        moreText.style.display = "inline";
+      dots.style.display = "none";
+      btnText.textContent = "less"; 
+      moreText.style.display = "inline";
     }
-}
+  }
 
 function readMore5(inprogress) {
-    let dots = document.querySelector(`.card[data-inprogress="${inprogress}"] .dots`);
-    let moreText = document.querySelector(`.card[data-inprogress="${inprogress}"] .more`); 
-    let btnText = document.querySelector(`.card[data-inprogress="${inprogress}"] .button`);
-
-    if (dots.style.display === "none") {
-        dots.style.display = "inline";
-        btnText.textContent = "more";
-        moreText.style.display = "none";
-    } else {
-        dots.style.display = "none";
-        btnText.textContent = "less"; 
-        moreText.style.display = "inline";
-    }
+  let dots = document.querySelector(`.card[data-inprogress="${inprogress}"] .dots`);
+  let moreText = document.querySelector(`.card[data-inprogress="${inprogress}"] .more`); 
+  let btnText = document.querySelector(`.card[data-inprogress="${inprogress}"] .button`);
+  
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.textContent = "more";
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.textContent = "less"; 
+    moreText.style.display = "inline";
+  }
 }
 
 function readMore2(course) {
-    let dots = document.querySelector(`.card[data-course="${course}"] .dots`);
-    let moreText = document.querySelector(`.card[data-course="${course}"] .more`); 
-    let btnText = document.querySelector(`.card[data-course="${course}"] .button`);
-
-    if (dots.style.display === "none") {
-        dots.style.display = "inline";
-        btnText.textContent = "more";
-        moreText.style.display = "none";
-    } else {
-        dots.style.display = "none";
-        btnText.textContent = "less"; 
-        moreText.style.display = "inline";
-    }
+  let dots = document.querySelector(`.card[data-course="${course}"] .dots`);
+  let moreText = document.querySelector(`.card[data-course="${course}"] .more`); 
+  let btnText = document.querySelector(`.card[data-course="${course}"] .button`);
+  
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.textContent = "more";
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.textContent = "less"; 
+    moreText.style.display = "inline";
+  }
 }
 
 function readMore3(item) {
-    let dots = document.querySelector(`.card[data-item="${item}"] .dots`);
-    let moreText = document.querySelector(`.card[data-item="${item}"] .more`); 
-    let btnText = document.querySelector(`.card[data-item="${item}"] .button`);
-
-    if (dots.style.display === "none") {
-        dots.style.display = "inline";
-        btnText.textContent = "more";
-        moreText.style.display = "none";
-    } else {
-        dots.style.display = "none";
-        btnText.textContent = "less"; 
-        moreText.style.display = "inline";
-    }
+  let dots = document.querySelector(`.card[data-item="${item}"] .dots`);
+  let moreText = document.querySelector(`.card[data-item="${item}"] .more`); 
+  let btnText = document.querySelector(`.card[data-item="${item}"] .button`);
+  
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.textContent = "more";
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.textContent = "less"; 
+    moreText.style.display = "inline";
+  }
 }
 
 function readMore4(topic) {
-    let dots = document.querySelector(`.card[data-topic="${topic}"] .dots`);
-    let moreText = document.querySelector(`.card[data-topic="${topic}"] .more`); 
-    let btnText = document.querySelector(`.card[data-topic="${topic}"] .button`);
-
-    if (dots.style.display === "none") {
-        dots.style.display = "inline";
-        btnText.textContent = "more";
-        moreText.style.display = "none";
-    } else {
-        dots.style.display = "none";
-        btnText.textContent = "less"; 
-        moreText.style.display = "inline";
-    }
+  let dots = document.querySelector(`.card[data-topic="${topic}"] .dots`);
+  let moreText = document.querySelector(`.card[data-topic="${topic}"] .more`); 
+  let btnText = document.querySelector(`.card[data-topic="${topic}"] .button`);
+  
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.textContent = "more";
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.textContent = "less"; 
+    moreText.style.display = "inline";
+  }
 }
 
 
 </script>
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-
-
+  
+  
 
 About
 =====================================
 
-Column
+Column {data-width=300}
 -------------------------------------
 
 ###
 
-<div class="parentbox">
-<div style="  font-size: 14px;
+<div style="  font-size: 12pt;
   border: 0px solid #3498DB;
   padding: px;
   margin: 0px;
-  width: 70%; 
+  width: 100%; 
   float: left;
   background-color: white;
   display: block;
   text-align: left;
   break-inside: avoid-column;">
+  
 <div class="figbox2">
 <img src="files/JSM_profile-pic.jpg"/>
 </div>
@@ -137,17 +141,22 @@ PhD Candidate, Sociology of Education
 <br>
  New York University
 <br>
-<a href="files/JSM_cv_public-version.pdf" target="_blank" class = "a2" >CV</a>
+<a href="files/JSM_cv.pdf" target="_blank" class = "a2" >CV</a>
 <a href="https://github.com/joaosoutomaior/" target="_blank" class = "a2" ><i class="fa-brands fa-github"></i></a>
 <a href="https://scholar.google.com/citations?user=z231epEAAAAJ&hl=pt-BR&oi=ao" target="_blank" class = "a2"><i class="fa-solid fa-graduation-cap"></i></a>
 </center>
 </div>
 
-<div style="  font-size: 14px;
+Column {data-width=700}
+-------------------------------------
+
+###
+
+<div style="  font-size: 12pt;
   border: 0px solid #3498DB;
   padding: px;
   margin: 0px;
-  width: 130%; 
+  width: 100%; 
   float: right;
   background-color: white;
   display: block;
@@ -161,115 +170,96 @@ I am a fifth-year Ph.D. student in [Sociology of Education](https://steinhardt.n
 Please navigate across the pages to learn about my research; teaching; and to access selected resources.
 
 </div>
-</div>
-
-Column
--------------------------------------
 
 ###
 
 <p1>Areas of Research</p1>
 
 <p>
-<i class="fa-solid fa-book"></i> Organizations
+<i class="fa-solid fa-book" style="font-size: 8pt"></i> Organizations
 <br>
-<i class="fa-solid fa-book"></i> Education policy
+<i class="fa-solid fa-book" style="font-size: 8pt"></i> Education policy
 <br>
-<i class="fa-solid fa-book"></i> Racial inequality
+<i class="fa-solid fa-book" style="font-size: 8pt"></i> Racial inequality
 <br>
-<i class="fa-solid fa-book"></i> Computational methods
+<i class="fa-solid fa-book" style="font-size: 8pt"></i> Computational methods
 </p>
+
 ###
 
 <p1>Education</p1>
 
 <p>
-<i class="fa-solid fa-graduation-cap"></i> Ph.D. Sociology of Education --- 2023
+<i class="fa-solid fa-graduation-cap" style="font-size: 8pt"></i> Ph.D. Sociology of Education --- 2023
 <br>
 <p2>&emsp; New York University</p2>
 <br>
-<i class="fa-solid fa-graduation-cap"></i> M.Phil. Sociology of Education --- 2021
+<i class="fa-solid fa-graduation-cap" style="font-size: 8pt"></i> M.Phil. Sociology of Education --- 2021
 <br>
 <p2>&emsp; New York University</p2>
 <br>
-<i class="fa-solid fa-graduation-cap"></i> B.A. Economics with mathematical emphasis --- 2017
+<i class="fa-solid fa-graduation-cap" style="font-size: 8pt"></i> B.A. Economics with mathematical emphasis --- 2017
 <br>
 <p2>&emsp; University of Wisconsin-Madison</p2>
 </p>
 
-Row
--------------------------------------
-
-<p style="font-size:9pt">
-&emsp; Website last updated on <script>
-    document.write(new Date().toLocaleDateString('en-US')); </script>
-</p>
-
 Research 
 =====================================
-
-Row
--------------------------------------
 
 ###
 
 <p1>Research agenda</p1>
 
 
-In my research, I rely on innovative methodological approaches to re-examining “old” questions in education research. Doing so, I hope to improve the quality of evidence on some of the central questions to education policy and practice. In particular, I concentrate on questions related to the organization of educational institutions and how organizational decisions impact the formation of racial and socioeconomic inequalities in education opportunity. This work is defined by two main areas of research, detailed below.
+In my research, I rely on innovative methodological approaches to re-examining “old” questions in education research. Doing so, I hope to improve the quality of evidence on some of the key questions to education policy and practice. In particular, I concentrate on questions related to the organization of educational institutions, looking at how organizational decisions impact the formation of racial and socioeconomic inequalities in education opportunity. This work is defined by two main areas of research, detailed below.
 
 <div class="parentbox">
 <div class="cardfig" data-paper="1000">
-<titlebox>
+<titleboxsmall>
 <p3><i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i> Bringing insights from complex systems to school organization research</p3>
 <br>
 <left>
 <button onclick="readMore1('1000')" class="button" style="float: left">more</button>
 </left>
-<br>
-<br>
-</titlebox>
+</titleboxsmall>
 <br>
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
 <br>
-Understanding the organizational behavior of schools has long been a challenging task since school’s internal dynamics are shaped by the decisions of and social interactions between multiple actors, such as students, families, administrators and school staff. Because of this dependence on the social dynamics which emerge from interdependent individual action, one of my research focuses is to apply insights from complex systems approaches in innovative and creative ways to the study of school organization.
+Understanding the organizational behavior of schools has long been a challenging task since school’s internal dynamics are shaped by the decisions of and social interactions between multiple actors, such as students, families, administrators and school staff. Because of this dependence on the social dynamics which emerge from interdependent individual action, one of my research focuses is to apply insights from complex systems approaches in innovative and creative ways to address important questions within school organization research.
 </moredetails>
 </textbox>
 </span>
 </div>
-<div class="figbox">
+<div class="figboxsmall">
 <img src="files/abm.png"/>
 </div>
 </div>
 
+<br>
+
 <div class="parentbox">
 <div class="cardfig" data-paper="1001">
-<titlebox>
+<titleboxsmall>
 <p3><i class="fa-solid fa-circle" style="color:green; font-size: 9pt"></i> Rethinking the analysis of bias in student sorting processes</p3>
 <br>
 <left>
 <button onclick="readMore1('1001')" class="button" style="float: left">more</button>
 </left>
-<br>
-<br>
-</titlebox>
+</titleboxsmall>
 <br>
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
 <br>
-Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses, be promoted to a next-level grade; take certain courses. Similarly, selective institutions (such as selective high schools, and selective colleges and universities) need to sort students when admissions decisions, sorting the pool of applicants and into those who are offered admission and those who are not. One of my research focuses is to improve current methodological strategies to examine the possible existence of biases in these sorting processes.
+Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses, advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current methodological strategies to examine the possible existence of biases in these sorting processes.
 </moredetails>
 </textbox>
 </span>
 </div>
-<div class="figbox">
+<div class="figboxsmall">
 <img src="files/sorting.jpg"/>
 </div>
 </div>
-
-Row
--------------------------------------
 
 ###
 
@@ -362,9 +352,6 @@ We find that preexisting differences in academic preparation do not fully explai
 </div>
 </div>
 
-Row 
--------------------------------------
-
 ###
 
 <p1> Papers in progress </p1>
@@ -430,16 +417,18 @@ Using survey data from Massachusetts, New York paper, and San Diego schools, the
 </span>
 </div>
 
-Row 
--------------------------------------
+###
 
-<p style="font-size:9pt">
-&emsp; *Note:* for publication purposes, I use a hyphenated version of my last name: Souto-Maior.
+<p>
+**Note:** for publication purposes, I use a hyphenated version of my last name: Souto-Maior.
 </p>
 
 
 Teaching
 =====================================
+
+Column 
+-------------------------------------
 
 ### 
 
@@ -471,6 +460,9 @@ be used for data analysis.
 </textbox>
 </span>
 </div>
+
+Column 
+-------------------------------------
 
 ### 
 
@@ -546,6 +538,9 @@ commonly associated with qualitative research.
 </span>
 </div>
 
+Column 
+-------------------------------------
+
 ###
 
 <p1>Seminar leader</p1>
@@ -613,7 +608,7 @@ another as you learn through your research project.
 Resources 
 =====================================
 
-Row 
+Column 
 -------------------------------------
 
 ###
@@ -711,6 +706,9 @@ In this independent study, my goal was to review some of the key explanations fo
 </span>
 </div>
 
+Column 
+-------------------------------------
+
 ###
 
 <p1>Tools for interactive visualizations</p1>
@@ -730,6 +728,9 @@ In this independent study, my goal was to review some of the key explanations fo
 </textbox>
 </span>
 </div>
+
+Column 
+-------------------------------------
 
 ###
 
@@ -753,274 +754,3 @@ The [New Books Network](https://newbooksnetwork.com/) is the largest book podcas
 </textbox>
 </span>
 </div>
-
-<style>
-button, button:active, button:visited {
-    padding: 2px 4px !important;
-    margin: 1px 4px !important;
-    border: 1px solid #3498DB;
-    border-radius: 3px;
-    background-color: white;
-    color: #3498DB;
-    font-size: 9pt;
-    position: bottom 
-  }
-
-button:focus, button:hover{
-  padding: 2px 4px !important;
-  margin: 1px 4px !important;
-  border: 1px solid #3498DB;
-  border-radius: 3px;
-  background-color: white;
-  color: #3498DB;
-  font-size: 9pt;
-  opacity: .5
-}
-
-a:link {
-  color: #3498DB;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #3498DB;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #3498DB;
-  background-color: transparent;
-  text-decoration: underline;
-  opacity: 50%
-}
-
-a:active {
-  color: #3498DB;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-.a2, .a2:link .a2:active, .a2:visited {
-  padding: 3px 4px !important;
-  border: 1px solid #D35400 !important;
-  margin: 1px 2px !important;
-  border-radius: 3px;
-  background-color: white;
-  color: #D35400 !important;
-  text-decoration: none;
-  font-size: 9pt;
-}
-
-.a2:focus, .a2:hover{
-  padding: 3px 4px !important;
-  border: 1px solid #D35400 !important;
-  margin: 1px 2px !important;
-  border-radius: 3px;
-  background-color: white;
-  color: #D35400;
-  text-decoration: none;
-  font-size: 9pt;
-  opacity: .5;
-}
-
-/*Columns --------------------------------------------- */
-
-html {
-    margin:    0 auto;
-    max-width: 1000px;
-}
-
-.column-left{
-    float: left;
-    width: 50%;
-    text-align: center;
-}
-
-.column-right{
-  float: right;
-  width: 50%;
-  text-align: left;
-}
-
-moredetails{
-  font-size: 11pt;
-  padding: 9pt;
-  background-color: white;
-  display: inline-block;
-  text-align: left;
-  color: rgb(100,100,100);
-}
-
-p{
-  font-size: 12pt;
-  color: rgb(100,100,100);
-}
-
-p1{
-  font-size: 13pt;
-  color: rgb(100,100,100);
-  font-weight: bold;
-}
-
-p2{
-  font-size: 12pt;
-  color: rgb(100,100,100);
-  opacity: 80%;
-}
-
-
-p3{
- font-size: 12pt;
- font-weight: bold;
- color: rgb(100,100,100);
- /*text-transform: uppercase*/
-}
-
-left{style="float: left"}
-
-me{
-  font-size: 12pt;
-  color: #3498DB
-}
-
-.card{
-  font-size: 12pt;
-  border: 0px solid #3498DB;
-  padding:10px 10px 10px 10px;
-  margin: 0px;
-  width: 100%; 
-  float: left;
-  background-color: white;
-  display: block;
-  text-align: left;
-  break-inside: avoid-column;  
-}
-
-.cardfig{
-  font-size: 12pt;
-  border: 0px solid #3498DB;
-  padding: 10px 0px 10px 10px;
-  margin: 0px;
-  width: 130%; 
-  float: left;
-  background-color: white;
-  display: block;
-  text-align: left;
-  break-inside: avoid-column;
-}
-
-.parentbox{
-  column-count: 2;
-  column-gap: 0px;
-  row-gap: 10px;
-  row-count: 1;
-  break-inside: avoid-row; 
-}
-
-.titlebox{
-  width: 100%; 
-  font-size: 12pt;
-  height: 120px;
-  background-color: white !important;
-  padding: 5px 6px !important;
-  display: inline-block;
-  margin: 0px;
-  color: rgb(100,100,100);
-}
-
-.figbox2 img {
-  font-size: 12pt;
-  border: 0px solid #3498DB;
-  padding: px;
-  height: 150px;
-  margin: 0px;
-  width: 100%;
-  position: center;
-  float:center;
-  background-color: white;
-  object-fit: contain;
-  object-position: center top;
-}
-
-.figbox img {
-  font-size: 12pt;
-  border: 0px solid #3498DB;
-  padding: px;
-  height: 120px;
-  margin: 0px;
-  width: 70%;
-  position: right;
-  float:right;
-  background-color: white;
-  object-fit: contain;
-  object-position: left top;
-}
-
-/*.chart-title {
-    border-bottom: 1px solid #d7d7d7;
-    color: #333333;
-    background-color: #D5DBDB;
-    font-size: 13pt;
-    font-weight: 700;
-    padding: 7px 9pt 4px;
-} */   
-
-.box {
-    padding: 15px 15pt 15px 15px;
-}    
-
-
-body {background-color: #F8F9F9 !important}
-
-/*Navigation bar --------------------------------------------- */
-  
-#more {display: none;}
-
-.navbar {
-    font-size: 13pt;
-}
-
-.nav-tabs-custom > .nav-tabs > li.active{
-    border-top-color: white;
-    border-bottom-color: white !important;
-    font-size: 13pt;
-}
-
-.nav-tabs-custom .nav-tabs li.active a {
-  color: rgb(100,100,100) !important;
-  font-weight: bold;
-  background-color: white !important;
-  border-top-color: #D5DBDB; !important;
-  border-bottom-color: white; !important;
-}
-
-/* To set color on hover */
-.nav-tabs-custom .nav-tabs > li.active > a:hover {
-  color: rgb(100,100,100) !important;
-  font-weight: bold;
-  background-color: white !important;
-  border-top-color: #D5DBDB; !important;
-  border-bottom-color: white; !important;
-  
-}
-
-/* To set color on hover attempt not active */
-.nav-tabs-custom > .nav-tabs > li:not(.active) > a:hover {
-  rgb(100,100,100);
-  font-weight: bold;
-  text-decoration: underline;
-  opacity: 50%;
-}
-
-.nav-tabs-custom .nav-tabs li:not(.active) a {
-  rgb(100,100,100);
-  font-weight: bold;
-  opacity: 50%;
-  font-size: 13pt;
-
-}
-
-</style>
-
