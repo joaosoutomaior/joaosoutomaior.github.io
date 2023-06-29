@@ -147,7 +147,7 @@ me{
   border: 0px solid #3498DB;
   padding: 10px 0px 10px 10px;
   margin: 0px;
-  width: 130%; 
+  width: 150%; 
   float: left;
   background-color: white;
   text-align: left;
@@ -202,10 +202,9 @@ me{
   font-size: 12pt;
   border: 0px solid #3498DB;
   padding: px;
-  border: 0px solid #3498DB;
   height: 150px;
   margin: 0px;
-  width: 70%;
+  width: 50%;
   position: right;
   float:right;
   background-color: white;
@@ -217,9 +216,9 @@ me{
   font-size: 12pt;
   border: 0px solid #3498DB;
   padding: px;
-  height: 80px;
+  height: 70px;
   margin: 0px;
-  width: 70%;
+  width: 50%;
   position: right;
   float:right;
   background-color: white;
