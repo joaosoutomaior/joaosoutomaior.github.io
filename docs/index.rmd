@@ -3,6 +3,7 @@ title: "Joao M. Souto Maior"
 output: 
   flexdashboard::flex_dashboard:
       vertical_layout: scroll
+      orientation: columns
       css: ./includes/my-css.css
       includes:
         after_body: ./includes/footer.html
@@ -228,15 +229,12 @@ In my research, I rely on innovative methodological approaches to re-examining �
 <br>
 Understanding the organizational behavior of schools has long been a challenging task since school’s internal dynamics are shaped by the decisions of and social interactions between multiple actors, such as students, families, administrators and school staff. Because of this dependence on the social dynamics which emerge from interdependent individual action, one of my research focuses is to apply insights from complex systems approaches in innovative and creative ways to address important questions within school organization research.
 </moredetails>
-</textbox>
 </span>
 </div>
 <div class="figboxsmall">
 <img src="files/abm.png"/>
 </div>
 </div>
-
-<br>
 
 <div class="parentbox">
 <div class="cardfig" data-paper="1001">
@@ -253,7 +251,6 @@ Understanding the organizational behavior of schools has long been a challenging
 <br>
 Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses, advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current methodological strategies to examine the possible existence of biases in these sorting processes.
 </moredetails>
-</textbox>
 </span>
 </div>
 <div class="figboxsmall">
@@ -267,7 +264,6 @@ Among the central decisions which educational institutions have to make is the o
 
 <div class="parentbox">
 <div class="cardfig" data-paper="1">
-<textbox>
 <titlebox>
 <p3>The presence of White students and the emergence of Black-White within-school inequalities: two interaction-based mechanisms.</p3>
 <br>
@@ -285,7 +281,6 @@ Among the central decisions which educational institutions have to make is the o
 <br>
 **Abstract:** This article investigates mechanism-based explanations for a well-known empirical pattern in sociology of education, namely, that Black-White unequal access to school resources -- defined as advanced coursework -- is the highest in racially diverse and majority-White schools. Through an empirically calibrated and validated agent-based model, this study explores the dynamics of two qualitatively informed mechanisms, showing (1) that we have reason to believe that the presence of White students in school can influence the emergence of Black-White advanced enrollment disparities and (2) that such influence can represent another possible explanation for the macro-level pattern of interest. Results contribute to current scholarly accounts of within-school inequalities, shedding light into policy strategies to improve the educational experiences of Black students in racially integrated settings.
 </moredetails>
-</textbox>
 </span>
 </div>
 <div class="figbox">
@@ -295,7 +290,6 @@ Among the central decisions which educational institutions have to make is the o
 
 <div class="parentbox">
 <div class="cardfig" data-paper="2">
-<textbox>
 <titlebox>
 <p3>Adjusting for academic preparedness when estimating enrollment disparities in advanced high school coursework</p3>
 <br>
@@ -317,7 +311,6 @@ We introduce a novel measure of academic preparedness, a student's *ex-ante* pro
 We illustrate this approach by analyzing Black-White disparities in AP mathematics enrollment in a large, urban, public school system in the United States.
 We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics, and contrast our results with those from traditional approaches.
 </moredetails>
-</textbox>
 </span>
 </div>
 <div class="figbox">
@@ -327,7 +320,6 @@ We find that preexisting differences in academic preparation do not fully explai
 
 <div class="parentbox">
 <div class="cardfig" data-paper="3">
-<textbox>
 <titlebox>
 <p3>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools</p3>
 <br>
@@ -344,7 +336,6 @@ We find that preexisting differences in academic preparation do not fully explai
 <moredetails>
 **Abstract:** Sociologists of education increasingly highlight the role of opportunity hoarding in the formation of Black-White educational inequalities. Informed by this literature, this article unpacks the necessary and sufficient conditions under which the hoarding of educational resources emerges within schools. It develops a qualitatively informed agent-based model which captures Black and White students' competition for a valuable school resource: advanced coursework. In contrast to traditional accounts -- which explain the emergence of hoarding through the actions of Whites that keep valuable resources within White communities -- simulations, perhaps surprisingly, show hoarding to arise even when Whites do not play the role of hoarders of resources. Behind this result is the fact that a structural inequality (i.e., racial differences in social class) -- and not action-driven hoarding -- is the necessary condition for hoarding to emerge. Findings, therefore, illustrate that common action-driven understandings of opportunity hoarding can overlook the structural foundations behind this important phenomenon. Policy implications are discussed.
 </moredetails>
-</textbox>
 </span>
 </div>
 <div class="figbox">
@@ -352,12 +343,12 @@ We find that preexisting differences in academic preparation do not fully explai
 </div>
 </div>
 
+
 ###
 
 <p1> Papers in progress </p1>
 
 <div class="card" data-inprogress="1">
-<textbox>
 <titlebox>
 <p3>The salience of mechanisms shaping within-school racial inequalities across school- and district-level characteristics</p3>
 <br>
@@ -373,12 +364,10 @@ We find that preexisting differences in academic preparation do not fully explai
 <moredetails>
 I explore the school- and district-level characteristics under which the agent-based model constructed in "Black-White advanced enrollment inequalities and the share of White students in school: an agent-based modeling investigation" performs best, providing insights on circumstances under which the inequality-producing mechanisms considered in the model tend to be more salient.
 </moredetails>
-</textbox>
 </span>
 </div>
 
 <div class="card" data-inprogress="2">
-<textbox>
 <titlebox>
 <p3>Determinants of race- and class-based educational inequalities within Brazilian high schools</p3>
 <br>
@@ -393,12 +382,10 @@ I explore the school- and district-level characteristics under which the agent-b
 <moredetails>
 This paper aims at filling the gap of descriptive investigations of within-school educational inequalities in Brazil. Using publicly-available data from national high school exams, I rely on multilevel-models of student performance with school- and race-specific random effects to highlight the school-level factors correlated with within-school inequalities. An ultimate goal of the project is to allow its academic findings to be accessible to the general public---journalists, policymakers and those who wish to invest in better conditions for learning in Brazilian schools. A final product of this work is the publishing of an accessible and interactive dashboard application, which maps race- and class-based within-school inequalities across Brazilian schools, allowing users to gain both a broad and school-specific view of the study's results.
 </moredetails>
-</textbox>
 </span>
 </div>
 
 <div class="card" data-inprogress="3">
-<textbox>
 <titlebox>
 <p3>Stepping out of the closet and into engagement: a quantitative analysis of outness, GSA engagement, and classroom engagement</p3>
 <br>
@@ -413,7 +400,6 @@ Hank Sherwood, <me>Joao Souto-Maior</me>, Paul Poteat, Hirokazu Yoshikawa, Jerel
 <moredetails>
 Using survey data from Massachusetts, New York paper, and San Diego schools, the project examines the role of gender and sexual outness on student classroom engagement. As a second author, my primary contribution to this project consists of providing a methodological assistance and of developing the code for the data analysis.
 </moredetails>
-</textbox>
 </span>
 </div>
 
@@ -435,7 +421,6 @@ Column
 <p1>Laboratory instructor</p1>
 
 <div class="card" data-course="6">
-<textbox>
 <titlebox>
 <p3>Undergraduate basic statistics</p3>
 <br>
@@ -457,7 +442,6 @@ Effect size, study designs (observational and experimental) and research concept
 and causation; confounding and interaction) will also be addressed. The IBM-SPSS software will
 be used for data analysis.
 </moredetails>
-</textbox>
 </span>
 </div>
 
@@ -469,7 +453,6 @@ Column
 <p1>Teaching assistant</p1>
 
 <div class="card" data-course="3">
-<textbox>
 <titlebox>
 <p3>Introduction to US education: historical and contemporary perspectives</p3>
 <br>
@@ -489,12 +472,10 @@ through the lens of history. How have these issues developed over the last three
 <br>
 For those who are preparing for careers in teaching, or for students who are interested in education as a field of study (who may want to be journalists or researchers or activists in the field), this course should provide important background historical context. For students of history or politics or who bring a general interest to the questions of this course, Introduction to U.S. Education is designed to help us understand current political, pedagogical, and economic debates.
 </moredetails>
-</textbox>
 </span>
 </div>
 
 <div class="card" data-course="4">
-<textbox>
 <titlebox>
 <p3>Political economy of education: why does college cost so much?</p3>
 <br>
@@ -510,12 +491,10 @@ New York University --- Fall 2022
 <moredetails>
 College in the United States is expensive, really expensive. For 2022-23, a 120 credit undergraduate degree costs at least $200,000 at many private elite universities (like NYU) – plus all sorts of miscellaneous fees, lodging and food charges, books and more. Why does it cost so much? Is it a good deal? Why do so many high school students apply to study at such expensive institutions when there are cheaper alternatives available? Who is able to attend, and who is excluded? Why do college costs keep rising so fast? Shouldn’t college be free? The purpose of this course is to provide answers to these kinds of questions. It will introduce students to a range of economic concepts and empirical evidence that speaks to: the value of higher education for individuals and for societies; federal, state, and institutional financial aid policies; university budgets and spending priorities. We will consider individual student, institutional and societal perspectives.
 </moredetails>
-</textbox>
 </span>
 </div>
 
 <div class="card" data-course="5">
-<textbox>
 <titlebox>
 <p3>Qualitative methods in international education</p3>
 <br>
@@ -534,7 +513,6 @@ international and comparative education and the social sciences more broadly. It
 provide an overview of research design, data collection, and data analysis and presentation most
 commonly associated with qualitative research. 
 </moredetails>
-</textbox>
 </span>
 </div>
 
@@ -546,7 +524,6 @@ Column
 <p1>Seminar leader</p1>
 
 <div class="card" data-course="2">
-<textbox>
 <titlebox>
 <p3>URS seminar: research, creative work and the public good</p3>
 <br>
@@ -571,12 +548,10 @@ different parts of the world we inhabit. Come prepared to share your thinking on
 introduced. Through discussions, activities and assignments you may learn as much from one
 another as you learn through your research project.
 </moredetails>
-</textbox>
 </span>
 </div>
 
 <div class="card" data-course="1">
-<textbox>
 <titlebox>
 <p3>URS seminar: research and creative work at the boundaries</p3>
 <br>
@@ -600,7 +575,6 @@ and touching on a range of societal problems. The theme is to provoke reflection
 introduced. Through discussions, activities and assignments you may learn as much from one
 another as you learn through your research project.
 </moredetails>
-</textbox>
 </span>
 </div>
 
@@ -616,7 +590,6 @@ Column
 <p1>PhD study</p1>
 
 <div class="card" data-item="1">
-<textbox>
 <titlebox>
 <p3>PhD dissertation</p3>
 <br>
@@ -643,12 +616,10 @@ The purpose of the project is to identify and explore the dynamics of the mechan
 - Ravi Shroff
 <br>
 </moredetails>
-</textbox>
 </span>
 </div>
 
 <div class="card" data-item="2">
-<textbox>
 <titlebox>
 <p3>PhD coursework</p3>
 <br>
@@ -664,12 +635,10 @@ Areas of concentration: school organization; quantitative methods.
 <moredetails>
 Chosen courses result from the required courses for program completion and elective courses chosen together with the PhD advisor.
 </moredetails>
-</textbox>
 </span>
 </div>
 
 <div class="card" data-item="3">
-<textbox>
 <titlebox>
 <p3>Comprehensive oral exam</p3>
 <br>
@@ -683,12 +652,10 @@ Chosen courses result from the required courses for program completion and elect
 <moredetails>
 The doctoral comprehensive examination in the Sociology of Education program is intended for students to achieve and demonstrate a comprehensive working knowledge of a large subfield of sociology. We trust that the knowledge facilitated by the exam will serve our students well as they write their dissertations and continue into subsequent stages of their careers. The exam consists of an oral examination in two areas: (1) a list of 18 books and articles that our program considers to be foundational to the field of Sociology of Education and (2) approximately 32 additional readings (for a total of approximately 50 readings on the comps list), both theoretical and empirical, in an area of the student’s specialization.
 </moredetails>
-</textbox>
 </span>
 </div>
 
 <div class="card" data-item="4">
-<textbox>
 <titlebox>
 <p3>Independent study: Black-White within-school achievement gaps</p3>
 <br>
@@ -702,7 +669,6 @@ The doctoral comprehensive examination in the Sociology of Education program is 
 <moredetails>
 In this independent study, my goal was to review some of the key explanations for within-school achievement gaps in the sociology of education literature. I am particularly interested in texts discussing how school contexts and school characteristics contribute to or mitigate the production of academic inequality within schools. My literature review focuses on four key themes: (1) peer networks, (2) student course taking, (3) teacher expectations and (4) parental influence.
 </moredetails>
-</textbox>
 </span>
 </div>
 
@@ -714,7 +680,6 @@ Column
 <p1>Tools for interactive visualizations</p1>
 
 <div class="card" data-topic="5">
-<textbox>
 <titlebox>
 <p3>A dashboard of inequality in Sao Paulo high schools</p3>
 <br>
@@ -725,7 +690,6 @@ Column
 </titlebox>
 <br>
 <span class="dots"></span><span class="more" style="display: none;">
-</textbox>
 </span>
 </div>
 
@@ -737,7 +701,6 @@ Column
 <p1>New books network (NBN) podcast</p1>
 
 <div class="card" data-topic="6">
-<textbox>
 <titlebox>
 <p3>Host of new books in education</p3>
 <br>
@@ -751,6 +714,5 @@ Column
 <moredetails>
 The [New Books Network](https://newbooksnetwork.com/) is the largest book podcast network in the world, reaching hundreds of thousands of listeners a month and with listeners downloading well over a million NBN episodes each month. The purpose of NBN interviews is to allow authors to tell the audience what they found in their research and what they wrote in their books. It is a wonderful idea, connecting authors with a large audience worldwide, and advancing the broad goal of public education.
 </moredetails>
-</textbox>
 </span>
 </div>

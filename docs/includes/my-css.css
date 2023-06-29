@@ -150,15 +150,16 @@ me{
   width: 130%; 
   float: left;
   background-color: white;
-  display: block;
   text-align: left;
+  display: block;
   break-inside: avoid-column;
+
 }
 
 .parentbox{
   column-count: 2;
   column-gap: 0px;
-  row-gap: 10px;
+  row-gap: 0px;
   row-count: 1;
   break-inside: avoid-row; 
 }
@@ -166,7 +167,6 @@ me{
 .titlebox{
   width: 100%; 
   font-size: 12pt;
-  height: 120px;
   background-color: white !important;
   padding: 5px 6px !important;
   display: inline-block;
@@ -177,7 +177,6 @@ me{
 .titleboxsmall{
   width: 100%; 
   font-size: 12pt;
-  height: 80px;
   background-color: white !important;
   padding: 5px 6px !important;
   display: inline-block;
@@ -203,7 +202,8 @@ me{
   font-size: 12pt;
   border: 0px solid #3498DB;
   padding: px;
-  height: 120px;
+  border: 0px solid #3498DB;
+  height: 150px;
   margin: 0px;
   width: 70%;
   position: right;
