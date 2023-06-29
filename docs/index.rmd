@@ -176,7 +176,6 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 
 <p1>Areas of Research</p1>
 
-<p>
 <i class="fa-solid fa-book" style="font-size: 8pt"></i> Organizations
 <br>
 <i class="fa-solid fa-book" style="font-size: 8pt"></i> Education policy
@@ -184,13 +183,11 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 <i class="fa-solid fa-book" style="font-size: 8pt"></i> Racial inequality
 <br>
 <i class="fa-solid fa-book" style="font-size: 8pt"></i> Computational methods
-</p>
 
 ###
 
 <p1>Education</p1>
 
-<p>
 <i class="fa-solid fa-graduation-cap" style="font-size: 8pt"></i> Ph.D. Sociology of Education --- 2023
 <br>
 <p2>&emsp; New York University</p2>
@@ -202,7 +199,6 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 <i class="fa-solid fa-graduation-cap" style="font-size: 8pt"></i> B.A. Economics with mathematical emphasis --- 2017
 <br>
 <p2>&emsp; University of Wisconsin-Madison</p2>
-</p>
 
 Research 
 =====================================
