@@ -250,6 +250,10 @@ body {background-color: #F8F9F9 !important}
     font-size: 13pt;
 }
 
+.navbar-logo{
+    font-size: 13pt;
+}
+
 .nav-tabs-custom > .nav-tabs > li.active{
     border-top-color: white;
     border-bottom-color: white !important;
