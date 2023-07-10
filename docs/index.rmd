@@ -1,5 +1,5 @@
 ---
-title: "Joao M. Souto Maior"
+title: "Joao Souto Maior"
 output: 
   flexdashboard::flex_dashboard:
       vertical_layout: scroll
@@ -17,8 +17,6 @@ output:
         heading_font:
           google: Roboto
 ---
-
-
 
 
 <script>
@@ -138,9 +136,9 @@ Joao M. Souto-Maior
 </p1> 
 <p2> 
 <br>
-PhD Candidate, Sociology of Education
+Postdoctoral associate
 <br>
- New York University
+New York University
 <br>
 <a href="files/JSM_cv.pdf" target="_blank" class = "a2" >CV</a>
 <a href="https://github.com/joaosoutomaior/" target="_blank" class = "a2" ><i class="fa-brands fa-github"></i></a>
@@ -166,7 +164,7 @@ Column {data-width=700}
 
 Welcome to my website!
 
-I am a postdoctoral associate (effective August, 2023) at the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. I am on the 2023-24 job market.
+I am a postdoctoral associate (effective August, 2023) in the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. I am on the 2023-24 job market.
 
 Please navigate across the pages to learn about my research; teaching; and to access selected resources.
 
@@ -199,6 +197,12 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 <i class="fa-solid fa-graduation-cap" style="font-size: 8pt"></i> B.A. Economics with mathematical emphasis --- 2017
 <br>
 <p2>&emsp; University of Wisconsin-Madison</p2>
+
+### 
+
+<p1>Note</p1>
+
+<i class="fa-solid fa-note-sticky" style="font-size: 8pt"></i> For research/publication purposes, I use a hyphenated version of my last name: Souto-Maior.
 
 Research 
 =====================================
@@ -398,12 +402,6 @@ Using survey data from Massachusetts, New York paper, and San Diego schools, the
 </moredetails>
 </span>
 </div>
-
-###
-
-<p>
-**Note:** for publication purposes, I use a hyphenated version of my last name: Souto-Maior.
-</p>
 
 
 Teaching
