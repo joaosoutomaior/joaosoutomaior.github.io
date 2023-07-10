@@ -166,7 +166,7 @@ Column {data-width=700}
 
 Welcome to my website!
 
-I am a fifth-year Ph.D. student in [Sociology of Education](https://steinhardt.nyu.edu/programs/sociology-education) in the [Department of Applied Statistics, Social Science and Humanities](https://steinhardt.nyu.edu/departments/applied-statistics-social-science-and-humanities) at [New York University's Steinhardt School of Culture, Education and Human Development](https://steinhardt.nyu.edu/). I am on the 2023-24 job market.
+I am a postdoctoral associate (effective August, 2023) at the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. I am on the 2023-24 job market.
 
 Please navigate across the pages to learn about my research; teaching; and to access selected resources.
 
@@ -245,7 +245,7 @@ Understanding the organizational behavior of schools has long been a challenging
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
 <br>
-Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses, advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current methodological strategies to examine the possible existence of biases in these sorting processes.
+Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses; advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current methodological strategies to examine the possible existence of biases in these sorting processes.
 </moredetails>
 </span>
 </div>
