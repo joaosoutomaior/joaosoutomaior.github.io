@@ -166,7 +166,7 @@ Welcome to my website!
 
 I am a postdoctoral associate (effective in August, 2023) in the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. I am on the 2023-24 job market.
 
-In my research, I rely on innovative methodological approaches---such as qualitatively informed agent-based models and machine learning techniques---to re-examining “old” questions in education
+In my research, I rely on innovative methodological approaches---such as qualitatively informed agent-based models and machine learning techniques---to re-examine “old” questions in education
 research. Doing so, I hope to improve the quality of evidence on questions of great
 relevance to education policy and practice. In particular, I concentrate on questions related to the organizational decisions of educational institutions and how they impact unequal educational opportunities across race and class lines. 
 
