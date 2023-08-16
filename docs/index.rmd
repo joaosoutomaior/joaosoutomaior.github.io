@@ -701,7 +701,7 @@ Column
 <br>
 <left>
 <button onclick="readMore4('6')" class="button" style="float: left" style="float: right">more</button>
-<a href="https://newbooksnetwork.com/hosts/profile/8b8ec5a3-bdb5-43ca-ada6-3fc2f82f9af5" target="_blank" class="a2">My Episodes</a> 
+<a href="https://newbooksnetwork.com/hosts/profile/8b8ec5a3-bdb5-43ca-ada6-3fc2f82f9af5" target="_blank" class="a2">my episodes</a> 
 </left>
 </titlebox>
 <br>
