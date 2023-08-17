@@ -622,7 +622,7 @@ Areas of concentration: school organization; quantitative methods.
 <br>
 <left>
 <button onclick="readMore3('2')" class="button" style="float: left" style="float: right">more</button>
-<a href="files/JSM_PhD-coursework.pdf" target="_blank" class="a2">Course list</a> 
+<a href="files/JSM_PhD-coursework.pdf" target="_blank" class="a2">course list</a> 
 </left>
 </titlebox>
 <br>
@@ -656,7 +656,7 @@ The doctoral comprehensive examination in the Sociology of Education program is 
 <br>
 <left>
 <button onclick="readMore3('4')" class="button" style="float: left" style="float: right">more</button>
-<a href="files/JSM_within-school-gaps-course.pdf" target="_blank" class="a2">Reading list</a>
+<a href="files/JSM_within-school-gaps-course.pdf" target="_blank" class="a2">reading list</a>
 </left>
 </titlebox>
 <br>
@@ -680,7 +680,7 @@ Column
 <br>
 <left>
 <button onclick="readMore4('5')" class="button" style="float: left" style="float: right">more</button>
-<a href="https://joaomsoutomaior.shinyapps.io/SaoPaulo_HighSchools_ENEM2019/" target="_blank" class = "a2">Dashboard</a>
+<a href="https://joaomsoutomaior.shinyapps.io/SaoPaulo_HighSchools_ENEM2019/" target="_blank" class = "a2">dashboard</a>
 </left>
 </titlebox>
 <br>
