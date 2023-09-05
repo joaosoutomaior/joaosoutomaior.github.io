@@ -140,7 +140,7 @@ Postdoctoral associate
 <br>
 New York University
 <br>
-<a href="files/JSM_cv.pdf" target="_blank" class = "a2" >CV</a>
+<a href="files/JSM_cv_website.pdf" target="_blank" class = "a2" >CV</a>
 <a href="https://github.com/joaosoutomaior/" target="_blank" class = "a2" ><i class="fa-brands fa-github"></i></a>
 <a href="https://scholar.google.com/citations?user=z231epEAAAAJ&hl=pt-BR&oi=ao" target="_blank" class = "a2"><i class="fa-solid fa-graduation-cap"></i></a>
 </center>
@@ -164,11 +164,9 @@ Column {data-width=700}
 
 Welcome to my website!
 
-I am a postdoctoral associate (effective in August, 2023) in the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. I am on the 2023-24 job market.
+I am a postdoctoral associate in the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. I am on the 2023-24 job market.
 
-In my research, I rely on innovative methodological approaches---such as qualitatively informed agent-based models and machine learning techniques---to re-examine “old” questions in education
-research. Doing so, I hope to improve the quality of evidence on questions of great
-relevance to education policy and practice. In particular, I concentrate on questions related to the organizational decisions of educational institutions and how they impact unequal educational opportunities across race and class lines. 
+I study the organizational decisions of educational institutions and how they contribute to (or mitigate) the social stratification of educational opportunities, primarily across racial lines. I concentrate on the formation of unequal educational experiences within-schools, looking at organization practices---such as curriculum differentiation, special education identification and school discipline---which sort students into different academic experiences, and can produce racialized organizational hierarchies. Central to my research is the use of innovative computational approaches to address questions which have imposed methodological challenges to traditional techniques. 
 
 In my dissertation (advised by L'Heureux Lewis-McCoy and with support from [NYU's agent-based modeling lab](https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab)), I designed qualitatively-informed agent-based models to address questions concerning the emergence of educational inequalities---defined as access to advanced coursework---between Black and White students who attend the same school. I investigated the role of racial composition on Black students' educational opportunities and explored how educational opportunities are hoarded within schools. 
 
@@ -213,7 +211,7 @@ Research
 
 <p1>Research agenda</p1>
 
-In my research, I rely on innovative methodological approaches to re-examining “old” questions in education research. Doing so, I hope to improve the quality of evidence on some of the key questions to education policy and practice. In particular, I concentrate on questions related to the organization of educational institutions, looking at how organizational decisions impact the formation of racial and socioeconomic inequalities in education opportunity. This work is defined by two main areas of research, detailed below.
+I use of innovative computational approaches to address methodologically-challenging questions related to how the organizational decisions of educational institutions contribute to (or mitigate) the social stratification of educational opportunities. This work is defined by two main areas of research, detailed below.
 
 <div class="parentbox">
 <div class="cardfig" data-paper="1000">
@@ -250,7 +248,7 @@ Understanding the organizational behavior of schools has long been a challenging
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
 <br>
-Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses; advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current methodological strategies to examine the possible existence of biases in these sorting processes.
+Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses; advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current statistical strategies to examine the possible existence of biases in these sorting processes.
 </moredetails>
 </span>
 </div>
@@ -342,66 +340,6 @@ We find that preexisting differences in academic preparation do not fully explai
 <div class="figbox">
 <img src="files/fig-baseline-effects-colored.png"/>
 </div>
-</div>
-
-
-###
-
-<p1> Papers in progress </p1>
-
-<div class="card" data-inprogress="1">
-<titlebox>
-<p3>The salience of mechanisms shaping within-school racial inequalities across school- and district-level characteristics</p3>
-<br>
-<me>Joao Souto-Maior.</me>
-<br>
-<left>
-<button onclick="readMore5('1')" class="button" style="float: left">more</button>
-<i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i>
-</left>
-</titlebox>
-<br> 
-<span class="dots"></span><span class="more" style="display: none">
-<moredetails>
-I explore the school- and district-level characteristics under which the agent-based model constructed in "Black-White advanced enrollment inequalities and the share of White students in school: an agent-based modeling investigation" performs best, providing insights on circumstances under which the inequality-producing mechanisms considered in the model tend to be more salient.
-</moredetails>
-</span>
-</div>
-
-<div class="card" data-inprogress="2">
-<titlebox>
-<p3>Determinants of race- and class-based educational inequalities within Brazilian high schools</p3>
-<br>
-<me>Joao Souto-Maior.</me>
-<br>
-<left>
-<button onclick="readMore5('2')" class="button" style="float: left">more</button>
-</left>
-</titlebox>
-<br> 
-<span class="dots"></span><span class="more" style="display: none">
-<moredetails>
-This paper aims at filling the gap of descriptive investigations of within-school educational inequalities in Brazil. Using publicly-available data from national high school exams, I rely on multilevel-models of student performance with school- and race-specific random effects to highlight the school-level factors correlated with within-school inequalities. An ultimate goal of the project is to allow its academic findings to be accessible to the general public---journalists, policymakers and those who wish to invest in better conditions for learning in Brazilian schools. A final product of this work is the publishing of an accessible and interactive dashboard application, which maps race- and class-based within-school inequalities across Brazilian schools, allowing users to gain both a broad and school-specific view of the study's results.
-</moredetails>
-</span>
-</div>
-
-<div class="card" data-inprogress="3">
-<titlebox>
-<p3>Stepping out of the closet and into engagement: a quantitative analysis of outness, GSA engagement, and classroom engagement</p3>
-<br>
-Hank Sherwood, <me>Joao Souto-Maior</me>, Paul Poteat, Hirokazu Yoshikawa, Jerel Calzo.
-<br>
-<left>
-<button onclick="readMore5('3')" class="button" style="float: left">more</button> <a href="https://github.com/joaosoutomaior/outness-engagement-GSAs-code" class = "a2" >code</a>
-</left>
-</titlebox>
-<br>
-<span class="dots"></span><span class="more" style="display: none">
-<moredetails>
-Using survey data from Massachusetts, New York paper, and San Diego schools, the project examines the role of gender and sexual outness on student classroom engagement. As a second author, my primary contribution to this project consists of providing a methodological assistance and of developing the code for the data analysis.
-</moredetails>
-</span>
 </div>
 
 
