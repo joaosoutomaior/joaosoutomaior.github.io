@@ -216,7 +216,7 @@ I use of innovative computational approaches to address methodologically-challen
 <div class="parentbox">
 <div class="cardfig" data-paper="1000">
 <titleboxsmall>
-<p3><i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i> Bringing insights from complex systems to school organization research</p3>
+<p3>Bringing insights from complex systems to school organization research (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
 <br>
 <left>
 <button onclick="readMore1('1000')" class="button" style="float: left">more</button>
@@ -238,7 +238,7 @@ Understanding the organizational behavior of schools has long been a challenging
 <div class="parentbox">
 <div class="cardfig" data-paper="1001">
 <titleboxsmall>
-<p3><i class="fa-solid fa-circle" style="color:green; font-size: 9pt"></i> Rethinking the analysis of bias in student sorting processes</p3>
+<p3>Rethinking the analysis of bias in student sorting processes (color code = <i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>)</p3>
 <br>
 <left>
 <button onclick="readMore1('1001')" class="button" style="float: left">more</button>
@@ -271,7 +271,7 @@ Among the central decisions which educational institutions have to make is the o
 <left>
 <button onclick="readMore1('1')" class="button" style="float: left">more</button>
 <a href="https://arxiv.org/pdf/2304.04849.pdf" target="_blank" class = "a2">pdf</a>
-<i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i>
+<i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>
 </left>
 </titlebox>
 <br>
@@ -297,7 +297,7 @@ Among the central decisions which educational institutions have to make is the o
 <left>
 <button onclick="readMore1('2')" class="button" style="float: left">more</button>
 <a href="https://arxiv.org/pdf/2306.15075.pdf" target="_blank" class = "a2">pdf</a>
-<i class="fa-solid fa-circle" style="color:green; font-size: 9pt"></i>
+<i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>
 </left>
 </titlebox>
 <br>
@@ -327,7 +327,7 @@ We find that preexisting differences in academic preparation do not fully explai
 <left>
 <button onclick="readMore1('3')" class="button" style="float: left">more</button>
 <a href="https://arxiv.org/pdf/2305.14653.pdf" target="_blank" class = "a2">pdf</a>
-<i class="fa-solid fa-circle" style="color:orange; font-size: 9pt"></i>
+<i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>
 </left>
 </titlebox>
 <br> 
@@ -577,7 +577,7 @@ Chosen courses result from the required courses for program completion and elect
 <br>
 <left>
 <button onclick="readMore3('3')" class="button" style="float: left" style="float: right">more</button>
-<a href="files/JSM_comps-list.pdf" target="_blank" class="a2">Reading list</a> 
+<a href="files/JSM_comps-list.pdf" target="_blank" class="a2">reading list</a> 
 </left>
 </titlebox>
 <br>
