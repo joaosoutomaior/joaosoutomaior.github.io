@@ -211,12 +211,12 @@ Research
 
 <p1>Research agenda</p1>
 
-I use of innovative computational approaches to address methodologically-challenging questions related to how the organizational decisions of educational institutions contribute to (or mitigate) the social stratification of educational opportunities. This work is defined by two main areas of research, detailed below.
+My research concentrates on the design and application of innovative computational approaches to address methodologically-challenging questions related to how the organizational decisions of educational institutions contribute to (or mitigate) the social stratification of educational opportunities. This work is defined by two main areas of research, detailed below.
 
 <div class="parentbox">
 <div class="cardfig" data-paper="1000">
 <titleboxsmall>
-<p3>Bringing insights from complex systems to school organization research (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
+<p3>A complex systems approach to questions in the sociology of education (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
 <br>
 <left>
 <button onclick="readMore1('1000')" class="button" style="float: left">more</button>
