@@ -147,20 +147,32 @@ me{
   border: 0px solid #3498DB;
   padding: 10px 0px 10px 10px;
   margin: 0px;
+  width: 100%; 
+  float: left;
+  background-color: white;
+  text-align: left;
+  display: block;
+  break-inside: avoid-column;
+}
+
+.cardtopic{
+  font-size: 14pt;
+  border: 0px solid #3498DB;
+  padding: 10px 0px 10px 10px;
+  margin: 0px;
   width: 150%; 
   float: left;
   background-color: white;
   text-align: left;
   display: block;
   break-inside: avoid-column;
-
 }
 
 .parentbox{
   column-count: 2;
   column-gap: 0px;
   row-gap: 0px;
-  row-count: 1;
+  row-count: 2;
   break-inside: avoid-row; 
 }
 
@@ -184,7 +196,7 @@ me{
   color: rgb(100,100,100);
 }
 
-.figbox2 img {
+.figboxavatar img {
   font-size: 14pt;
   border: 0px solid #3498DB;
   padding: px;
@@ -201,12 +213,12 @@ me{
 .figbox img {
   font-size: 14pt;
   border: 0px solid #3498DB;
-  padding: px;
-  height: 150px;
+  padding: 0px;
+  height: 125px;
   margin: 0px;
   width: 50%;
   position: right;
-  float:right;
+  float: right;
   background-color: white;
   object-fit: contain;
   object-position: left top;
@@ -215,10 +227,10 @@ me{
 .figboxsmall img {
   font-size: 14pt;
   border: 0px solid #3498DB;
-  padding: px;
+  padding: 5px;
   height: 70px;
   margin: 0px;
-  width: 50%;
+  width: 100%;
   position: right;
   float:right;
   background-color: white;

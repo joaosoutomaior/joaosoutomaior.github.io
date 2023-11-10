@@ -127,7 +127,7 @@ Column {data-width=300}
   text-align: left;
   break-inside: avoid-column;">
   
-<div class="figbox2">
+<div class="figboxavatar">
 <img src="files/JSM_profile-pic.jpg"/>
 </div>
 <center>
@@ -166,7 +166,7 @@ Welcome to my website!
 
 I am a postdoctoral associate in the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. I am on the 2023-24 job market.
 
-I study the organizational decisions of educational institutions and how they contribute to (or mitigate) the social stratification of educational opportunities, primarily across racial lines. I concentrate on the formation of unequal educational experiences within schools, looking at organization practices---such as curriculum differentiation, special education identification and school discipline---which sort students into different academic experiences, and can produce racialized organizational hierarchies. Central to my research is the use of innovative computational approaches to address questions which have imposed methodological challenges to traditional techniques. 
+I study the organizational decisions of educational institutions and how they contribute to (or mitigate) the social stratification of educational opportunities, primarily across racial lines. I concentrate on the formation of unequal educational experiences within schools, looking at organization practices---such as curriculum differentiation, special education identification and school discipline---which sort students into different academic experiences, and can produce racialized organizational hierarchies. Central to my research is the use of innovative computational approaches---such as agent-based modeling and machine learning---to address questions which have imposed methodological challenges to traditional techniques. 
 
 In my dissertation (advised by L'Heureux Lewis-McCoy and with support from [NYU's agent-based modeling lab](https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab)), I designed qualitatively-informed agent-based models to address questions concerning the emergence of educational inequalities---defined as access to advanced coursework---between Black and White students who attend the same school. I investigated the role of racial composition on Black students' educational opportunities and explored how educational opportunities are hoarded within schools. 
 
@@ -214,45 +214,28 @@ Research
 My research concentrates on the design and application of innovative computational approaches to address methodologically-challenging questions related to how the organizational decisions of educational institutions contribute to (or mitigate) the social stratification of educational opportunities. This work is defined by two main areas of research, detailed below.
 
 <div class="parentbox">
-<div class="cardfig" data-paper="1000">
-<titleboxsmall>
-<p3>A complex systems approach to questions in the sociology of education (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
+<div class="cardtopic">
+<p3>A complex systems approach to questions in the sociology of education <br> (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
 <br>
-<left>
-<button onclick="readMore1('1000')" class="button" style="float: left">more</button>
-</left>
-</titleboxsmall>
-<br>
-<span class="dots"></span><span class="more" style="display: none">
 <moredetails>
-<br>
 Understanding the organizational behavior of schools has long been a challenging task since school’s internal dynamics are shaped by the decisions of and social interactions between multiple actors, such as students, families, administrators and school staff. Because of this dependence on the social dynamics which emerge from interdependent individual action, one of my research focuses is to apply insights from complex systems approaches in innovative and creative ways to address important questions within school organization research.
 </moredetails>
-</span>
 </div>
-<div class="figboxsmall">
+<div class="figbox">
 <img src="files/abm.png"/>
 </div>
 </div>
 
 <div class="parentbox">
-<div class="cardfig" data-paper="1001">
-<titleboxsmall>
-<p3>Rethinking the analysis of bias in student sorting processes (color code = <i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>)</p3>
-<br>
-<left>
-<button onclick="readMore1('1001')" class="button" style="float: left">more</button>
-</left>
-</titleboxsmall>
-<br>
-<span class="dots"></span><span class="more" style="display: none">
+<div class="cardtopic">
+<titleboxtopic>
+<p3>Rethinking the analysis of bias in student sorting processes <br> (color code = <i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>)</p3>
+</titleboxtopic>
 <moredetails>
-<br>
 Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses; advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current statistical strategies to examine the possible existence of biases in these sorting processes.
 </moredetails>
-</span>
 </div>
-<div class="figboxsmall">
+<div class="figbox">
 <img src="files/sorting.jpg"/>
 </div>
 </div>
@@ -261,7 +244,6 @@ Among the central decisions which educational institutions have to make is the o
 
 <p1> Papers under review </p1>
 
-<div class="parentbox">
 <div class="cardfig" data-paper="1">
 <titlebox>
 <p3>The presence of White students and the emergence of Black-White within-school inequalities: two interaction-based mechanisms.</p3>
@@ -277,22 +259,16 @@ Among the central decisions which educational institutions have to make is the o
 <br>
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
-<br>
 **Abstract:** This article investigates mechanism-based explanations for a well-known empirical pattern in sociology of education, namely, that Black-White unequal access to school resources -- defined as advanced coursework -- is the highest in racially diverse and majority-White schools. Through an empirically calibrated and validated agent-based model, this study explores the dynamics of two qualitatively informed mechanisms, showing (1) that we have reason to believe that the presence of White students in school can influence the emergence of Black-White advanced enrollment disparities and (2) that such influence can represent another possible explanation for the macro-level pattern of interest. Results contribute to current scholarly accounts of within-school inequalities, shedding light into policy strategies to improve the educational experiences of Black students in racially integrated settings.
 </moredetails>
 </span>
 </div>
-<div class="figbox">
-<img src="files/fig-AE-model-experiment.png"/>
-</div>
-</div>
 
-<div class="parentbox">
 <div class="cardfig" data-paper="2">
 <titlebox>
 <p3>Adjusting for academic preparedness when estimating enrollment disparities in advanced high school coursework</p3>
 <br>
-<me>Joao Souto-Maior</me> & Ravi Shroff (2022). *arXiv preprint*.
+<me>Joao Souto-Maior</me> and Ravi Shroff (2022). *arXiv preprint*.
 <br>
 <left>
 <button onclick="readMore1('2')" class="button" style="float: left">more</button>
@@ -312,12 +288,7 @@ We find that preexisting differences in academic preparation do not fully explai
 </moredetails>
 </span>
 </div>
-<div class="figbox">
-<img src="files/fig-disparate-impact-models.png"/>
-</div>
-</div>
 
-<div class="parentbox">
 <div class="cardfig" data-paper="3">
 <titlebox>
 <p3>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools</p3>
@@ -337,9 +308,24 @@ We find that preexisting differences in academic preparation do not fully explai
 </moredetails>
 </span>
 </div>
-<div class="figbox">
-<img src="files/fig-baseline-effects-colored.png"/>
-</div>
+
+<div class="cardfig" data-paper="4">
+<titlebox>
+<p3>Critical appraisal of the evidence on racial disproportionality in special education</p3>
+<br>
+Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me> (2023).
+<br>
+<left>
+<button onclick="readMore1('4')" class="button" style="float: left">more</button>
+<i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>
+</left>
+</titlebox>
+<br> 
+<span class="dots"></span><span class="more" style="display: none">
+<moredetails>
+**Overview:** In this paper, we reflect on the quantitative evidence concerning racial disproportionality in special education services within US schools.
+</moredetails>
+</span>
 </div>
 
 
