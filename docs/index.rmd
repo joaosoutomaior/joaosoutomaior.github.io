@@ -242,7 +242,7 @@ Among the central decisions which educational institutions have to make is the o
 
 ###
 
-<p1> Peer-reviwed publications </p1>
+<p1> Peer-reviewed publications </p1>
 
 <div class="cardfig" data-paper="2">
 <titlebox>
