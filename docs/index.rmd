@@ -242,17 +242,39 @@ Among the central decisions which educational institutions have to make is the o
 
 ###
 
+<p1> Peer-reviwed publications </p1>
+
+<div class="cardfig" data-paper="2">
+<titlebox>
+<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework</p3>
+<br>
+<me>Joao Souto-Maior</me> and Ravi Shroff (2023). *Conditionally accepted at Sociological Science*.
+<br>
+<left>
+<button onclick="readMore1('2')" class="button" style="float: left">more</button>
+<a href="https://arxiv.org/pdf/2306.15075.pdf" target="_blank" class = "a2">arXiv preprint of prior version</a>
+<i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>
+</left>
+</titlebox>
+<br>
+<span class="dots"></span><span class="more" style="display: none">
+<moredetails>
+**Abstract:** Whether racial disparities in enrollment in advanced high school coursework can be attributed to differences in prior academic preparation is a central question in sociological research and education policy. However, previous investigations face methodological limitations, for they compare race-specific enrollment rates of students after adjusting for characteristics only partially related to their academic preparedness for advanced coursework. Informed by a recently-developed statistical technique, we propose and estimate a novel measure of students' academic preparedness and use administrative data from a large, urban, public school system to measure differences in AP mathematics enrollment rates among similarly prepared students of different races. We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics. Our results imply that achieving equal opportunities for AP enrollment not only requires equalizing earlier academic experiences, but also addressing inequities that emerge from coursework placement processes.
+</moredetails>
+</span>
+</div>
+
 <p1> Papers under review </p1>
 
 <div class="cardfig" data-paper="1">
 <titlebox>
 <p3>The presence of White students and the emergence of Black-White within-school inequalities: two interaction-based mechanisms.</p3>
 <br>
-<me>Joao Souto-Maior</me> (2023). *arXiv preprint*.
+<me>Joao Souto-Maior</me>.
 <br>
 <left>
 <button onclick="readMore1('1')" class="button" style="float: left">more</button>
-<a href="https://arxiv.org/pdf/2304.04849.pdf" target="_blank" class = "a2">pdf</a>
+<a href="https://arxiv.org/pdf/2304.04849.pdf" target="_blank" class = "a2">arXiv preprint</a>
 <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>
 </left>
 </titlebox>
@@ -264,40 +286,15 @@ Among the central decisions which educational institutions have to make is the o
 </span>
 </div>
 
-<div class="cardfig" data-paper="2">
-<titlebox>
-<p3>Adjusting for academic preparedness when estimating enrollment disparities in advanced high school coursework</p3>
-<br>
-<me>Joao Souto-Maior</me> and Ravi Shroff (2022). *arXiv preprint*.
-<br>
-<left>
-<button onclick="readMore1('2')" class="button" style="float: left">more</button>
-<a href="https://arxiv.org/pdf/2306.15075.pdf" target="_blank" class = "a2">pdf</a>
-<i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>
-</left>
-</titlebox>
-<br>
-<span class="dots"></span><span class="more" style="display: none">
-<moredetails>
-**Abstract:** Whether racial disparities in enrollment in advanced high school coursework can be attributed to differences in prior academic preparation is a central empirical question in sociological research,  with important implications for education policy. 
-However, the regression-based approaches to this question that are predominant in the literature suffer significant methodological limitations by implicitly assuming that students are similarly prepared if and only if they have similar values on a selected set of academic background measures.
-Here, we provide a general technique to estimate enrollment disparities in advanced coursework between similarly-prepared students of different races that is less vulnerable to these limitations. 
-We introduce a novel measure of academic preparedness, a student's *ex-ante* probability of success in the course, directly adjust for this single measure in a regression model of enrollment on race, and assess the robustness of estimated disparities to potential unmeasured confounding. 
-We illustrate this approach by analyzing Black-White disparities in AP mathematics enrollment in a large, urban, public school system in the United States.
-We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics, and contrast our results with those from traditional approaches.
-</moredetails>
-</span>
-</div>
-
 <div class="cardfig" data-paper="3">
 <titlebox>
 <p3>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools</p3>
 <br>
-<me>Joao Souto-Maior</me> (2023). *arXiv preprint*.
+<me>Joao Souto-Maior</me>. 
 <br>
 <left>
 <button onclick="readMore1('3')" class="button" style="float: left">more</button>
-<a href="https://arxiv.org/pdf/2305.14653.pdf" target="_blank" class = "a2">pdf</a>
+<a href="https://arxiv.org/pdf/2305.14653.pdf" target="_blank" class = "a2">arXiv preprint</a>
 <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>
 </left>
 </titlebox>
@@ -313,7 +310,7 @@ We find that preexisting differences in academic preparation do not fully explai
 <titlebox>
 <p3>Critical appraisal of the evidence on racial disproportionality in special education</p3>
 <br>
-Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me> (2023).
+Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>.
 <br>
 <left>
 <button onclick="readMore1('4')" class="button" style="float: left">more</button>
