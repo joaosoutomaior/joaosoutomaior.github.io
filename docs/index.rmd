@@ -216,35 +216,34 @@ Column
 
 My research concentrates on the design and application of innovative computational approaches to address methodologically-challenging questions related to how the organizational decisions of educational institutions contribute to (or mitigate) the social stratification of educational opportunities. This work is defined by two main areas of research, detailed below.
 
-<div class="parentbox">
 <div class="cardtopic" data-agenda="1">
 <p3>A complex systems approach to questions in the sociology of education (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
 <br>
 </titleboxtopic>
-<moredetails>
-Understanding the organizational behavior of schools has long been a challenging task since school’s internal dynamics are shaped by the decisions of and social interactions between multiple actors, such as students, families, administrators and school staff. Because of this dependence on the social dynamics which emerge from interdependent individual action, one of my research focuses is to apply insights from complex systems approaches in innovative and creative ways to address important questions within school organization research.
-</moredetails>
-</div>
+<br>
+<span class="dots"></span><span class="more" style="display: less">
 <div class="figbox">
 <img src="files/abm.png"/>
 </div>
+<moredetails1>
+Understanding the organizational behavior of schools has long been a challenging task since school’s internal dynamics are shaped by the decisions of and social interactions between multiple actors, such as students, families, administrators and school staff. Because of this dependence on the social dynamics which emerge from interdependent individual action, one of my research focuses is to apply insights from complex systems approaches in innovative and creative ways to address important questions within school organization research.
+</moredetails1>
 </div>
 
-<div class="parentbox">
+
 <div class="cardtopic" data-agenda="2">
 <titleboxtopic>
 <p3>Rethinking the analysis of bias in student sorting processes (color code = <i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>)</p3>
 <br>
-<left>
-</left>
 </titleboxtopic>
-<moredetails>
-Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses; advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current statistical strategies to examine the possible existence of biases in these sorting processes.
-</moredetails>
-</div>
+<br>
+<span class="dots"></span><span class="more" style="display: less">
 <div class="figbox">
 <img src="files/sorting.jpg"/>
 </div>
+<moredetails1>
+Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses; advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current statistical strategies to examine the possible existence of biases in these sorting processes.
+</moredetails1>
 </div>
 
 

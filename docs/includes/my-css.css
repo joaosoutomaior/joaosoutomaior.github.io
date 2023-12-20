@@ -1,4 +1,3 @@
-
 button, button:active, button:visited {
     padding: 2px 4px !important;
     margin: 1px 4px !important;
@@ -88,6 +87,17 @@ html {
   text-align: left;
 }
 
+moredetails1{
+  font-size: 13pt;
+  width: 100%;
+  padding: 13pt;
+  background-color: white;
+  display: inline-block;
+  text-align: left;
+  color: rgb(100,100,100);
+}
+
+
 moredetails{
   font-size: 13pt;
   padding: 13pt;
@@ -160,7 +170,7 @@ me{
   border: 0px solid #3498DB;
   padding: 10px 0px 10px 10px;
   margin: 0px;
-  width: 150%; 
+  width: 100%; 
   float: left;
   background-color: white;
   text-align: left;
@@ -172,7 +182,7 @@ me{
   column-count: 2;
   column-gap: 0px;
   row-gap: 0px;
-  row-count: 2;
+  row-count: 1;
   break-inside: avoid-row; 
 }
 
@@ -211,18 +221,19 @@ me{
 }
 
 .figbox img {
-  font-size: 14pt;
+  font-size: 13pt;
   border: 0px solid #3498DB;
   padding: 0px;
   height: 125px;
   margin: 0px;
-  width: 50%;
-  position: right;
-  float: right;
+  width: 100%;
+  position: center;
+  float: center;
   background-color: white;
-  object-fit: contain;
-  object-position: left top;
+  object-fit: scale-down;
+  object-position: center center;
 }
+
 
 .figboxsmall img {
   font-size: 14pt;
@@ -308,5 +319,7 @@ body {background-color: #F8F9F9 !important}
 
 }
 
+
+  
 
   
