@@ -204,8 +204,11 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 
 &emsp; <i class="fa-solid fa-note-sticky" style="font-size: 8pt"></i> For research/publication purposes, I hyphenate my last name: Souto-Maior.
 
-Research 
+Research  
 =====================================
+
+Column {data-width=1000}
+-------------------------------------
 
 ###
 
@@ -248,7 +251,7 @@ Among the central decisions which educational institutions have to make is the o
 <titlebox>
 <p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework</p3>
 <br>
-<me>Joao Souto-Maior</me> and Ravi Shroff (2023). *Conditionally accepted at Sociological Science*.
+<me>Joao Souto-Maior</me> and Ravi Shroff. *Sociological Science (forthcoming)*.
 <br>
 <left>
 <button onclick="readMore1('2')" class="button" style="float: left">more</button>
@@ -326,7 +329,7 @@ Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>.
 </div>
 
 
-Teaching
+Teaching 
 =====================================
 
 Column 
