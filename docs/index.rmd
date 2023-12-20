@@ -37,10 +37,10 @@ output:
     }
   }
 
-function readMore5(inprogress) {
-  let dots = document.querySelector(`.card[data-inprogress="${inprogress}"] .dots`);
-  let moreText = document.querySelector(`.card[data-inprogress="${inprogress}"] .more`); 
-  let btnText = document.querySelector(`.card[data-inprogress="${inprogress}"] .button`);
+function readMore5(agenda) {
+  let dots = document.querySelector(`.cardtopic[data-agenda="${agenda}"] .dots`);
+  let moreText = document.querySelector(`.cardtopic[data-agenda="${agenda}"] .more`); 
+  let btnText = document.querySelector(`.cardtopic[data-agenda="${agenda}"] .button`);
   
   if (dots.style.display === "none") {
     dots.style.display = "inline";
@@ -207,7 +207,7 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 Research  
 =====================================
 
-Column {data-width=1000}
+Column 
 -------------------------------------
 
 ###
@@ -217,9 +217,10 @@ Column {data-width=1000}
 My research concentrates on the design and application of innovative computational approaches to address methodologically-challenging questions related to how the organizational decisions of educational institutions contribute to (or mitigate) the social stratification of educational opportunities. This work is defined by two main areas of research, detailed below.
 
 <div class="parentbox">
-<div class="cardtopic">
-<p3>A complex systems approach to questions in the sociology of education <br> (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
+<div class="cardtopic" data-agenda="1">
+<p3>A complex systems approach to questions in the sociology of education (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
 <br>
+</titleboxtopic>
 <moredetails>
 Understanding the organizational behavior of schools has long been a challenging task since school’s internal dynamics are shaped by the decisions of and social interactions between multiple actors, such as students, families, administrators and school staff. Because of this dependence on the social dynamics which emerge from interdependent individual action, one of my research focuses is to apply insights from complex systems approaches in innovative and creative ways to address important questions within school organization research.
 </moredetails>
@@ -230,9 +231,12 @@ Understanding the organizational behavior of schools has long been a challenging
 </div>
 
 <div class="parentbox">
-<div class="cardtopic">
+<div class="cardtopic" data-agenda="2">
 <titleboxtopic>
-<p3>Rethinking the analysis of bias in student sorting processes <br> (color code = <i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>)</p3>
+<p3>Rethinking the analysis of bias in student sorting processes (color code = <i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>)</p3>
+<br>
+<left>
+</left>
 </titleboxtopic>
 <moredetails>
 Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses; advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current statistical strategies to examine the possible existence of biases in these sorting processes.
@@ -242,6 +246,7 @@ Among the central decisions which educational institutions have to make is the o
 <img src="files/sorting.jpg"/>
 </div>
 </div>
+
 
 ###
 
