@@ -1,5 +1,5 @@
 button, button:active, button:visited {
-    padding: 2px 4px !important;
+    padding: 1px 3px !important;
     margin: 1px 4px !important;
     border: 1px solid #3498DB;
     border-radius: 3px;
@@ -10,7 +10,7 @@ button, button:active, button:visited {
   }
 
 button:focus, button:hover{
-  padding: 2px 4px !important;
+  padding: 1px 3px !important;
   margin: 1px 4px !important;
   border: 1px solid #3498DB;
   border-radius: 3px;
@@ -48,7 +48,7 @@ a:active {
 .a2, .a2:link .a2:active, .a2:visited {
   padding: 3px 4px !important;
   border: 1px solid #D35400 !important;
-  margin: 1px 2px !important;
+  margin: 1px 1px !important;
   border-radius: 3px;
   background-color: white;
   color: #D35400 !important;
@@ -59,10 +59,33 @@ a:active {
 .a2:focus, .a2:hover{
   padding: 3px 4px !important;
   border: 1px solid #D35400 !important;
-  margin: 1px 2px !important;
+  margin: 1px 1px !important;
   border-radius: 3px;
   background-color: white;
   color: #D35400;
+  text-decoration: none;
+  font-size: 11pt;
+  opacity: .5;
+}
+
+.a3, .a3:link .a3:active, .a3:visited {
+  padding: 3px 4px !important;
+  border: 1px solid #7B7D7D!important;
+  margin: 1px 1px !important;
+  border-radius: 3px;
+  background-color: white;
+  color: #7B7D7D !important;
+  text-decoration: none;
+  font-size: 11pt;
+}
+
+.a3:focus, .a3:hover{
+  padding: 3px 4px !important;
+  border: 1px solid #7B7D7D !important;
+  margin: 1px 1px !important;
+  border-radius: 3px;
+  background-color: white;
+  color: #7B7D7D;
   text-decoration: none;
   font-size: 11pt;
   opacity: .5;

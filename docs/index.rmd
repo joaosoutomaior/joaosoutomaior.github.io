@@ -260,6 +260,7 @@ Among the central decisions which educational institutions have to make is the o
 <left>
 <button onclick="readMore1('2')" class="button" style="float: left">more</button>
 <a href="https://arxiv.org/pdf/2306.15075.pdf" target="_blank" class = "a2">arXiv preprint of prior version</a>
+<a href="https://github.com/joaosoutomaior/diff-acad-prep-AP-code" target="_blank" class = "a3">code</a>
 <i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>
 </left>
 </titlebox>
@@ -270,6 +271,8 @@ Among the central decisions which educational institutions have to make is the o
 </moredetails>
 </span>
 </div>
+
+###
 
 <p1> Papers under review </p1>
 
