@@ -6,7 +6,7 @@ button, button:active, button:visited {
     background-color: white;
     color: #3498DB;
     font-size: 11pt;
-    position: bottom 
+    bottom: 0;
   }
 
 button:focus, button:hover{
