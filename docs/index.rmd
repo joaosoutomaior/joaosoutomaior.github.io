@@ -257,7 +257,9 @@ Among the central decisions which educational institutions have to make is the o
 <me>Joao Souto-Maior</me> and Ravi Shroff. *Sociological Science (2024)*.
 <br>
 <left>
-<button onclick="readMore1('2')" class="button">more</button> <button href="https://sociologicalscience.com/articles-v11-6-138/" target="_blank" class = "a2">PDF</button> <button href="https://github.com/joaosoutomaior/diff-acad-prep-AP-code" target="_blank" class = "a2">code</button>
+<button onclick="readMore1('2')" class="button">more</button> 
+<button onclick="location.href='https://sociologicalscience.com/articles-v11-6-138/'" target="_blank" type = "button" class = "a2">PDF</button> 
+<button onclick="location.href='https://github.com/joaosoutomaior/diff-acad-prep-AP-code'" target="_blank" type = "button" class = "a2">code</button>
 </left>
 </titlebox>
 <br>
@@ -280,7 +282,7 @@ Among the central decisions which educational institutions have to make is the o
 <br>
 <left>
 <button onclick="readMore1('1')" class="button" >more</button>
-<button href="https://arxiv.org/pdf/2304.04849.pdf" target="_blank" class = "a2">arXiv preprint</button>
+<button onclick="location.href='https://arxiv.org/pdf/2304.04849.pdf'" target="_blank" class = "a2">arXiv preprint</button>
 </left>
 </titlebox>
 <br>
@@ -299,7 +301,7 @@ Among the central decisions which educational institutions have to make is the o
 <br>
 <left>
 <button onclick="readMore1('3')" class="button" >more</button>
-<button href="https://arxiv.org/pdf/2305.14653.pdf" target="_blank" class = "a2">arXiv preprint</button>
+<button onclick="location.href='https://arxiv.org/pdf/2305.14653.pdf'" target="_blank" class = "a2">arXiv preprint</button>
 </left>
 </titlebox>
 <br> 
@@ -347,8 +349,8 @@ New York University --- from Spring 2019 to Spring 2021
 <br>
 <left>
 <button onclick="readMore2('6')" class="button"  >more</button> 
-<button href="https://bookdown.org/joao_msoutomaior/intro-stats-notes" target="_blank" class="a2">notes</button> 
-<button href="files/syllabus_Basic-Stats_Spring2021.pdf" target="_blank" class="a2">syllabus S-21</button> 
+<button onclick="location.href='https://bookdown.org/joao_msoutomaior/intro-stats-notes'" target="_blank" class="a2">notes</button> 
+<button onclick="location.href='files/syllabus_Basic-Stats_Spring2021.pdf'" target="_blank" class="a2">syllabus S-21</button> 
 </left>
 </titlebox>
 <br>
@@ -381,7 +383,7 @@ New York University --- Fall 2022
 <br>
 <left>
 <button onclick="readMore2('3')" class="button"  >more</button>
-<button href="files/syllabus_US-Ed_Fall-2022.pdf" target="_blank" class="a2">syllabus F-22</button>
+<button onclick="location.href='files/syllabus_US-Ed_Fall-2022.pdf'" target="_blank" class="a2">syllabus F-22</button>
 </left>
 </titlebox>
 <br>
@@ -404,7 +406,7 @@ New York University --- Fall 2022
 <br>
 <left>
 <button onclick="readMore2('4')" class="button"  >more</button>
-<button href="files/syllabus_College-Costs_Fall-2022.pdf" target="_blank" class="a2">syllabus F-22</button>
+<button onclick="location.href='files/syllabus_College-Costs_Fall-2022.pdf'" target="_blank" class="a2">syllabus F-22</button>
 </left>
 </titlebox>
 <br>
@@ -423,7 +425,7 @@ New York University --- Spring 2022
 <br>
 <left>
 <button onclick="readMore2('5')" class="button"  >more</button>
-<button href="files/syllabus_Qual-Methods_Spring2022.pdf" target="_blank" class="a2">syllabus S-22</button>
+<button onclick="location.href='files/syllabus_Qual-Methods_Spring2022.pdf'" target="_blank" class="a2">syllabus S-22</button>
 </left>
 </titlebox>
 <br>
@@ -452,8 +454,8 @@ University of Wisconsin-Madison --- 2016-17
 <br>
 <left>
 <button onclick="readMore2('2')" class="button"  >more</button>
-<button href="files/syllabus_URS_Fall2016.pdf" target="_blank" class="a2">syllabus F-16</button> 
-<button href="files/syllabus_URS_Spring2017.pdf" target="_blank" class="a2">syllabus S-17</button>
+<button onclick="location.href='files/syllabus_URS_Fall2016.pdf'" target="_blank" class="a2">syllabus F-16</button> 
+<button onclick="location.href='files/syllabus_URS_Spring2017.pdf'" target="_blank" class="a2">syllabus S-17</button>
 </left>
 </titlebox>
 <br>
@@ -480,8 +482,8 @@ University of Wisconsin-Madison --- 2015-16
 <br>
 <left>
 <button onclick="readMore2('1')" class="button"  >more</button>
-<button href="files/syllabus_URS_Fall2015.pdf" target="_blank" class="a2">syllabus F-15</button> 
-<button href="files/syllabus_URS_Spring2016.pdf" target="_blank" class="a2">syllabus S-16</button>
+<button onclick="location.href='files/syllabus_URS_Fall2015.pdf'" target="_blank" class="a2">syllabus F-15</button> 
+<button onclick="location.href='files/syllabus_URS_Spring2016.pdf'" target="_blank" class="a2">syllabus S-16</button>
 </left>
 </titlebox>
 <br>
@@ -548,7 +550,7 @@ Areas of concentration: school organization; quantitative methods.
 <br>
 <left>
 <button onclick="readMore3('2')" class="button"  >more</button>
-<button href="files/JSM_PhD-coursework.pdf" target="_blank" class="a2">course list</button> 
+<button onclick="location.href='files/JSM_PhD-coursework.pdf'" target="_blank" class="a2">course list</button> 
 </left>
 </titlebox>
 <br>
@@ -565,7 +567,7 @@ Chosen courses result from the required courses for program completion and elect
 <br>
 <left>
 <button onclick="readMore3('3')" class="button"  >more</button>
-<button href="files/JSM_comps-list.pdf" target="_blank" class="a2">reading list</button> 
+<button onclick="location.href='files/JSM_comps-list.pdf'" target="_blank" class="a2">reading list</button> 
 </left>
 </titlebox>
 <br>
@@ -582,7 +584,7 @@ The doctoral comprehensive examination in the Sociology of Education program is 
 <br>
 <left>
 <button onclick="readMore3('4')" class="button"  >more</button>
-<button href="files/JSM_within-school-gaps-course.pdf" target="_blank" class="a2">reading list</button>
+<button onclick="location.href='files/JSM_within-school-gaps-course.pdf'" target="_blank" class="a2">reading list</button>
 </left>
 </titlebox>
 <br>
@@ -606,7 +608,7 @@ Column
 <br>
 <left>
 <button onclick="readMore4('5')" class="button"  >more</button>
-<button href="https://joaomsoutomaior.shinyapps.io/SaoPaulo_HighSchools_ENEM2019/" target="_blank" class = "a2">dashboard</button>
+<button onclick="location.href='https://joaomsoutomaior.shinyapps.io/SaoPaulo_HighSchools_ENEM2019/'" target="_blank" class = "a2">dashboard</button>
 </left>
 </titlebox>
 <br>
@@ -627,7 +629,7 @@ Column
 <br>
 <left>
 <button onclick="readMore4('6')" class="button"  >more</button>
-<button href="https://newbooksnetwork.com/hosts/profile/8b8ec5a3-bdb5-43ca-ada6-3fc2f82f9af5" target="_blank" class="a2">my episodes</button> 
+<button onclick="location.href='https://newbooksnetwork.com/hosts/profile/8b8ec5a3-bdb5-43ca-ada6-3fc2f82f9af5'" target="_blank" class="a2">my episodes</button> 
 </left>
 </titlebox>
 <br>
