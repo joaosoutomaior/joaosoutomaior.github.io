@@ -163,13 +163,13 @@ Column {data-width=700}
 
 Welcome to my website!
 
-I am a postdoctoral associate in the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. I am on the 2023-24 job market.
+I am a postdoctoral associate in the [Institute of Human Development and Social Change](https://steinhardt.nyu.edu/ihdsc) at the New York University. From September 2024, I will be a postdoctoral scholar ([New Map of Life Fellow](https://longevity.stanford.edu/the-new-map-of-life-initiative/#fellows)) in the [Stanford Center on Longevity](https://longevity.stanford.edu/). 
 
-I study the organizational decisions of educational institutions and how they contribute to (or mitigate) the social stratification of educational opportunities, primarily across racial lines. I concentrate on the formation of unequal educational experiences within schools, looking at organization practices---such as curriculum differentiation, special education identification and school discipline---which sort students into different academic experiences, and can produce racialized organizational hierarchies. Central to my research is the use of innovative computational approaches---such as agent-based modeling and machine learning---to address questions which have imposed methodological challenges to traditional techniques. 
+I study educational organizations and how different organizational practices/decisions contribute to (or mitigate) the social stratification of educational opportunities across class and race lines. Central to my research is the use of innovative computational approaches---such as agent-based modeling and machine learning---to address questions which have imposed methodological challenges to traditional techniques. 
 
-In my dissertation (advised by L'Heureux Lewis-McCoy and with support from [NYU's agent-based modeling lab](https://publichealth.nyu.edu/research-scholarship/centers-labs-initiatives/agent-based-modeling-lab)), I designed qualitatively-informed agent-based models to address questions concerning the emergence of educational inequalities---defined as access to advanced coursework---between Black and White students who attend the same school. I investigated the role of racial composition on Black students' educational opportunities and explored how educational opportunities are hoarded within schools. 
+So far, my work has focused on K-12 education. Past and ongoing research examines how practices such curriculum differentiation and special education identification shape educational inequalities. In the following years, as postdoc at Stanford, I will work with Professor Mitchell Stevens researching how higher education institutions (together with other organizations such as firms and non-profits) can better serve the educational needs of adult/working learners. 
 
-As a postdoctoral researcher, I work with Rachel Fish (NYU) and Kenneth Shores (University of Delaware) investigating methodological issues concerning the existing quantitative evidence on the disproportionate representation of Black students in special education programs.
+I am originally from São Paulo, Brazil. I hold a Ph.D. in Sociology of Education from the New York University (2023) and a B.A. in Economics from the University of Wisconsin-Madison (2017).  
 
 Please navigate across the pages to learn about my research; teaching; and to access selected resources.
 
@@ -211,48 +211,11 @@ Column
 
 ###
 
-<p1>Research agenda</p1>
-
-My research concentrates on the design and application of innovative computational approaches to address methodologically-challenging questions related to how the organizational decisions of educational institutions contribute to (or mitigate) the social stratification of educational opportunities. This work is defined by two main areas of research, detailed below.
-
-<div class="cardtopic" data-agenda="1">
-<p3>A complex systems approach to questions in the sociology of education (color code = <i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
-<br>
-</titleboxtopic>
-<br>
-<span class="dots"></span><span class="more" style="display: less">
-<div class="figbox">
-<img src="files/abm.png"/>
-</div>
-<moredetails1>
-Understanding the organizational behavior of schools has long been a challenging task since school’s internal dynamics are shaped by the decisions of and social interactions between multiple actors, such as students, families, administrators and school staff. Because of this dependence on the social dynamics which emerge from interdependent individual action, one of my research focuses is to apply insights from complex systems approaches in innovative and creative ways to address important questions within school organization research.
-</moredetails1>
-</div>
-
-
-<div class="cardtopic" data-agenda="2">
-<titleboxtopic>
-<p3>Rethinking the analysis of bias in student sorting processes (color code = <i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>)</p3>
-<br>
-</titleboxtopic>
-<br>
-<span class="dots"></span><span class="more" style="display: less">
-<div class="figbox">
-<img src="files/sorting.jpg"/>
-</div>
-<moredetails1>
-Among the central decisions which educational institutions have to make is the one of sorting students. Schools, for example, often need to decide which students are allowed to: pass courses; advance to subsequent grades; take advanced courses. Similarly, selective institutions (such as selective high schools and selective colleges/universities) need to sort students when making admissions decisions, sorting the pool of applicants into those who are offered admission and those who are not. One of my research focuses is to improve current statistical strategies to examine the possible existence of biases in these sorting processes.
-</moredetails1>
-</div>
-
-
-###
-
 <p1> Peer-reviewed publications </p1>
 
 <div class="cardfig" data-paper="2">
 <titlebox>
-<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework (<i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>)</p3>
+<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework</p3>
 <br>
 <me>Joao Souto-Maior</me> and Ravi Shroff. *Sociological Science (2024)*.
 <br>
@@ -276,9 +239,9 @@ Among the central decisions which educational institutions have to make is the o
 
 <div class="cardfig" data-paper="1">
 <titlebox>
-<p3>The presence of White students and the emergence of Black-White within-school inequalities: two interaction-based mechanisms (<i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
+<p3>The presence of White students and the emergence of Black-White within-school inequalities: two interaction-based mechanisms </p3>
 <br>
-<me>Joao Souto-Maior</me>.
+<me>Joao Souto-Maior</me>. *Revise and Resubmit*.
 <br>
 <left>
 <button onclick="readMore1('1')" class="button" >more</button>
@@ -295,9 +258,9 @@ Among the central decisions which educational institutions have to make is the o
 
 <div class="cardfig" data-paper="3">
 <titlebox>
-<p3>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools (<i class="fa-solid fa-circle" style="color:#d4a373; font-size: 9pt"></i>)</p3>
+<p3>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools</p3>
 <br>
-<me>Joao Souto-Maior</me>. 
+<me>Joao Souto-Maior</me>. *Revise and Resubmit*.
 <br>
 <left>
 <button onclick="readMore1('3')" class="button" >more</button>
@@ -314,9 +277,9 @@ Among the central decisions which educational institutions have to make is the o
 
 <div class="cardfig" data-paper="4">
 <titlebox>
-<p3>Critical appraisal of the evidence on racial disproportionality in special education (<i class="fa-solid fa-circle" style="color:#457b9d; font-size: 9pt"></i>) </p3>
+<p3>Critical appraisal of the evidence on racial disproportionality in special education</p3>
 <br>
-Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>.
+Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. *Revise and Resubmit*.
 <br>
 <left>
 <button onclick="readMore1('4')" class="button" >more</button>
