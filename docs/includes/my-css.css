@@ -132,7 +132,7 @@ moredetails{
   color: rgb(100,100,100);
 }
 
-p{
+p, ul, ol{
   font-size: 14pt;
   color: rgb(100,100,100);
 }
