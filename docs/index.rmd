@@ -167,7 +167,7 @@ I am a Postdoctoral Scholar in Education at the [Stanford Center on Longevity](h
 
 I am a sociologist of education with specialization in the sub-fields of organizations; social stratification; racial inequalities; and quantitative methods — specifically, computational social sciences and mathematical sociology.  My research focuses on educational organizations, such as schools and universities, and investigates how their practices and decisions either contribute to or mitigate the social stratification of educational opportunities, especially along race and class lines.
 
-Central to my research is the use of innovative computational approaches, including agent-based modeling and machine learning, to address policy-relevant questions that have posed methodological challenges for traditional techniques. My work revolves around two broad themes:
+Central to my research is the use of innovative computational approaches, including agent-based modeling and machine learning, to address policy-relevant questions that have posed methodological challenges for traditional techniques. My work is structured around two broad themes:
 
 1. Identifying and understanding the mechanisms through which organizations shape social stratification.
 2. Statistically identifying biases in selection processes that are central to organizations.
