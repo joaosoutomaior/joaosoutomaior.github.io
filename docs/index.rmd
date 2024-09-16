@@ -165,14 +165,16 @@ Welcome to my website!
 
 I am a Postdoctoral Scholar in Education at the [Stanford Center on Longevity](https://longevity.stanford.edu/).
 
-I am a sociologist of education with specialization in the sub-fields of organizations; social stratification; racial inequalities; and quantitative methods — specifically, computational social sciences and mathematical sociology.  My research focuses on educational organizations, such as schools and universities, and investigates how their practices and decisions either contribute to or mitigate the social stratification of educational opportunities, especially along race and class lines.
+I am a sociologist of education whose research focuses on educational organizations, such as schools and universities, and investigates how their practices and decisions either contribute to or mitigate the social stratification of educational opportunities, especially along race and class lines. Broadly, my research has two main objectives: 
 
-Central to my research is the use of innovative computational approaches, including agent-based modeling and machine learning, to address policy-relevant questions that have posed methodological challenges for traditional techniques. My work is structured around two broad themes:
+1. To understand the mechanisms through which organizations shape social stratification; 
+2. To statistically identify biases in organizations’ selection processes.
 
-1. Identifying and understanding the mechanisms through which organizations shape social stratification.
-2. Statistically identifying biases in selection processes that are central to organizations.
+I analyze various organizational practices across all levels of education. So far in my career, I have looked at practices such as curriculum differentiation, special education identification, and higher education policies to address the educational needs of adult and working learners.
 
-My past, current, and planned research explores these themes by examining organizational practices across all levels of education. In my doctoral work, my research concentrated on curriculum differentiation. In my past postdoctoral work (together with Professors Rachel Fish and Kenneth Shores) I focused on special education identification. In my current postdoctoral appointment, I work with Professor Mitchell Stevens researching how higher education institutions (together with other organizations such as firms and non-profits) can better serve the educational needs of adult/working learners. 
+Methodologically, I view the growing field of computational social sciences as an opportunity to address  questions which have imposed methodological challenges to traditional techniques. Then, my research relies on a series of computational approaches, including agent-based modeling and machine learning. I believe these approaches offer a unique chance to integrate quantitative and qualitative insights, a potential I explore extensively in my agent-based modeling work.
+
+In what follows, I detail how my past, current, and planned research uses these methods to address the objectives listed above.
 
 I am originally from São Paulo, Brazil. I hold a Ph.D. in Sociology of Education from the New York University (2023) and a B.A. in Economics from the University of Wisconsin-Madison (2017).  
 
@@ -218,10 +220,11 @@ Column
 
 ###
 
-<p1> Research themes </p1>
+<p1> Research objectives </p1>
 
-1. Identifying and understanding the mechanisms through which organizations shape social stratification. <span style="display: inline-block; width: 10px; height: 10px; background-color: orange; border-radius: 50%; vertical-align: middle;"></span>
-2. Statistically identifying biases in selection processes that are central to organizations. <span style="display: inline-block; width: 10px; height: 10px; background-color: blue; border-radius: 50%; vertical-align: middle;"></span>
+1. To understand the mechanisms through which organizations shape social stratification. 
+ <span style="display: inline-block; width: 10px; height: 10px; background-color: orange; border-radius: 50%; vertical-align: middle;"></span>
+2. To statistically identify biases in organizations’ selection processes. <span style="display: inline-block; width: 10px; height: 10px; background-color: blue; border-radius: 50%; vertical-align: middle;"></span>
 
 ###
 
