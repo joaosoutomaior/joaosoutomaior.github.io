@@ -139,7 +139,7 @@ Postdoctoral Scholar in Education
 <br>
 Stanford University
 <br>
-<a href="files/JSM_cv_website.pdf" target="_blank" class = "a2" >CV</a>
+<a href="files/Souto-Maior_cv.pdf" target="_blank" class = "a2" >CV</a>
 <a href="https://github.com/joaosoutomaior/" target="_blank" class = "a2" ><i class="fa-brands fa-github"></i></a>
 <a href="https://scholar.google.com/citations?user=z231epEAAAAJ&hl=pt-BR&oi=ao" target="_blank" class = "a2"><i class="fa-solid fa-graduation-cap"></i></a>
 </center>
