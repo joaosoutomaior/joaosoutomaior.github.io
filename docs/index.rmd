@@ -292,7 +292,7 @@ Column
 
 <div class="cardfig" data-paper="5">
 <titlebox>
-<p3>The correlated proxy problem: why control variables can obscure the contribution of selection processes to proup-level inequality <span style="display: inline-block; width: 10px; height: 10px; background-color: blue; border-radius: 50%; vertical-align: middle;"></span></p3>
+<p3>The correlated proxy problem: why control variables can obscure the contribution of selection processes to group-level inequality <span style="display: inline-block; width: 10px; height: 10px; background-color: blue; border-radius: 50%; vertical-align: middle;"></span></p3>
 <br>
 <me>Joao Souto-Maior</me>, Kenneth Shores and Rachel Fish. *Under Review*.
 <br>
