@@ -135,7 +135,7 @@ Joao M. Souto-Maior
 </p1> 
 <p2> 
 <br>
-Postdoctoral Scholar in Education
+Postdoctoral Scholar
 <br>
 Stanford University
 <br>
@@ -163,14 +163,9 @@ Column {data-width=700}
 
 Welcome to my website!
 
-I am a Postdoctoral Scholar in Education at the [Stanford Center on Longevity](https://longevity.stanford.edu/).
+I am currently a Postdoctoral Scholar (New Map of Life Fellow) at the [Stanford Center on Longevity](https://longevity.stanford.edu/).
 
-I am a quantitative social scientist and sociologist of education who studies race and class inequalities in educational pathways, i.e., students’ progress through educational institutions and transitions into the labor market. My research concentrates on shedding light into the mechanisms by which these inequalities are formed with the objective of informing equity-driven policies and practices.
-
-Methodologically, I view the growing field of computational social sciences as providing valuable tools to analyze complex social processes that have imposed challenges to traditional techniques. My research focuses on developing and applying computational approaches, such as machine learning and agent-based simulations, to further our understanding of two inequality-producing mechanisms: 
-
-* Group favoritism in student-sorting processes;
-* The role of social networks in generating educational inequalities. 
+I am an educational data scientist who investigates how unequal educational opportunities emerge --- and how they might be mitigated. My research centers on two core areas: (1) how organizational decisions contribute to or reduce inequality among students within the same institution; (2) how learning during adulthood can help individuals navigate a rapidly changing labor market and advance social and economic mobility. Trained in computational social sciences, I am excited about how new methodological approaches can help us leverage new data sources and generate new insights. I use tools such as agent-based modeling, machine learning, and large-scale data analysis, to produce rigorous research that can inform policy and practice.
 
 I am originally from São Paulo, Brazil. I hold a Ph.D. in Sociology of Education from the New York University (2023) and a B.A. in Economics from the University of Wisconsin-Madison (2017).  
 
@@ -182,9 +177,9 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 
 <p1>Areas of Research</p1>
 
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Sociology of Education
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Education
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Race and class inequality
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Social inequality
 <br>
 &emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Organizations
 <br>
@@ -209,24 +204,17 @@ Column
 
 ###
 
-<p1> Areas of research </p1>
-
-* Group favoritism in student-sorting processes <span style="display: inline-block; width: 10px; height: 10px; background-color: blue; border-radius: 50%; vertical-align: middle;"></span>
-* The role of social networks in generating educational inequalities.<span style="display: inline-block; width: 10px; height: 10px; background-color: orange; border-radius: 50%; vertical-align: middle;"></span>
-
-###
-
 <p1> Peer-reviewed publications </p1>
 
 <div class="cardfig" data-paper="1">
 <titlebox>
-<p3>School racial composition and the emergence of Black-White within-school inequalities: network-based foundations <span style="display: inline-block; width: 10px; height: 10px; background-color: orange; border-radius: 50%; vertical-align: middle;"></span> </p3>
+<p3>School racial composition and the emergence of Black-White within-school inequalities: network-based foundations </p3>
 <br>
-<me>Joao Souto-Maior</me>. Forthcoming. *The Journal of Mathematical Sociology*.
+<me>Joao Souto-Maior</me>. 2025. *The Journal of Mathematical Sociology*.
 <br>
 <left>
 <button onclick="readMore1('1')" class="button" >more</button>
-<button onclick="location.href='https://osf.io/preprints/socarxiv/6ryzd'" target="_blank" class = "a2">preprint</button>
+<button onclick="location.href='https://www.tandfonline.com/doi/full/10.1080/0022250X.2025.2458304?src=exp-la'" target="_blank" class = "a2">PDF</button>
 </left>
 </titlebox>
 <br>
@@ -239,7 +227,7 @@ Column
 
 <div class="cardfig" data-paper="2">
 <titlebox>
-<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework <span style="display: inline-block; width: 10px; height: 10px; background-color: blue; border-radius: 50%; vertical-align: middle;"></span> </p3>
+<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework </p3>
 <br>
 <me>Joao Souto-Maior</me> and Ravi Shroff. 2024. *Sociological Science*.
 <br>
@@ -263,7 +251,7 @@ Column
 
 <div class="cardfig" data-paper="3">
 <titlebox>
-<p3>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools <span style="display: inline-block; width: 10px; height: 10px; background-color: orange; border-radius: 50%; vertical-align: middle;"></span></p3>
+<p3>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools</p3>
 <br>
 <me>Joao Souto-Maior</me>. 
 <br>
@@ -282,7 +270,7 @@ Column
 
 <div class="cardfig" data-paper="5">
 <titlebox>
-<p3>The correlated proxy problem: why control variables can obscure the contribution of selection processes to group-level inequality <span style="display: inline-block; width: 10px; height: 10px; background-color: blue; border-radius: 50%; vertical-align: middle;"></span></p3>
+<p3>The correlated proxy problem: why control variables can obscure the contribution of selection processes to group-level inequality </p3>
 <br>
 <me>Joao Souto-Maior</me>, Kenneth Shores and Rachel Fish. 
 <br>
@@ -301,7 +289,7 @@ Column
 
 <div class="cardfig" data-paper="4">
 <titlebox>
-<p3>Critical appraisal of the evidence on racial disproportionality in special education <span style="display: inline-block; width: 10px; height: 10px; background-color: blue; border-radius: 50%; vertical-align: middle;"></span></p3>
+<p3>Critical appraisal of the evidence on racial disproportionality in special education </p3>
 <br>
 Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 
 <br>
