@@ -165,7 +165,7 @@ Welcome to my website!
 
 I am currently a Postdoctoral Scholar (New Map of Life Fellow) at the [Stanford Center on Longevity](https://longevity.stanford.edu/).
 
-I am an educational data scientist who investigates how unequal educational opportunities emerge --- and how they might be mitigated. My research centers on two core areas: (1) how organizational decisions contribute to or reduce inequality among students within the same institution; (2) how learning during adulthood can help individuals navigate a rapidly changing labor market and advance social and economic mobility. Trained in computational social sciences, I am excited about how new methodological approaches can help us leverage new data sources and generate new insights. I use tools such as agent-based modeling, machine learning, and large-scale data analysis, to produce rigorous research that can inform policy and practice.
+I am an educational data scientist who investigates how unequal educational opportunities emerge --- and how they might be mitigated. My research centers on two core areas: (1) how organizational decisions contribute to or reduce inequality among students within the same institution; (2) how learning during adulthood can help individuals navigate a rapidly changing labor market and advance social and economic mobility. Trained in computational social sciences, I am excited about how innovative methodological approaches can help us leverage new data sources and generate new insights. I use tools such as agent-based modeling, machine learning, and large-scale data analysis, to produce rigorous research that can inform policy and practice.
 
 I am originally from São Paulo, Brazil. I hold a Ph.D. in Sociology of Education from the New York University (2023) and a B.A. in Economics from the University of Wisconsin-Madison (2017).  
 
@@ -490,7 +490,7 @@ Column
 
 <div class="card" data-item="1">
 <titlebox>
-<p3>PhD dissertation</p3>
+<p3>Dissertation</p3>
 <br>
 Essays on the dynamics of Black-White advanced course-taking inequalities 
 <br>
@@ -520,7 +520,7 @@ The purpose of the project is to identify and explore the dynamics of the mechan
 
 <div class="card" data-item="2">
 <titlebox>
-<p3>PhD coursework</p3>
+<p3>coursework</p3>
 <br>
 Areas of concentration: school organization; quantitative methods.
 <br>
