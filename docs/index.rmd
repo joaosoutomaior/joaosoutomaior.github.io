@@ -145,6 +145,7 @@ Stanford University
 </center>
 </div>
 
+
 Column {data-width=700}
 -------------------------------------
 
@@ -165,7 +166,7 @@ Welcome to my website!
 
 I am currently a Postdoctoral Scholar (New Map of Life Fellow) at the [Stanford Center on Longevity](https://longevity.stanford.edu/).
 
-I am an educational data scientist who investigates how unequal educational opportunities emerge --- and how they might be mitigated. My research centers on two core areas: (1) how organizational decisions contribute to or reduce inequality among students within the same institution; (2) how learning during adulthood can help individuals navigate a rapidly changing labor market and advance social and economic mobility. Trained in computational social sciences, I am excited about how innovative methodological approaches can help us leverage new data sources and generate new insights. I use tools such as agent-based modeling, machine learning, and large-scale data analysis, to produce rigorous research that can inform policy and practice.
+I am an educational data scientist who investigates how unequal educational opportunities emerge --- and how they might be mitigated. My research centers on two core areas: (1) how organizational decisions contribute to or reduce inequality among students within the same institution; (2) how adult learning/training can help individuals navigate a rapidly changing labor market and advance social and economic mobility. Trained in computational social sciences, I am excited about how innovative methodological approaches can help us leverage new data sources and generate new insights. I use tools such as agent-based modeling, machine learning, and large-scale data analysis, to produce rigorous research that can inform policy and practice.
 
 I am originally from São Paulo, Brazil. I hold a Ph.D. in Sociology of Education from the New York University (2023) and a B.A. in Economics from the University of Wisconsin-Madison (2017).  
 
@@ -173,19 +174,26 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 
 </div>
 
+
 ###
 
 <p1>Areas of Research</p1>
 
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Education
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> education policy
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Social inequality
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> within-school inequality
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Organizations
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> adult education
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Social networks
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> career transitions
+
+###
+
+<p1>Methods</p1>
+
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> social simulation
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> Computational methods
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> education data science
 
 ###
 
@@ -205,6 +213,25 @@ Column
 ###
 
 <p1> Peer-reviewed publications </p1>
+
+<div class="cardfig" data-paper="4">
+<titlebox>
+<p3>A Critical appraisal of the evidence on racial disproportionality in special education </p3>
+<br>
+Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. Forthcoming. *Exceptional Children*.
+<br>
+<left>
+<button onclick="readMore1('4')" class="button" >more</button>
+<button onclick="location.href='https://osf.io/preprints/socarxiv/p2u5r'" target="_blank" class = "a2">preprint</button>
+</left>
+</titlebox>
+<br> 
+<span class="dots"></span><span class="more" style="display: none">
+<moredetails>
+**Abstract:** The under-representation of Black students in special education relative to White students has been identified by recent research as a key equity consideration. We provide six quantitative critiques of the extant literature that should give pause to researchers and policymakers who have concluded the under-representation in special education for Black students is a robust quantitative result. These six critiques are: (i) use of test scores as controls to create non-equivalent comparison groups, (ii) use of colliders as controls, (iii) overuse of same data exaggerates robustness, (iv) overused data are not accurate samples of special education population, (v) over-reliance on regression adjustment over other matching-type estimators, and (vi) inattention to generalizability and heterogeneity of special education placement differences. We identify specific research questions and potential approaches that are needed before firm conclusions about under-representation in special education can be reached.
+</moredetails>
+</span>
+</div>
 
 <div class="cardfig" data-paper="1">
 <titlebox>
@@ -251,19 +278,19 @@ Column
 
 <div class="cardfig" data-paper="3">
 <titlebox>
-<p3>Hoarding without hoarders: unpacking the emergence of opportunity hoarding within schools</p3>
+<p3>Conceptualizing educational opportunity hoarding: the emergence of hoarding without hoarders</p3>
 <br>
 <me>Joao Souto-Maior</me>. 
 <br>
 <left>
 <button onclick="readMore1('3')" class="button" >more</button>
-<button onclick="location.href='https://osf.io/preprints/socarxiv/kef29'" target="_blank" class = "a2">preprint</button>
+<button onclick="location.href='https://arxiv.org/pdf/2305.14653'" target="_blank" class = "a2">preprint</button>
 </left>
 </titlebox>
 <br> 
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
-**Abstract:** Sociologists increasingly highlight the role of opportunity hoarding in the formation of Black-White educational inequalities. Informed by this literature, this article unpacks the necessary and sufficient conditions under which the hoarding of educational resources emerges within schools. It develops a qualitatively informed agent-based model which captures Black and White students' competition for a valuable school resource: advanced coursework. In contrast to traditional accounts --- which explain the emergence of hoarding through the actions of Whites that keep valuable resources within White communities --- simulations, perhaps surprisingly, show hoarding to arise even when Whites do not play the role of hoarders of resources. Behind this result is the fact that a structural inequality (i.e., racial differences in social class), and not action-driven hoarding, is the necessary condition for hoarding to emerge. Findings, therefore, illustrate that common action-driven understandings of opportunity hoarding can overlook the structural foundations behind this important phenomenon. Possible policy implications are discussed.
+**Abstract:** Social scientists increasingly use the concept of opportunity hoarding to explain the formation of Black-White educational inequalities. However, this concept is often loosely defined, leading to varied interpretations of the inequality-producing mechanisms it captures. To bring clarity to this valuable sociological concept, this theoretical paper, informed by the concept’s original definition and existing empirical research, proposes a more precise definition of opportunity hoarding and formalizes it through a computational model. For concreteness, the model focuses on one context: how White families can hoard access to advanced high school coursework from Black students attending the same school. Through simulations, the paper highlights the necessary and sufficient conditions under which the hoarding of advanced course-taking opportunities emerges. Results demonstrate that, in contrast to traditional accounts, White actors do not need to engage in exclusionary behaviors to hoard valuable resources. Rather, through the byproduct of network segregation and class inequalities, opportunity hoarding can emerge even when individuals act in race-neutral ways — a process I conceptualize as hoarding without hoarders.
 </moredetails>
 </span>
 </div>
@@ -286,26 +313,6 @@ Column
 </moredetails>
 </span>
 </div>
-
-<div class="cardfig" data-paper="4">
-<titlebox>
-<p3>Critical appraisal of the evidence on racial disproportionality in special education </p3>
-<br>
-Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 
-<br>
-<left>
-<button onclick="readMore1('4')" class="button" >more</button>
-<button onclick="location.href='https://osf.io/preprints/socarxiv/p2u5r'" target="_blank" class = "a2">preprint</button>
-</left>
-</titlebox>
-<br> 
-<span class="dots"></span><span class="more" style="display: none">
-<moredetails>
-**Abstract:** The under-representation of Black students in special education relative to White students has been identified by recent research as a key equity consideration. We provide six quantitative critiques of the extant literature that should give pause to researchers and policymakers who have concluded the under-representation in special education for Black students is a robust quantitative result. These six critiques are: (i) use of test scores as controls to create non-equivalent comparison groups, (ii) use of colliders as controls, (iii) overuse of same data exaggerates robustness, (iv) overused data are not accurate samples of special education population, (v) over-reliance on regression adjustment over other matching-type estimators, and (vi) inattention to generalizability and heterogeneity of special education placement differences. We identify specific research questions and potential approaches that are needed before firm conclusions about under-representation in special education can be reached.
-</moredetails>
-</span>
-</div>
-
 
 Teaching 
 =====================================
