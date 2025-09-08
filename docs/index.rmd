@@ -218,7 +218,7 @@ Column
 <titlebox>
 <p3>A critical appraisal of the evidence on racial disproportionality in special education </p3>
 <br>
-Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. Forthcoming. *Exceptional Children*.
+Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 2025. *Exceptional Children*.
 <br>
 <left>
 <button onclick="readMore1('4')" class="button" >more</button>
@@ -280,7 +280,7 @@ Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. Forthcoming. *Excepti
 <titlebox>
 <p3>Conceptualizing educational opportunity hoarding: the emergence of hoarding without hoarders</p3>
 <br>
-<me>Joao Souto-Maior</me>. 
+<me>Joao Souto-Maior</me> (revise and resubmit). 
 <br>
 <left>
 <button onclick="readMore1('3')" class="button" >more</button>
