@@ -164,9 +164,9 @@ Column {data-width=700}
 
 Welcome to my website!
 
-I am currently a Postdoctoral Scholar (New Map of Life Fellow) at the [Stanford Center on Longevity](https://longevity.stanford.edu/).
+I am an educational data scientist who investigates how unequal educational opportunities emerge — and how they might be mitigated. My research centers on two core areas: (1) how organizational decisions contribute to or reduce inequality among students within the same institution; (2) how adult learning/training can help individuals navigate a rapidly changing labor market and advance social and economic mobility. Trained in computational social sciences, I am excited about how innovative methodological approaches can help us leverage new data sources and generate new insights. I use tools such as agent-based modeling, machine learning, and large-scale data analysis, to produce rigorous research that can inform policy and practice. 
 
-I am an educational data scientist who investigates how unequal educational opportunities emerge --- and how they might be mitigated. My research centers on two core areas: (1) how organizational decisions contribute to or reduce inequality among students within the same institution; (2) how adult learning/training can help individuals navigate a rapidly changing labor market and advance social and economic mobility. Trained in computational social sciences, I am excited about how innovative methodological approaches can help us leverage new data sources and generate new insights. I use tools such as agent-based modeling, machine learning, and large-scale data analysis, to produce rigorous research that can inform policy and practice.
+I am currently a Postdoctoral Scholar (New Map of Life Fellow) at the [Stanford Center on Longevity](https://longevity.stanford.edu/), where I work on a [project](https://longevity.stanford.edu/education-learning/) led by Professor Mitchell Stevens aimed at reimagining the existing educational infrastructure to more effectively integrate learning opportunities across the life course.
 
 I am originally from São Paulo, Brazil. I hold a Ph.D. in Sociology of Education from the New York University (2023) and a B.A. in Economics from the University of Wisconsin-Madison (2017).  
 
@@ -216,13 +216,13 @@ Column
 
 <div class="cardfig" data-paper="4">
 <titlebox>
-<p3>A Critical appraisal of the evidence on racial disproportionality in special education </p3>
+<p3>A critical appraisal of the evidence on racial disproportionality in special education </p3>
 <br>
 Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. Forthcoming. *Exceptional Children*.
 <br>
 <left>
 <button onclick="readMore1('4')" class="button" >more</button>
-<button onclick="location.href='https://osf.io/preprints/socarxiv/p2u5r'" target="_blank" class = "a2">preprint</button>
+<button onclick="location.href='https://journals.sagepub.com/doi/full/10.1177/00144029251350094'" target="_blank" class = "a2">PDF</button>
 </left>
 </titlebox>
 <br> 
