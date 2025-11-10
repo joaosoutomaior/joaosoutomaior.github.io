@@ -164,13 +164,18 @@ Column {data-width=700}
 
 Welcome to my website!
 
-I am an educational data scientist who investigates how unequal educational opportunities emerge — and how they might be mitigated. My research centers on two core areas: (1) how organizational decisions contribute to or reduce inequality among students within the same institution; (2) how adult learning/training can help individuals navigate a rapidly changing labor market and advance social and economic mobility. Trained in computational social sciences, I am excited about how innovative methodological approaches can help us leverage new data sources and generate new insights. I use tools such as agent-based modeling, machine learning, and large-scale data analysis, to produce rigorous research that can inform policy and practice. 
+I am an educational data scientist who investigates the formation of unequal learning opportunities across multiple stages of the life course and how these disparities might be mitigated. My research centers on two core areas: 
 
-I am currently a Postdoctoral Scholar (New Map of Life Fellow) at the [Stanford Center on Longevity](https://longevity.stanford.edu/), where I work on a [project](https://longevity.stanford.edu/education-learning/) led by Professor Mitchell Stevens aimed at reimagining the existing educational infrastructure to more effectively integrate learning opportunities across the life course.
+* **within-school inequality:** how organizational decisions contribute to or reduce inequality among students within the same institution?
+* **learning across the life course:** how can adult learning and training help individuals navigate a rapidly changing labor market and advance social and economic mobility? 
+
+As a quantitative researcher trained in the growing field of computational social science, I am excited about leveraging new datasets and methodologies --- such as machine learning and agent-based simulations --- to produce rigorous evidence on questions of clear policy concern. 
+
+I am currently a Postdoctoral Scholar (New Map of Life Fellow) at the [Stanford Center on Longevity](https://longevity.stanford.edu/), where I work on a [project](https://learningsociety.io/) led by Professor Mitchell Stevens aimed at reimagining the existing educational infrastructure to more effectively integrate learning opportunities across the life course.
 
 I am originally from São Paulo, Brazil. I hold a Ph.D. in Sociology of Education from the New York University (2023) and a B.A. in Economics from the University of Wisconsin-Madison (2017).  
 
-Please navigate across the pages to learn about my research; teaching; and to access selected resources.
+Please navigate across the pages to learn about my research, teaching, and to access selected resources.
 
 </div>
 
@@ -179,13 +184,13 @@ Please navigate across the pages to learn about my research; teaching; and to ac
 
 <p1>Areas of Research</p1>
 
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> education policy
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> organizations
 <br>
 &emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> within-school inequality
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> adult education
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> career trajectories
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> career transitions
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> life-long learning
 
 ###
 
@@ -214,21 +219,22 @@ Column
 
 <p1> Peer-reviewed publications </p1>
 
-<div class="cardfig" data-paper="4">
+<div class="cardfig" data-paper="2">
 <titlebox>
-<p3>A critical appraisal of the evidence on racial disproportionality in special education </p3>
+<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework </p3>
 <br>
-Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 2025. *Exceptional Children*.
+<me>Joao Souto-Maior</me> and Ravi Shroff. 2024. *Sociological Science*.
 <br>
 <left>
-<button onclick="readMore1('4')" class="button" >more</button>
-<button onclick="location.href='https://journals.sagepub.com/doi/full/10.1177/00144029251350094'" target="_blank" class = "a2">PDF</button>
+<button onclick="readMore1('2')" class="button">more</button> 
+<button onclick="location.href='https://sociologicalscience.com/articles-v11-6-138/'" target="_blank" type = "button" class = "a2">PDF</button> 
+<button onclick="location.href='https://github.com/joaosoutomaior/diff-acad-prep-AP-code'" target="_blank" type = "button" class = "a2">code</button>
 </left>
 </titlebox>
-<br> 
+<br>
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
-**Abstract:** The under-representation of Black students in special education relative to White students has been identified by recent research as a key equity consideration. We provide six quantitative critiques of the extant literature that should give pause to researchers and policymakers who have concluded the under-representation in special education for Black students is a robust quantitative result. These six critiques are: (i) use of test scores as controls to create non-equivalent comparison groups, (ii) use of colliders as controls, (iii) overuse of same data exaggerates robustness, (iv) overused data are not accurate samples of special education population, (v) over-reliance on regression adjustment over other matching-type estimators, and (vi) inattention to generalizability and heterogeneity of special education placement differences. We identify specific research questions and potential approaches that are needed before firm conclusions about under-representation in special education can be reached.
+**Abstract:** Whether racial disparities in enrollment in advanced high school coursework can be attributed to differences in prior academic preparation is a central question in sociological research and education policy. However, previous investigations face methodological limitations, for they compare race-specific enrollment rates of students after adjusting for characteristics only partially related to their academic preparedness for advanced coursework. Informed by a recently-developed statistical technique, we propose and estimate a novel measure of students' academic preparedness and use administrative data from a large, urban, public school system to measure differences in AP mathematics enrollment rates among similarly prepared students of different races. We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics. Our results imply that achieving equal opportunities for AP enrollment not only requires equalizing earlier academic experiences, but also addressing inequities that emerge from coursework placement processes.
 </moredetails>
 </span>
 </div>
@@ -252,25 +258,25 @@ Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 2025. *Exceptional Ch
 </span>
 </div>
 
-<div class="cardfig" data-paper="2">
+<div class="cardfig" data-paper="4">
 <titlebox>
-<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework </p3>
+<p3>A critical appraisal of the evidence on racial disproportionality in special education </p3>
 <br>
-<me>Joao Souto-Maior</me> and Ravi Shroff. 2024. *Sociological Science*.
+Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 2025. *Exceptional Children*.
 <br>
 <left>
-<button onclick="readMore1('2')" class="button">more</button> 
-<button onclick="location.href='https://sociologicalscience.com/articles-v11-6-138/'" target="_blank" type = "button" class = "a2">PDF</button> 
-<button onclick="location.href='https://github.com/joaosoutomaior/diff-acad-prep-AP-code'" target="_blank" type = "button" class = "a2">code</button>
+<button onclick="readMore1('4')" class="button" >more</button>
+<button onclick="location.href='https://journals.sagepub.com/doi/full/10.1177/00144029251350094'" target="_blank" class = "a2">PDF</button>
 </left>
 </titlebox>
-<br>
+<br> 
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
-**Abstract:** Whether racial disparities in enrollment in advanced high school coursework can be attributed to differences in prior academic preparation is a central question in sociological research and education policy. However, previous investigations face methodological limitations, for they compare race-specific enrollment rates of students after adjusting for characteristics only partially related to their academic preparedness for advanced coursework. Informed by a recently-developed statistical technique, we propose and estimate a novel measure of students' academic preparedness and use administrative data from a large, urban, public school system to measure differences in AP mathematics enrollment rates among similarly prepared students of different races. We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics. Our results imply that achieving equal opportunities for AP enrollment not only requires equalizing earlier academic experiences, but also addressing inequities that emerge from coursework placement processes.
+**Abstract:** The under-representation of Black students in special education relative to White students has been identified by recent research as a key equity consideration. We provide six quantitative critiques of the extant literature that should give pause to researchers and policymakers who have concluded the under-representation in special education for Black students is a robust quantitative result. These six critiques are: (i) use of test scores as controls to create non-equivalent comparison groups, (ii) use of colliders as controls, (iii) overuse of same data exaggerates robustness, (iv) overused data are not accurate samples of special education population, (v) over-reliance on regression adjustment over other matching-type estimators, and (vi) inattention to generalizability and heterogeneity of special education placement differences. We identify specific research questions and potential approaches that are needed before firm conclusions about under-representation in special education can be reached.
 </moredetails>
 </span>
 </div>
+
 
 ###
 
@@ -278,7 +284,7 @@ Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 2025. *Exceptional Ch
 
 <div class="cardfig" data-paper="3">
 <titlebox>
-<p3>Conceptualizing educational opportunity hoarding: the emergence of hoarding without hoarders</p3>
+<p3>Hoarding without hoarders: opportunity hoarding in the absence of exclusionary behaviors. </p3>
 <br>
 <me>Joao Souto-Maior</me> (revise and resubmit). 
 <br>
@@ -527,7 +533,7 @@ The purpose of the project is to identify and explore the dynamics of the mechan
 
 <div class="card" data-item="2">
 <titlebox>
-<p3>coursework</p3>
+<p3>Coursework</p3>
 <br>
 Areas of concentration: school organization; quantitative methods.
 <br>
