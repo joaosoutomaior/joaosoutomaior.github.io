@@ -127,7 +127,7 @@ Column {data-width=300}
   break-inside: avoid-column;">
   
 <div class="figboxavatar">
-<img src="files/JSM_profile-pic.jpg"/>
+<img src="files/JSM_profile-pic.png"/>
 </div>
 <center>
 <p1> 
@@ -184,9 +184,9 @@ Please navigate across the pages to learn about my research, teaching, and to ac
 
 <p1>Areas of Research</p1>
 
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> organizations
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> education inequality
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> within-school inequality
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> organizations
 <br>
 &emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> career trajectories
 <br>
@@ -196,9 +196,9 @@ Please navigate across the pages to learn about my research, teaching, and to ac
 
 <p1>Methods</p1>
 
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> social simulation
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> applied statistics
 <br>
-&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> education data science
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> social simulation
 
 ###
 
@@ -219,22 +219,21 @@ Column
 
 <p1> Peer-reviewed publications </p1>
 
-<div class="cardfig" data-paper="2">
+<div class="cardfig" data-paper="3">
 <titlebox>
-<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework </p3>
+<p3>Hoarding without hoarders: opportunity hoarding in the absence of exclusionary behaviors. </p3>
 <br>
-<me>Joao Souto-Maior</me> and Ravi Shroff. 2024. *Sociological Science*.
+<me>Joao Souto-Maior</me>. 2026. *Rationality and Society*. 
 <br>
 <left>
-<button onclick="readMore1('2')" class="button">more</button> 
-<button onclick="location.href='https://sociologicalscience.com/articles-v11-6-138/'" target="_blank" type = "button" class = "a2">PDF</button> 
-<button onclick="location.href='https://github.com/joaosoutomaior/diff-acad-prep-AP-code'" target="_blank" type = "button" class = "a2">code</button>
+<button onclick="readMore1('3')" class="button" >more</button>
+<button onclick="location.href='https://journals.sagepub.com/doi/10.1177/10434631261417800'" target="_blank" class = "a2">preprint</button>
 </left>
 </titlebox>
-<br>
+<br> 
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
-**Abstract:** Whether racial disparities in enrollment in advanced high school coursework can be attributed to differences in prior academic preparation is a central question in sociological research and education policy. However, previous investigations face methodological limitations, for they compare race-specific enrollment rates of students after adjusting for characteristics only partially related to their academic preparedness for advanced coursework. Informed by a recently-developed statistical technique, we propose and estimate a novel measure of students' academic preparedness and use administrative data from a large, urban, public school system to measure differences in AP mathematics enrollment rates among similarly prepared students of different races. We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics. Our results imply that achieving equal opportunities for AP enrollment not only requires equalizing earlier academic experiences, but also addressing inequities that emerge from coursework placement processes.
+**Abstract:** This paper seeks to clarify the concept of opportunity hoarding as it applies to Black-White educational inequalities. Two prevailing interpretations stand out: a group-disparity interpretation, which treats opportunity hoarding as any process generating group differences, and an exclusionary-behaviors interpretation, which emphasizes how White actors secure advantages through exclusionary practices. I argue that the former is too broad — remaining vague about the underlying mechanisms — and the latter too narrow, overlooking what I term hoarding without hoarders, i.e., opportunity hoarding that arises even in the absence of exclusionary behaviors. I define opportunity hoarding as the relational processes that generate racial penalties in access to resources, i.e., disparities unexplained by previously formed individual differences. Using an agent-based model of racial disparities in advanced course-taking, this paper shows how network diffusion — under segregation, consolidation of race and socioeconomic status, and temporal constraints — can produce racial penalties even when behaviors are race-neutral. The framework highlights the need for scholars and policymakers to look beyond exclusionary acts in the hoarding of valuable resources.
 </moredetails>
 </span>
 </div>
@@ -277,39 +276,40 @@ Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 2025. *Exceptional Ch
 </span>
 </div>
 
+<div class="cardfig" data-paper="2">
+<titlebox>
+<p3>Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework </p3>
+<br>
+<me>Joao Souto-Maior</me> and Ravi Shroff. 2024. *Sociological Science*.
+<br>
+<left>
+<button onclick="readMore1('2')" class="button">more</button> 
+<button onclick="location.href='https://sociologicalscience.com/articles-v11-6-138/'" target="_blank" type = "button" class = "a2">PDF</button> 
+<button onclick="location.href='https://github.com/joaosoutomaior/diff-acad-prep-AP-code'" target="_blank" type = "button" class = "a2">code</button>
+</left>
+</titlebox>
+<br>
+<span class="dots"></span><span class="more" style="display: none">
+<moredetails>
+**Abstract:** Whether racial disparities in enrollment in advanced high school coursework can be attributed to differences in prior academic preparation is a central question in sociological research and education policy. However, previous investigations face methodological limitations, for they compare race-specific enrollment rates of students after adjusting for characteristics only partially related to their academic preparedness for advanced coursework. Informed by a recently-developed statistical technique, we propose and estimate a novel measure of students' academic preparedness and use administrative data from a large, urban, public school system to measure differences in AP mathematics enrollment rates among similarly prepared students of different races. We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics. Our results imply that achieving equal opportunities for AP enrollment not only requires equalizing earlier academic experiences, but also addressing inequities that emerge from coursework placement processes.
+</moredetails>
+</span>
+</div>
+
 
 ###
 
 <p1> Papers under review </p1>
 
-<div class="cardfig" data-paper="3">
-<titlebox>
-<p3>Hoarding without hoarders: opportunity hoarding in the absence of exclusionary behaviors. </p3>
-<br>
-<me>Joao Souto-Maior</me> (revise and resubmit). 
-<br>
-<left>
-<button onclick="readMore1('3')" class="button" >more</button>
-<button onclick="location.href='https://arxiv.org/pdf/2305.14653'" target="_blank" class = "a2">preprint</button>
-</left>
-</titlebox>
-<br> 
-<span class="dots"></span><span class="more" style="display: none">
-<moredetails>
-**Abstract:** Social scientists increasingly use the concept of opportunity hoarding to explain the formation of Black-White educational inequalities. However, this concept is often loosely defined, leading to varied interpretations of the inequality-producing mechanisms it captures. To bring clarity to this valuable sociological concept, this theoretical paper, informed by the concept’s original definition and existing empirical research, proposes a more precise definition of opportunity hoarding and formalizes it through a computational model. For concreteness, the model focuses on one context: how White families can hoard access to advanced high school coursework from Black students attending the same school. Through simulations, the paper highlights the necessary and sufficient conditions under which the hoarding of advanced course-taking opportunities emerges. Results demonstrate that, in contrast to traditional accounts, White actors do not need to engage in exclusionary behaviors to hoard valuable resources. Rather, through the byproduct of network segregation and class inequalities, opportunity hoarding can emerge even when individuals act in race-neutral ways — a process I conceptualize as hoarding without hoarders.
-</moredetails>
-</span>
-</div>
-
 <div class="cardfig" data-paper="5">
 <titlebox>
-<p3>The correlated proxy problem: why control variables can obscure the contribution of selection processes to group-level inequality </p3>
+<p3>IDEA-aligned estimates of racial disproportionality in special education versus conventional approaches: a cautionary note on included-variable bias when achievement and socioeconomic status proxy for special education need </p3>
 <br>
 <me>Joao Souto-Maior</me>, Kenneth Shores and Rachel Fish. 
 <br>
 <left>
 <button onclick="readMore1('5')" class="button" >more</button>
-<button onclick="location.href='https://edworkingpapers.com/sites/default/files/ai25-1120.pdf'" target="_blank" class = "a2">preprint</button>
+<button onclick="location.href='https://edworkingpapers.com/sites/default/files/ai26-1407.pdf'" target="_blank" class = "a2">preprint</button>
 </left>
 </titlebox>
 <br> 
