@@ -188,6 +188,8 @@ Please navigate across the pages to learn about my research, teaching, and to ac
 <br>
 &emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> organizations
 <br>
+&emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> social networks
+<br>
 &emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> career trajectories
 <br>
 &emsp; <i class="fa-solid fa-book" style="font-size: 8pt"></i> life-long learning
@@ -227,7 +229,8 @@ Column
 <br>
 <left>
 <button onclick="readMore1('3')" class="button" >more</button>
-<button onclick="location.href='https://journals.sagepub.com/doi/10.1177/10434631261417800'" target="_blank" class = "a2">preprint</button>
+<button onclick="location.href='https://journals.sagepub.com/doi/10.1177/10434631261417800'" target="_blank" class = "a2">PDFt</button>
+<button onclick="location.href='https://github.com/joaosoutomaior/hoarding-without-hoarders-code'" target="_blank" type = "button" class = "a2">code</button>
 </left>
 </titlebox>
 <br> 
@@ -247,6 +250,7 @@ Column
 <left>
 <button onclick="readMore1('1')" class="button" >more</button>
 <button onclick="location.href='https://www.tandfonline.com/doi/full/10.1080/0022250X.2025.2458304?src=exp-la'" target="_blank" class = "a2">PDF</button>
+<button onclick="location.href='https://github.com/joaosoutomaior/racial-comp-within-school-inequality-code'" target="_blank" type = "button" class = "a2">code</button>
 </left>
 </titlebox>
 <br>
@@ -315,7 +319,7 @@ Rachel Fish, Kenneth Shores and <me>Joao Souto-Maior</me>. 2025. *Exceptional Ch
 <br> 
 <span class="dots"></span><span class="more" style="display: none">
 <moredetails>
-**Abstract:** Whether selection processes contribute to group-level disparities or merely reflect pre-existing inequalities is an important societal question. In the context of observational data, researchers, concerned about omitted-variable bias, assess selection-contributing inequality via a kitchen-sink approach, comparing selection outcomes of different-group individuals net of various characteristics. We introduce a conceptual framework that clearly defines the quantity of interest and argue that researchers should only control for the extent to which individuals meet selection criteria. Informed by this framework, we use directed acyclic graphs and structural equation modeling to show that traditional practices can inaccurately represent selection-contributing inequality because chosen controls frequently capture selection-irrelevant characteristics, which we define as the correlated proxy problem. Using Black-White disproportionality in special education as a case study, we show that typical practices of using test scores as covariates likely drastically underestimate the influence of selection-contributing inequality to Black over-representation in special education.
+**Abstract:** Racial disproportionality in special education is a contested policy space. Federal oversight has traditionally focused on minority over-representation through IDEA’s significant disproportionality framework. However, observational studies report that Black students appear under-identified based on a canonical model that regresses special education receipt on race and controls, notably prior achievement and socioeconomic status (SES). Drawing on this evidence, recent federal proposals would scale back oversight tied to significant disproportionality determinations. We formalize an IDEA-aligned estimand and show analytically that the canonical model recovers it only under strong assumptions. Most notably, it requires that the residual Black--White achievement gap net of SES reflects a gap in disability-related need rather than residual differences in opportunity to learn and other exclusionary factors. In simulations calibrated to empirically plausible environments, the canonical model overstates Black under-representation to an extent sufficient to fully account for previously reported levels. This bias stems from over-controlling for components of social inequality IDEA regards as distinct from disability. We further show popular sensitivity analyses perform poorly in addressing this issue. The implication is that negative coefficients from standard adjustments should not be interpreted as evidence of IDEA-aligned under-service without designs that better separate disability from opportunity. 
 </moredetails>
 </span>
 </div>
