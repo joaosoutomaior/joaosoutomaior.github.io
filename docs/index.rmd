@@ -164,10 +164,10 @@ Column {data-width=700}
 
 Welcome to my website!
 
-I am an educational data scientist who investigates the formation of unequal learning opportunities across multiple stages of the life course and how these disparities might be mitigated. My research centers on two core areas: 
+I am an educational data scientist who investigates the formation of unequal learning opportunities across the life course and how these disparities might be mitigated. My research centers on two core areas: 
 
 * **within-school inequality:** how organizational decisions contribute to or reduce inequality among students within the same institution?
-* **learning across the life course:** how can adult learning and training help individuals navigate a rapidly changing labor market and advance social and economic mobility? 
+* **adult learning and reskilling:** how can educational interventions help workers navigate a rapidly changing labor market and advance economic mobility?
 
 As a quantitative researcher trained in the growing field of computational social science, I am excited about leveraging new datasets and methodologies --- such as machine learning and agent-based simulations --- to produce rigorous evidence on questions of clear policy concern. 
 
@@ -229,7 +229,7 @@ Column
 <br>
 <left>
 <button onclick="readMore1('3')" class="button" >more</button>
-<button onclick="location.href='https://journals.sagepub.com/doi/10.1177/10434631261417800'" target="_blank" class = "a2">PDFt</button>
+<button onclick="location.href='https://journals.sagepub.com/doi/10.1177/10434631261417800'" target="_blank" class = "a2">PDF</button>
 <button onclick="location.href='https://github.com/joaosoutomaior/hoarding-without-hoarders-code'" target="_blank" type = "button" class = "a2">code</button>
 </left>
 </titlebox>
