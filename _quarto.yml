@@ -8,6 +8,9 @@ website:
   title: "João Souto-Maior"
   site-url: "https://joaosoutomaior.github.io"
   favicon: files/JSM_profile-pic.png
+  description: "João M. Souto-Maior — economist at the Burning Glass Institute. Research on learning opportunities, the changing labor market, and economic mobility."
+  open-graph: true
+  twitter-card: true
 
 format:
   html:
