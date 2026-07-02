@@ -1,0 +1,17 @@
+---
+pagetitle: "João Souto-Maior"
+---
+
+{{< include _header.qmd >}}
+
+```{=html}
+<style>.site-nav .nav-home { text-decoration: underline; }</style>
+```
+
+I study how students and workers can better navigate a rapidly changing labor market and advance economic mobility. Rapid technological change and lengthening working lives are reshaping careers, education, and retirement. I am motivated to produce research that helps us navigate this challenging (and exciting) economic moment.
+
+### Background
+
+I was trained at the intersection of sociology and economics, with a technical specialization in computational social science. I hold a Ph.D. in Sociology of Education from New York University (2023), and a B.A. in Economics from the University of Wisconsin–Madison (2017). My work leverages large-scale data, simulation-based approaches, and formal theory.
+
+Before joining Burning Glass, I was a postdoctoral scholar at the [Stanford Center on Longevity](https://longevity.stanford.edu/), an experience that fundamentally shaped my research on the changing life course.

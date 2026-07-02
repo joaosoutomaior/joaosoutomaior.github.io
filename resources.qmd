@@ -1,0 +1,41 @@
+---
+pagetitle: "Resources · João Souto-Maior"
+---
+
+{{< include _nav.qmd >}}
+
+```{=html}
+<style>.site-nav .nav-other { text-decoration: underline; }</style>
+```
+
+## New books network (NBN) podcast
+
+::: {.entry}
+I am a host of New Books in Education, a channel of the [New Books Network](https://newbooksnetwork.com/), which is the largest book podcast network in the world, reaching hundreds of thousands of listeners a month and with listeners downloading well over a million NBN episodes each month. The purpose of NBN interviews is to allow authors to tell the audience what they found in their research and what they wrote in their books. It is a wonderful idea, connecting authors with a large audience worldwide, and advancing the broad goal of public education.
+
+[<i class="bi bi-mic"></i> My episodes](https://newbooksnetwork.com/hosts/profile/8b8ec5a3-bdb5-43ca-ada6-3fc2f82f9af5){.btn-link}
+:::
+
+## A dashboard of inequality in Sao Paulo high schools
+
+::: {.entry}
+This is an analytics application to report how high schools in the metropolitan region of Sao Paulo performed in the 2019 national high school exam (ENEM). There is a special focus on socioeconomic and racial achievement gaps. This app is the product of my project for the course Bulding Learning Analytics Applications (2022) at NYU.
+
+[<i class="bi bi-bar-chart"></i> Dashboard](https://joaomsoutomaior.shinyapps.io/SaoPaulo_HighSchools_ENEM2019/){.btn-link}
+:::
+
+## PhD coursework
+
+::: {.entry}
+My PhD coursework focused on quantitative methodology, including traditional econometrics, social network analysis, machine learning, and agent-based models.
+
+[<i class="bi bi-file-earmark-text"></i> Course list](files/JSM_PhD-coursework.pdf){.btn-link}
+:::
+
+## PhD dissertation: "Essays on the dynamics of Black-White advanced course-taking inequalities"
+
+::: {.entry}
+The purpose of the project is to identify and explore the dynamics of the mechanisms generating Black-White advanced course-taking inequalities within schools. The project constructs a series of qualitatively-informed agent-based models which explore the conditions which foster/hinder the emergence of these inequalities. Models are empirically calibrated and validated according to national data from US schools.
+
+Committee members: L'Heureux Lewis-McCoy (Chair), Samuel Lucas, Erez Hatna, Ravi Shroff.
+:::

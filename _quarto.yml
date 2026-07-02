@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+
+website:
+  title: "João Souto-Maior"
+  site-url: "https://joaosoutomaior.github.io"
+  favicon: files/JSM_profile-pic.png
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: false
+    grid:
+      body-width: 800px
+    link-external-newwindow: true
+    anchor-sections: false

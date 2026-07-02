@@ -1,0 +1,3 @@
+::: {.site-nav}
+[home](index.qmd){.nav-home} &nbsp;·&nbsp; [research](research.qmd){.nav-research} &nbsp;·&nbsp; [teaching](teaching.qmd){.nav-teaching} &nbsp;·&nbsp; [other](resources.qmd){.nav-other}
+:::

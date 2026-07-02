@@ -1,0 +1,78 @@
+---
+pagetitle: "Teaching · João Souto-Maior"
+---
+
+{{< include _nav.qmd >}}
+
+```{=html}
+<style>.site-nav .nav-teaching { text-decoration: underline; }</style>
+```
+
+## Laboratory instructor
+
+::: {.entry}
+::: {.entry-title}
+Undergraduate basic statistics
+:::
+::: {.entry-meta}
+New York University --- from Spring 2019 to Spring 2021
+:::
+[<i class="bi bi-journal-text"></i> Notes](https://bookdown.org/joao_msoutomaior/intro-stats-notes){.btn-link}
+[<i class="bi bi-file-earmark-text"></i> Syllabus S-21](files/syllabus_Basic-Stats_Spring2021.pdf){.btn-link}
+:::
+
+## Teaching assistant
+
+::: {.entry}
+::: {.entry-title}
+Introduction to US education: historical and contemporary perspectives
+:::
+::: {.entry-meta}
+New York University --- Fall 2022
+:::
+[<i class="bi bi-file-earmark-text"></i> Syllabus F-22](files/syllabus_US-Ed_Fall-2022.pdf){.btn-link}
+:::
+
+::: {.entry}
+::: {.entry-title}
+Political economy of education: why does college cost so much?
+:::
+::: {.entry-meta}
+New York University --- Fall 2022
+:::
+[<i class="bi bi-file-earmark-text"></i> Syllabus F-22](files/syllabus_College-Costs_Fall-2022.pdf){.btn-link}
+:::
+
+::: {.entry}
+::: {.entry-title}
+Qualitative methods in international education
+:::
+::: {.entry-meta}
+New York University --- Spring 2022
+:::
+[<i class="bi bi-file-earmark-text"></i> Syllabus S-22](files/syllabus_Qual-Methods_Spring2022.pdf){.btn-link}
+:::
+
+## Seminar leader
+
+::: {.entry}
+::: {.entry-title}
+URS seminar: research, creative work and the public good
+:::
+::: {.entry-meta}
+University of Wisconsin-Madison --- 2016-17
+:::
+[<i class="bi bi-file-earmark-text"></i> Syllabus F-16](files/syllabus_URS_Fall2016.pdf){.btn-link}
+[<i class="bi bi-file-earmark-text"></i> Syllabus S-17](files/syllabus_URS_Spring2017.pdf){.btn-link}
+:::
+
+::: {.entry}
+::: {.entry-title}
+URS seminar: research and creative work at the boundaries
+:::
+::: {.entry-meta}
+University of Wisconsin-Madison --- 2015-16
+:::
+[<i class="bi bi-file-earmark-text"></i> Syllabus F-15](files/syllabus_URS_Fall2015.pdf){.btn-link}
+[<i class="bi bi-file-earmark-text"></i> Syllabus S-16](files/syllabus_URS_Spring2016.pdf){.btn-link}
+:::

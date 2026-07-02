@@ -1,0 +1,70 @@
+---
+pagetitle: "Research · João Souto-Maior"
+---
+
+{{< include _nav.qmd >}}
+
+```{=html}
+<style>.site-nav .nav-research { text-decoration: underline; }</style>
+```
+
+::::::: {.publications}
+
+## Peer-reviewed publications
+
+::: {.entry}
+::: {.entry-title}
+**[4]** "Hoarding without hoarders: opportunity hoarding in the absence of exclusionary behaviors"
+:::
+::: {.entry-meta}
+[João Souto-Maior]{.me}. 2026. *Rationality and Society*.
+:::
+[<i class="bi bi-file-earmark-pdf"></i> PDF](https://journals.sagepub.com/doi/10.1177/10434631261417800){.btn-link .btn-fill}
+[<i class="bi bi-code-slash"></i> Code](https://github.com/joaosoutomaior/hoarding-without-hoarders-code){.btn-link}
+:::
+
+::: {.entry}
+::: {.entry-title}
+**[3]** "School racial composition and the emergence of Black-White within-school inequalities: network-based foundations"
+:::
+::: {.entry-meta}
+[João Souto-Maior]{.me}. 2026. *The Journal of Mathematical Sociology*.
+:::
+[<i class="bi bi-file-earmark-pdf"></i> PDF](https://www.tandfonline.com/doi/full/10.1080/0022250X.2025.2458304?src=exp-la){.btn-link .btn-fill}
+[<i class="bi bi-code-slash"></i> Code](https://github.com/joaosoutomaior/racial-comp-within-school-inequality-code){.btn-link}
+:::
+
+::: {.entry}
+::: {.entry-title}
+**[2]** "A critical appraisal of the evidence on racial disproportionality in special education"
+:::
+::: {.entry-meta}
+Rachel Fish, Kenneth Shores and [João Souto-Maior]{.me}. 2025. *Exceptional Children*.
+:::
+[<i class="bi bi-file-earmark-pdf"></i> PDF](https://journals.sagepub.com/doi/full/10.1177/00144029251350094){.btn-link .btn-fill}
+:::
+
+::: {.entry}
+::: {.entry-title}
+**[1]** "Differences in academic preparedness do not fully explain Black-White enrollment disparities in advanced high school coursework"
+:::
+::: {.entry-meta}
+[João Souto-Maior]{.me} and Ravi Shroff. 2024. *Sociological Science*.
+:::
+[<i class="bi bi-file-earmark-pdf"></i> PDF](https://sociologicalscience.com/articles-v11-6-138/){.btn-link .btn-fill}
+[<i class="bi bi-code-slash"></i> Code](https://github.com/joaosoutomaior/diff-acad-prep-AP-code){.btn-link}
+:::
+
+## Working papers
+
+::: {.entry}
+::: {.entry-title}
+**[1]** "IDEA-aligned estimates of racial disproportionality in special education versus conventional approaches: a cautionary note on included-variable bias when achievement and socioeconomic status proxy for special education need"
+:::
+::: {.entry-meta}
+[João Souto-Maior]{.me}, Kenneth Shores and Rachel Fish.
+:::
+[<i class="bi bi-file-earmark-pdf"></i> PDF](https://edworkingpapers.com/sites/default/files/ai26-1407.pdf){.btn-link .btn-fill}
+:::
+
+:::::::
