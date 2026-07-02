@@ -1,7 +1,6 @@
 ---
 pagetitle: "João Souto-Maior"
-description: "João M. Souto-Maior — economist at the Burning Glass Institute. Research on learning opportunities, the changing labor market, and economic mobility."
-author: "João M. Souto-Maior"
+description-meta: "João M. Souto-Maior — economist at the Burning Glass Institute. Research on learning opportunities, the changing labor market, and economic mobility."
 ---
 
 {{< include _header.qmd >}}
